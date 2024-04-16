@@ -1,0 +1,10341 @@
+"Phrases"
+{
+	// MT Chat Color Placeholders
+	// --
+	// Note: Not all phrases support these placeholders.
+	// --
+	// "{default}" - Normal -> \x01
+	// --
+	// "{mint}" - Sky-green -> \x03
+	// --
+	// "{yellow}" - Yellow-orange -> \x04
+	// --
+	// "{olive}" - Yellow-green -> \x05
+	// --
+	// "{percent}" - "%%" -> %
+
+	"Tank #1 Name"
+	{
+		"jp"			"Absorber Tank"
+	}
+
+	"Boomer #1 Name"
+	{
+		"jp"			"Absorber Boomer"
+	}
+
+	"Charger #1 Name"
+	{
+		"jp"			"Absorber Charger"
+	}
+
+	"Hunter #1 Name"
+	{
+		"jp"			"Absorber Hunter"
+	}
+
+	"Jockey #1 Name"
+	{
+		"jp"			"Absorber Jockey"
+	}
+
+	"Smoker #1 Name"
+	{
+		"jp"			"Absorber Smoker"
+	}
+
+	"Spitter #1 Name"
+	{
+		"jp"			"Absorber Spitter"
+	}
+
+	"Witch #1 Name"
+	{
+		"jp"			"Absorber Witch"
+	}
+
+	"Tank #1"
+	{
+		"jp"			"{mint}このタンクはほぼ全てのダメージを吸収します。"
+	}
+
+	"Boomer #1"
+	{
+		"jp"			"{mint}This Boomer can absorb most of the damage it receives."
+	}
+
+	"Charger #1"
+	{
+		"jp"			"{mint}This Charger can absorb most of the damage it receives."
+	}
+
+	"Hunter #1"
+	{
+		"jp"			"{mint}This Hunter can absorb most of the damage it receives."
+	}
+
+	"Jockey #1"
+	{
+		"jp"			"{mint}This Jockey can absorb most of the damage it receives."
+	}
+
+	"Smoker #1"
+	{
+		"jp"			"{mint}This Smoker can absorb most of the damage it receives."
+	}
+
+	"Spitter #1"
+	{
+		"jp"			"{mint}This Spitter can absorb most of the damage it receives."
+	}
+
+	"Witch #1"
+	{
+		"jp"			"{mint}This Witch can absorb most of the damage it receives."
+	}
+
+	"Tank #2 Name"
+	{
+		"jp"			"Acidic Tank"
+	}
+
+	"Boomer #2 Name"
+	{
+		"jp"			"Acidic Boomer"
+	}
+
+	"Charger #2 Name"
+	{
+		"jp"			"Acidic Charger"
+	}
+
+	"Hunter #2 Name"
+	{
+		"jp"			"Acidic Hunter"
+	}
+
+	"Jockey #2 Name"
+	{
+		"jp"			"Acidic Jockey"
+	}
+
+	"Smoker #2 Name"
+	{
+		"jp"			"Acidic Smoker"
+	}
+
+	"Spitter #2 Name"
+	{
+		"jp"			"Acidic Spitter"
+	}
+
+	"Witch #2 Name"
+	{
+		"jp"			"Acidic Witch"
+	}
+
+	"Tank #2"
+	{
+		"jp"			"{mint}このタンクは生存者の下に酸の水たまりを生成します。"
+	}
+
+	"Boomer #2"
+	{
+		"jp"			"{mint}This Boomer can create acid puddles underneath survivors."
+	}
+
+	"Charger #2"
+	{
+		"jp"			"{mint}This Charger can create acid puddles underneath survivors."
+	}
+
+	"Hunter #2"
+	{
+		"jp"			"{mint}This Hunter can create acid puddles underneath survivors."
+	}
+
+	"Jockey #2"
+	{
+		"jp"			"{mint}This Jockey can create acid puddles underneath survivors."
+	}
+
+	"Smoker #2"
+	{
+		"jp"			"{mint}This Smoker can create acid puddles underneath survivors."
+	}
+
+	"Spitter #2"
+	{
+		"jp"			"{mint}This Spitter can create acid puddles underneath survivors."
+	}
+
+	"Witch #2"
+	{
+		"jp"			"{mint}This Witch can create acid puddles underneath survivors."
+	}
+
+	"Tank #3 Name"
+	{
+		"jp"			"Aimless Tank"
+	}
+
+	"Boomer #3 Name"
+	{
+		"jp"			"Aimless Boomer"
+	}
+
+	"Charger #3 Name"
+	{
+		"jp"			"Aimless Charger"
+	}
+
+	"Hunter #3 Name"
+	{
+		"jp"			"Aimless Hunter"
+	}
+
+	"Jockey #3 Name"
+	{
+		"jp"			"Aimless Jockey"
+	}
+
+	"Smoker #3 Name"
+	{
+		"jp"			"Aimless Smoker"
+	}
+
+	"Spitter #3 Name"
+	{
+		"jp"			"Aimless Spitter"
+	}
+
+	"Witch #3 Name"
+	{
+		"jp"			"Aimless Witch"
+	}
+
+	"Tank #3"
+	{
+		"jp"			"{mint}このタンクは生存者のAIMを妨害します。"
+	}
+
+	"Boomer #3"
+	{
+		"jp"			"{mint}This Boomer can prevent survivors from aiming."
+	}
+
+	"Charger #3"
+	{
+		"jp"			"{mint}This Charger can prevent survivors from aiming."
+	}
+
+	"Hunter #3"
+	{
+		"jp"			"{mint}This Hunter can prevent survivors from aiming."
+	}
+
+	"Jockey #3"
+	{
+		"jp"			"{mint}This Jockey can prevent survivors from aiming."
+	}
+
+	"Smoker #3"
+	{
+		"jp"			"{mint}This Smoker can prevent survivors from aiming."
+	}
+
+	"Spitter #3"
+	{
+		"jp"			"{mint}This Spitter can prevent survivors from aiming."
+	}
+
+	"Witch #3"
+	{
+		"jp"			"{mint}This Witch can prevent survivors from aiming."
+	}
+
+	"Tank #4 Name"
+	{
+		"jp"			"Ammo Tank"
+	}
+
+	"Boomer #4 Name"
+	{
+		"jp"			"Ammo Boomer"
+	}
+
+	"Charger #4 Name"
+	{
+		"jp"			"Ammo Charger"
+	}
+
+	"Hunter #4 Name"
+	{
+		"jp"			"Ammo Hunter"
+	}
+
+	"Jockey #4 Name"
+	{
+		"jp"			"Ammo Jockey"
+	}
+
+	"Smoker #4 Name"
+	{
+		"jp"			"Ammo Smoker"
+	}
+
+	"Spitter #4 Name"
+	{
+		"jp"			"Ammo Spitter"
+	}
+
+	"Witch #4 Name"
+	{
+		"jp"			"Ammo Witch"
+	}
+
+	"Tank #4"
+	{
+		"jp"			"{mint}このタンクは一部または全ての弾を盗み取ります。"
+	}
+
+	"Boomer #4"
+	{
+		"jp"			"{mint}This Boomer can steal some or all of your ammunition."
+	}
+
+	"Charger #4"
+	{
+		"jp"			"{mint}This Charger can steal some or all of your ammunition."
+	}
+
+	"Hunter #4"
+	{
+		"jp"			"{mint}This Hunter can steal some or all of your ammunition."
+	}
+
+	"Jockey #4"
+	{
+		"jp"			"{mint}This Jockey can steal some or all of your ammunition."
+	}
+
+	"Smoker #4"
+	{
+		"jp"			"{mint}This Smoker can steal some or all of your ammunition."
+	}
+
+	"Spitter #4"
+	{
+		"jp"			"{mint}This Spitter can steal some or all of your ammunition."
+	}
+
+	"Witch #4"
+	{
+		"jp"			"{mint}This Witch can steal some or all of your ammunition."
+	}
+
+	"Tank #5 Name"
+	{
+		"jp"			"Blind Tank"
+	}
+
+	"Boomer #5 Name"
+	{
+		"jp"			"Blind Boomer"
+	}
+
+	"Charger #5 Name"
+	{
+		"jp"			"Blind Charger"
+	}
+
+	"Hunter #5 Name"
+	{
+		"jp"			"Blind Hunter"
+	}
+
+	"Jockey #5 Name"
+	{
+		"jp"			"Blind Jockey"
+	}
+
+	"Smoker #5 Name"
+	{
+		"jp"			"Blind Smoker"
+	}
+
+	"Spitter #5 Name"
+	{
+		"jp"			"Blind Spitter"
+	}
+
+	"Witch #5 Name"
+	{
+		"jp"			"Blind Witch"
+	}
+
+	"Tank #5"
+	{
+		"jp"			"{mint}このタンクは生存者の目を見えなくします。"
+	}
+
+	"Boomer #5"
+	{
+		"jp"			"{mint}This Boomer can blind survivors."
+	}
+
+	"Charger #5"
+	{
+		"jp"			"{mint}This Charger can blind survivors."
+	}
+
+	"Hunter #5"
+	{
+		"jp"			"{mint}This Hunter can blind survivors."
+	}
+
+	"Jockey #5"
+	{
+		"jp"			"{mint}This Jockey can blind survivors."
+	}
+
+	"Smoker #5"
+	{
+		"jp"			"{mint}This Smoker can blind survivors."
+	}
+
+	"Spitter #5"
+	{
+		"jp"			"{mint}This Spitter can blind survivors."
+	}
+
+	"Witch #5"
+	{
+		"jp"			"{mint}This Witch can blind survivors."
+	}
+
+	"Tank #6 Name"
+	{
+		"jp"			"Bomber Tank"
+	}
+
+	"Boomer #6 Name"
+	{
+		"jp"			"Bomber Boomer"
+	}
+
+	"Charger #6 Name"
+	{
+		"jp"			"Bomber Charger"
+	}
+
+	"Hunter #6 Name"
+	{
+		"jp"			"Bomber Hunter"
+	}
+
+	"Jockey #6 Name"
+	{
+		"jp"			"Bomber Jockey"
+	}
+
+	"Smoker #6 Name"
+	{
+		"jp"			"Bomber Smoker"
+	}
+
+	"Spitter #6 Name"
+	{
+		"jp"			"Bomber Spitter"
+	}
+
+	"Witch #6 Name"
+	{
+		"jp"			"Bomber Witch"
+	}
+
+	"Tank #6"
+	{
+		"jp"			"{mint}このタンクは攻撃時に爆発を発生させ、自身も爆発ダメージへの耐性を持っています。"
+	}
+
+	"Boomer #6"
+	{
+		"jp"			"{mint}This Boomer can cause explosions and is immune to explosive damage."
+	}
+
+	"Charger #6"
+	{
+		"jp"			"{mint}This Charger can cause explosions and is immune to explosive damage."
+	}
+
+	"Hunter #6"
+	{
+		"jp"			"{mint}This Hunter can cause explosions and is immune to explosive damage."
+	}
+
+	"Jockey #6"
+	{
+		"jp"			"{mint}This Jockey can cause explosions and is immune to explosive damage."
+	}
+
+	"Smoker #6"
+	{
+		"jp"			"{mint}This Smoker can cause explosions and is immune to explosive damage."
+	}
+
+	"Spitter #6"
+	{
+		"jp"			"{mint}This Spitter can cause explosions and is immune to explosive damage."
+	}
+
+	"Witch #6"
+	{
+		"jp"			"{mint}This Witch can cause explosions and is immune to explosive damage."
+	}
+
+	"Tank #7 Name"
+	{
+		"jp"			"Boomer Tank"
+	}
+
+	"Boomer #7 Name"
+	{
+		"jp"			"Boomer Boomer"
+	}
+
+	"Charger #7 Name"
+	{
+		"jp"			"Boomer Charger"
+	}
+
+	"Hunter #7 Name"
+	{
+		"jp"			"Boomer Hunter"
+	}
+
+	"Jockey #7 Name"
+	{
+		"jp"			"Boomer Jockey"
+	}
+
+	"Smoker #7 Name"
+	{
+		"jp"			"Boomer Smoker"
+	}
+
+	"Spitter #7 Name"
+	{
+		"jp"			"Boomer Spitter"
+	}
+
+	"Witch #7 Name"
+	{
+		"jp"			"Boomer Witch"
+	}
+
+	"Tank #7"
+	{
+		"jp"			"{mint}このタンクは自身の背後にブーマーをスポーンさせ、生存者に対してもブーマーを投げつけることができます。"
+	}
+
+	"Boomer #7"
+	{
+		"jp"			"{mint}This Boomer can spawn Boomers behind it."
+	}
+
+	"Charger #7"
+	{
+		"jp"			"{mint}This Charger can spawn Boomers behind it."
+	}
+
+	"Hunter #7"
+	{
+		"jp"			"{mint}This Hunter can spawn Boomers behind it."
+	}
+
+	"Jockey #7"
+	{
+		"jp"			"{mint}This Jockey can spawn Boomers behind it."
+	}
+
+	"Smoker #7"
+	{
+		"jp"			"{mint}This Smoker can spawn Boomers behind it."
+	}
+
+	"Spitter #7"
+	{
+		"jp"			"{mint}This Spitter can spawn Boomers behind it."
+	}
+
+	"Witch #7"
+	{
+		"jp"			"{mint}This Witch can spawn Boomers behind it."
+	}
+
+	"Tank #8 Name"
+	{
+		"jp"			"Bulletproof Tank"
+	}
+
+	"Boomer #8 Name"
+	{
+		"jp"			"Bulletproof Boomer"
+	}
+
+	"Charger #8 Name"
+	{
+		"jp"			"Bulletproof Charger"
+	}
+
+	"Hunter #8 Name"
+	{
+		"jp"			"Bulletproof Hunter"
+	}
+
+	"Jockey #8 Name"
+	{
+		"jp"			"Bulletproof Jockey"
+	}
+
+	"Smoker #8 Name"
+	{
+		"jp"			"Bulletproof Smoker"
+	}
+
+	"Spitter #8 Name"
+	{
+		"jp"			"Bulletproof Spitter"
+	}
+
+	"Witch #8 Name"
+	{
+		"jp"			"Bulletproof Witch"
+	}
+
+	"Tank #8"
+	{
+		"jp"			"{mint}このタンクは弾丸によるダメージに耐性を持っています。"
+	}
+
+	"Boomer #8"
+	{
+		"jp"			"{mint}This Boomer is immune to bullet damage."
+	}
+
+	"Charger #8"
+	{
+		"jp"			"{mint}This Charger is immune to bullet damage."
+	}
+
+	"Hunter #8"
+	{
+		"jp"			"{mint}This Hunter is immune to bullet damage."
+	}
+
+	"Jockey #8"
+	{
+		"jp"			"{mint}This Jockey is immune to bullet damage."
+	}
+
+	"Smoker #8"
+	{
+		"jp"			"{mint}This Smoker is immune to bullet damage."
+	}
+
+	"Spitter #8"
+	{
+		"jp"			"{mint}This Spitter is immune to bullet damage."
+	}
+
+	"Witch #8"
+	{
+		"jp"			"{mint}This Witch is immune to bullet damage."
+	}
+
+	"Tank #9 Name"
+	{
+		"jp"			"Burier Tank"
+	}
+
+	"Boomer #9 Name"
+	{
+		"jp"			"Burier Boomer"
+	}
+
+	"Charger #9 Name"
+	{
+		"jp"			"Burier Charger"
+	}
+
+	"Hunter #9 Name"
+	{
+		"jp"			"Burier Hunter"
+	}
+
+	"Jockey #9 Name"
+	{
+		"jp"			"Burier Jockey"
+	}
+
+	"Smoker #9 Name"
+	{
+		"jp"			"Burier Smoker"
+	}
+
+	"Spitter #9 Name"
+	{
+		"jp"			"Burier Spitter"
+	}
+
+	"Witch #9 Name"
+	{
+		"jp"			"Burier Witch"
+	}
+
+	"Tank #9"
+	{
+		"jp"			"{mint}このタンクは生存者を地中に埋め込みます。"
+	}
+
+	"Boomer #9"
+	{
+		"jp"			"{mint}This Boomer can bury survivors."
+	}
+
+	"Charger #9"
+	{
+		"jp"			"{mint}This Charger can bury survivors."
+	}
+
+	"Hunter #9"
+	{
+		"jp"			"{mint}This Hunter can bury survivors."
+	}
+
+	"Jockey #9"
+	{
+		"jp"			"{mint}This Jockey can bury survivors."
+	}
+
+	"Smoker #9"
+	{
+		"jp"			"{mint}This Smoker can bury survivors."
+	}
+
+	"Spitter #9"
+	{
+		"jp"			"{mint}This Spitter can bury survivors."
+	}
+
+	"Witch #9"
+	{
+		"jp"			"{mint}This Witch can bury survivors."
+	}
+
+	"Tank #10 Name"
+	{
+		"jp"			"Car Tank"
+	}
+
+	"Boomer #10 Name"
+	{
+		"jp"			"Car Boomer"
+	}
+
+	"Charger #10 Name"
+	{
+		"jp"			"Car Charger"
+	}
+
+	"Hunter #10 Name"
+	{
+		"jp"			"Car Hunter"
+	}
+
+	"Jockey #10 Name"
+	{
+		"jp"			"Car Jockey"
+	}
+
+	"Smoker #10 Name"
+	{
+		"jp"			"Car Smoker"
+	}
+
+	"Spitter #10 Name"
+	{
+		"jp"			"Car Spitter"
+	}
+
+	"Witch #10 Name"
+	{
+		"jp"			"Car Witch"
+	}
+
+	"Tank #10"
+	{
+		"jp"			"{mint}このタンクは生存者に対して車を投げつけることができます。 投げつけられた車は30秒で消滅します。"
+	}
+
+	"Boomer #10"
+	{
+		"jp"			"{mint}This Boomer can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Charger #10"
+	{
+		"jp"			"{mint}This Charger can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Hunter #10"
+	{
+		"jp"			"{mint}This Hunter can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Jockey #10"
+	{
+		"jp"			"{mint}This Jockey can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Smoker #10"
+	{
+		"jp"			"{mint}This Smoker can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Spitter #10"
+	{
+		"jp"			"{mint}This Spitter can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Witch #10"
+	{
+		"jp"			"{mint}This Witch can start car showers. The cars disappear after 30 seconds."
+	}
+
+	"Tank #11 Name"
+	{
+		"jp"			"Charger Tank"
+	}
+
+	"Boomer #11 Name"
+	{
+		"jp"			"Charger Boomer"
+	}
+
+	"Charger #11 Name"
+	{
+		"jp"			"Charger Charger"
+	}
+
+	"Hunter #11 Name"
+	{
+		"jp"			"Charger Hunter"
+	}
+
+	"Jockey #11 Name"
+	{
+		"jp"			"Charger Jockey"
+	}
+
+	"Smoker #11 Name"
+	{
+		"jp"			"Charger Smoker"
+	}
+
+	"Spitter #11 Name"
+	{
+		"jp"			"Charger Spitter"
+	}
+
+	"Witch #11 Name"
+	{
+		"jp"			"Charger Witch"
+	}
+
+	"Tank #11"
+	{
+		"jp"			"{mint}このタンクは自身の背後にチャージャーをスポーンさせ、生存者に対してもチャージャーを投げつけることができます。"
+	}
+
+	"Boomer #11"
+	{
+		"jp"			"{mint}This Boomer can spawn Chargers behind it."
+	}
+
+	"Charger #11"
+	{
+		"jp"			"{mint}This Charger can spawn Chargers behind it."
+	}
+
+	"Hunter #11"
+	{
+		"jp"			"{mint}This Hunter can spawn Chargers behind it."
+	}
+
+	"Jockey #11"
+	{
+		"jp"			"{mint}This Jockey can spawn Chargers behind it."
+	}
+
+	"Smoker #11"
+	{
+		"jp"			"{mint}This Smoker can spawn Chargers behind it."
+	}
+
+	"Spitter #11"
+	{
+		"jp"			"{mint}This Spitter can spawn Chargers behind it."
+	}
+
+	"Witch #11"
+	{
+		"jp"			"{mint}This Witch can spawn Chargers behind it."
+	}
+
+	"Tank #12 Name"
+	{
+		"jp"			"Choker Tank"
+	}
+
+	"Boomer #12 Name"
+	{
+		"jp"			"Choker Boomer"
+	}
+
+	"Charger #12 Name"
+	{
+		"jp"			"Choker Charger"
+	}
+
+	"Hunter #12 Name"
+	{
+		"jp"			"Choker Hunter"
+	}
+
+	"Jockey #12 Name"
+	{
+		"jp"			"Choker Jockey"
+	}
+
+	"Smoker #12 Name"
+	{
+		"jp"			"Choker Smoker"
+	}
+
+	"Spitter #12 Name"
+	{
+		"jp"			"Choker Spitter"
+	}
+
+	"Witch #12 Name"
+	{
+		"jp"			"Choker Witch"
+	}
+
+	"Tank #12"
+	{
+		"jp"			"{mint}このタンクは生存者を空中で絞めつけます。"
+	}
+
+	"Boomer #12"
+	{
+		"jp"			"{mint}This Boomer can choke survivors in the air."
+	}
+
+	"Charger #12"
+	{
+		"jp"			"{mint}This Charger can choke survivors in the air."
+	}
+
+	"Hunter #12"
+	{
+		"jp"			"{mint}This Hunter can choke survivors in the air."
+	}
+
+	"Jockey #12"
+	{
+		"jp"			"{mint}This Jockey can choke survivors in the air."
+	}
+
+	"Smoker #12"
+	{
+		"jp"			"{mint}This Smoker can choke survivors in the air."
+	}
+
+	"Spitter #12"
+	{
+		"jp"			"{mint}This Spitter can choke survivors in the air."
+	}
+
+	"Witch #12"
+	{
+		"jp"			"{mint}This Witch can choke survivors in the air."
+	}
+
+	"Tank #13 Name"
+	{
+		"jp"			"Clone Tank"
+	}
+
+	"Boomer #13 Name"
+	{
+		"jp"			"Clone Boomer"
+	}
+
+	"Charger #13 Name"
+	{
+		"jp"			"Clone Charger"
+	}
+
+	"Hunter #13 Name"
+	{
+		"jp"			"Clone Hunter"
+	}
+
+	"Jockey #13 Name"
+	{
+		"jp"			"Clone Jockey"
+	}
+
+	"Smoker #13 Name"
+	{
+		"jp"			"Clone Smoker"
+	}
+
+	"Spitter #13 Name"
+	{
+		"jp"			"Clone Spitter"
+	}
+
+	"Witch #13 Name"
+	{
+		"jp"			"Clone Witch"
+	}
+
+	"Tank #13"
+	{
+		"jp"			"{mint}このタンクは自身の背後に自身のクローンをスポーンさせ、生存者に対してももクローンを投げつけることができます。"
+	}
+
+	"Boomer #13"
+	{
+		"jp"			"{mint}This Boomer can spawn clones behind it."
+	}
+
+	"Charger #13"
+	{
+		"jp"			"{mint}This Charger can spawn clones behind it."
+	}
+
+	"Hunter #13"
+	{
+		"jp"			"{mint}This Hunter can spawn clones behind it."
+	}
+
+	"Jockey #13"
+	{
+		"jp"			"{mint}This Jockey can spawn clones behind it."
+	}
+
+	"Smoker #13"
+	{
+		"jp"			"{mint}This Smoker can spawn clones behind it."
+	}
+
+	"Spitter #13"
+	{
+		"jp"			"{mint}This Spitter can spawn clones behind it."
+	}
+
+	"Witch #13"
+	{
+		"jp"			"{mint}This Witch can spawn clones behind it."
+	}
+
+	"Tank #14 Name"
+	{
+		"jp"			"Cloudy Tank"
+	}
+
+	"Boomer #14 Name"
+	{
+		"jp"			"Cloudy Boomer"
+	}
+
+	"Charger #14 Name"
+	{
+		"jp"			"Cloudy Charger"
+	}
+
+	"Hunter #14 Name"
+	{
+		"jp"			"Cloudy Hunter"
+	}
+
+	"Jockey #14 Name"
+	{
+		"jp"			"Cloudy Jockey"
+	}
+
+	"Smoker #14 Name"
+	{
+		"jp"			"Cloudy Smoker"
+	}
+
+	"Spitter #14 Name"
+	{
+		"jp"			"Cloudy Spitter"
+	}
+
+	"Witch #14 Name"
+	{
+		"jp"			"Cloudy Witch"
+	}
+
+	"Tank #14"
+	{
+		"jp"			"{mint}このタンクは煙の塊を発生させ、その中にいる生存者にダメージを与えます。"
+	}
+
+	"Boomer #14"
+	{
+		"jp"			"{mint}This Boomer can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Charger #14"
+	{
+		"jp"			"{mint}This Charger can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Hunter #14"
+	{
+		"jp"			"{mint}This Hunter can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Jockey #14"
+	{
+		"jp"			"{mint}This Jockey can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Smoker #14"
+	{
+		"jp"			"{mint}This Smoker can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Spitter #14"
+	{
+		"jp"			"{mint}This Spitter can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Witch #14"
+	{
+		"jp"			"{mint}This Witch can emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"Tank #15 Name"
+	{
+		"jp"			"Dropper Tank"
+	}
+
+	"Boomer #15 Name"
+	{
+		"jp"			"Dropper Boomer"
+	}
+
+	"Charger #15 Name"
+	{
+		"jp"			"Dropper Charger"
+	}
+
+	"Hunter #15 Name"
+	{
+		"jp"			"Dropper Hunter"
+	}
+
+	"Jockey #15 Name"
+	{
+		"jp"			"Dropper Jockey"
+	}
+
+	"Smoker #15 Name"
+	{
+		"jp"			"Dropper Smoker"
+	}
+
+	"Spitter #15 Name"
+	{
+		"jp"			"Dropper Spitter"
+	}
+
+	"Witch #15 Name"
+	{
+		"jp"			"Dropper Witch"
+	}
+
+	"Tank #15"
+	{
+		"jp"			"{mint}このタンクは死亡時にランダムな武器を落とします。"
+	}
+
+	"Boomer #15"
+	{
+		"jp"			"{mint}This Boomer can drop a random weapon upon death."
+	}
+
+	"Charger #15"
+	{
+		"jp"			"{mint}This Charger can drop a random weapon upon death."
+	}
+
+	"Hunter #15"
+	{
+		"jp"			"{mint}This Hunter can drop a random weapon upon death."
+	}
+
+	"Jockey #15"
+	{
+		"jp"			"{mint}This Jockey can drop a random weapon upon death."
+	}
+
+	"Smoker #15"
+	{
+		"jp"			"{mint}This Smoker can drop a random weapon upon death."
+	}
+
+	"Spitter #15"
+	{
+		"jp"			"{mint}This Spitter can drop a random weapon upon death."
+	}
+
+	"Witch #15"
+	{
+		"jp"			"{mint}This Witch can drop a random weapon upon death."
+	}
+
+	"Tank #16 Name"
+	{
+		"jp"			"Drugger Tank"
+	}
+
+	"Boomer #16 Name"
+	{
+		"jp"			"Drugger Boomer"
+	}
+
+	"Charger #16 Name"
+	{
+		"jp"			"Drugger Charger"
+	}
+
+	"Hunter #16 Name"
+	{
+		"jp"			"Drugger Hunter"
+	}
+
+	"Jockey #16 Name"
+	{
+		"jp"			"Drugger Jockey"
+	}
+
+	"Smoker #16 Name"
+	{
+		"jp"			"Drugger Smoker"
+	}
+
+	"Spitter #16 Name"
+	{
+		"jp"			"Drugger Spitter"
+	}
+
+	"Witch #16 Name"
+	{
+		"jp"			"Drugger Witch"
+	}
+
+	"Tank #16"
+	{
+		"jp"			"{mint}このタンクは生存者をドラッグ状態にします。"
+	}
+
+	"Boomer #16"
+	{
+		"jp"			"{mint}This Boomer can drug survivors."
+	}
+
+	"Charger #16"
+	{
+		"jp"			"{mint}This Charger can drug survivors."
+	}
+
+	"Hunter #16"
+	{
+		"jp"			"{mint}This Hunter can drug survivors."
+	}
+
+	"Jockey #16"
+	{
+		"jp"			"{mint}This Jockey can drug survivors."
+	}
+
+	"Smoker #16"
+	{
+		"jp"			"{mint}This Smoker can drug survivors."
+	}
+
+	"Spitter #16"
+	{
+		"jp"			"{mint}This Spitter can drug survivors."
+	}
+
+	"Witch #16"
+	{
+		"jp"			"{mint}This Witch can drug survivors."
+	}
+
+	"Tank #17 Name"
+	{
+		"jp"			"Drunk Tank"
+	}
+
+	"Boomer #17 Name"
+	{
+		"jp"			"Drunk Boomer"
+	}
+
+	"Charger #17 Name"
+	{
+		"jp"			"Drunk Charger"
+	}
+
+	"Hunter #17 Name"
+	{
+		"jp"			"Drunk Hunter"
+	}
+
+	"Jockey #17 Name"
+	{
+		"jp"			"Drunk Jockey"
+	}
+
+	"Smoker #17 Name"
+	{
+		"jp"			"Drunk Smoker"
+	}
+
+	"Spitter #17 Name"
+	{
+		"jp"			"Drunk Spitter"
+	}
+
+	"Witch #17 Name"
+	{
+		"jp"			"Drunk Witch"
+	}
+
+	"Tank #17"
+	{
+		"jp"			"{mint}このタンクは生存者を酔っ払わせます。"
+	}
+
+	"Boomer #17"
+	{
+		"jp"			"{mint}This Boomer can make survivors drunk."
+	}
+
+	"Charger #17"
+	{
+		"jp"			"{mint}This Charger can make survivors drunk."
+	}
+
+	"Hunter #17"
+	{
+		"jp"			"{mint}This Hunter can make survivors drunk."
+	}
+
+	"Jockey #17"
+	{
+		"jp"			"{mint}This Jockey can make survivors drunk."
+	}
+
+	"Smoker #17"
+	{
+		"jp"			"{mint}This Smoker can make survivors drunk."
+	}
+
+	"Spitter #17"
+	{
+		"jp"			"{mint}This Spitter can make survivors drunk."
+	}
+
+	"Witch #17"
+	{
+		"jp"			"{mint}This Witch can make survivors drunk."
+	}
+
+	"Tank #18 Name"
+	{
+		"jp"			"Electric Tank"
+	}
+
+	"Boomer #18 Name"
+	{
+		"jp"			"Electric Boomer"
+	}
+
+	"Charger #18 Name"
+	{
+		"jp"			"Electric Charger"
+	}
+
+	"Hunter #18 Name"
+	{
+		"jp"			"Electric Hunter"
+	}
+
+	"Jockey #18 Name"
+	{
+		"jp"			"Electric Jockey"
+	}
+
+	"Smoker #18 Name"
+	{
+		"jp"			"Electric Smoker"
+	}
+
+	"Spitter #18 Name"
+	{
+		"jp"			"Electric Spitter"
+	}
+
+	"Witch #18 Name"
+	{
+		"jp"			"Electric Witch"
+	}
+
+	"Tank #18"
+	{
+		"jp"			"{mint}このタンクは生存者を感電させます。"
+	}
+
+	"Boomer #18"
+	{
+		"jp"			"{mint}This Boomer can electrocute survivors."
+	}
+
+	"Charger #18"
+	{
+		"jp"			"{mint}This Charger can electrocute survivors."
+	}
+
+	"Hunter #18"
+	{
+		"jp"			"{mint}This Hunter can electrocute survivors."
+	}
+
+	"Jockey #18"
+	{
+		"jp"			"{mint}This Jockey can electrocute survivors."
+	}
+
+	"Smoker #18"
+	{
+		"jp"			"{mint}This Smoker can electrocute survivors."
+	}
+
+	"Spitter #18"
+	{
+		"jp"			"{mint}This Spitter can electrocute survivors."
+	}
+
+	"Witch #18"
+	{
+		"jp"			"{mint}This Witch can electrocute survivors."
+	}
+
+	"Tank #19 Name"
+	{
+		"jp"			"Enforcer Tank"
+	}
+
+	"Boomer #19 Name"
+	{
+		"jp"			"Enforcer Boomer"
+	}
+
+	"Charger #19 Name"
+	{
+		"jp"			"Enforcer Charger"
+	}
+
+	"Hunter #19 Name"
+	{
+		"jp"			"Enforcer Hunter"
+	}
+
+	"Jockey #19 Name"
+	{
+		"jp"			"Enforcer Jockey"
+	}
+
+	"Smoker #19 Name"
+	{
+		"jp"			"Enforcer Smoker"
+	}
+
+	"Spitter #19 Name"
+	{
+		"jp"			"Enforcer Spitter"
+	}
+
+	"Witch #19 Name"
+	{
+		"jp"			"Enforcer Witch"
+	}
+
+	"Tank #19"
+	{
+		"jp"			"{mint}このタンクは一定時間の間特定のスロットの武器を強制的に装備させます。"
+	}
+
+	"Boomer #19"
+	{
+		"jp"			"{mint}This Boomer can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Charger #19"
+	{
+		"jp"			"{mint}This Charger can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Hunter #19"
+	{
+		"jp"			"{mint}This Hunter can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Jockey #19"
+	{
+		"jp"			"{mint}This Jockey can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Smoker #19"
+	{
+		"jp"			"{mint}This Smoker can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Spitter #19"
+	{
+		"jp"			"{mint}This Spitter can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Witch #19"
+	{
+		"jp"			"{mint}This Witch can force survivors to equip a specific weapon slot for a certain period of time."
+	}
+
+	"Tank #20 Name"
+	{
+		"jp"			"Fast Tank"
+	}
+
+	"Boomer #20 Name"
+	{
+		"jp"			"Fast Boomer"
+	}
+
+	"Charger #20 Name"
+	{
+		"jp"			"Fast Charger"
+	}
+
+	"Hunter #20 Name"
+	{
+		"jp"			"Fast Hunter"
+	}
+
+	"Jockey #20 Name"
+	{
+		"jp"			"Fast Jockey"
+	}
+
+	"Smoker #20 Name"
+	{
+		"jp"			"Fast Smoker"
+	}
+
+	"Spitter #20 Name"
+	{
+		"jp"			"Fast Spitter"
+	}
+
+	"Witch #20 Name"
+	{
+		"jp"			"Fast Witch"
+	}
+
+	"Tank #20"
+	{
+		"jp"			"{mint}このタンクは閃光のように物凄いスピードで走ることが出来ます。"
+	}
+
+	"Boomer #20"
+	{
+		"jp"			"{mint}This Boomer can run really fast like the Flash."
+	}
+
+	"Charger #20"
+	{
+		"jp"			"{mint}This Charger can run really fast like the Flash."
+	}
+
+	"Hunter #20"
+	{
+		"jp"			"{mint}This Hunter can run really fast like the Flash."
+	}
+
+	"Jockey #20"
+	{
+		"jp"			"{mint}This Jockey can run really fast like the Flash."
+	}
+
+	"Smoker #20"
+	{
+		"jp"			"{mint}This Smoker can run really fast like the Flash."
+	}
+
+	"Spitter #20"
+	{
+		"jp"			"{mint}This Spitter can run really fast like the Flash."
+	}
+
+	"Witch #20"
+	{
+		"jp"			"{mint}This Witch can run really fast like the Flash."
+	}
+
+	"Tank #21 Name"
+	{
+		"jp"			"Fireproof Tank"
+	}
+
+	"Boomer #21 Name"
+	{
+		"jp"			"Fireproof Boomer"
+	}
+
+	"Charger #21 Name"
+	{
+		"jp"			"Fireproof Charger"
+	}
+
+	"Hunter #21 Name"
+	{
+		"jp"			"Fireproof Hunter"
+	}
+
+	"Jockey #21 Name"
+	{
+		"jp"			"Fireproof Jockey"
+	}
+
+	"Smoker #21 Name"
+	{
+		"jp"			"Fireproof Smoker"
+	}
+
+	"Spitter #21 Name"
+	{
+		"jp"			"Fireproof Spitter"
+	}
+
+	"Witch #21 Name"
+	{
+		"jp"			"Fireproof Witch"
+	}
+
+	"Tank #21"
+	{
+		"jp"			"{mint}このタンクは周辺を炎上させ、自身も炎上ダメージに耐性を持っています。"
+	}
+
+	"Boomer #21"
+	{
+		"jp"			"{mint}This Boomer can start fires and is immune to fire damage."
+	}
+
+	"Charger #21"
+	{
+		"jp"			"{mint}This Charger can start fires and is immune to fire damage."
+	}
+
+	"Hunter #21"
+	{
+		"jp"			"{mint}This Hunter can start fires and is immune to fire damage."
+	}
+
+	"Jockey #21"
+	{
+		"jp"			"{mint}This Jockey can start fires and is immune to fire damage."
+	}
+
+	"Smoker #21"
+	{
+		"jp"			"{mint}This Smoker can start fires and is immune to fire damage."
+	}
+
+	"Spitter #21"
+	{
+		"jp"			"{mint}This Spitter can start fires and is immune to fire damage."
+	}
+
+	"Witch #21"
+	{
+		"jp"			"{mint}This Witch can start fires and is immune to fire damage."
+	}
+
+	"Tank #22 Name"
+	{
+		"jp"			"Flinger Tank"
+	}
+
+	"Boomer #22 Name"
+	{
+		"jp"			"Flinger Boomer"
+	}
+
+	"Charger #22 Name"
+	{
+		"jp"			"Flinger Charger"
+	}
+
+	"Hunter #22 Name"
+	{
+		"jp"			"Flinger Hunter"
+	}
+
+	"Jockey #22 Name"
+	{
+		"jp"			"Flinger Jockey"
+	}
+
+	"Smoker #22 Name"
+	{
+		"jp"			"Flinger Smoker"
+	}
+
+	"Spitter #22 Name"
+	{
+		"jp"			"Flinger Spitter"
+	}
+
+	"Witch #22 Name"
+	{
+		"jp"			"Flinger Witch"
+	}
+
+	"Tank #22"
+	{
+		"jp"			"{mint}このタンクは生存者を遠く、もしくは空中へ投げ飛ばします。"
+	}
+
+	"Boomer #22"
+	{
+		"jp"			"{mint}This Boomer can fling survivors away or into the air."
+	}
+
+	"Charger #22"
+	{
+		"jp"			"{mint}This Charger can fling survivors away or into the air."
+	}
+
+	"Hunter #22"
+	{
+		"jp"			"{mint}This Hunter can fling survivors away or into the air."
+	}
+
+	"Jockey #22"
+	{
+		"jp"			"{mint}This Jockey can fling survivors away or into the air."
+	}
+
+	"Smoker #22"
+	{
+		"jp"			"{mint}This Smoker can fling survivors away or into the air."
+	}
+
+	"Spitter #22"
+	{
+		"jp"			"{mint}This Spitter can fling survivors away or into the air."
+	}
+
+	"Witch #22"
+	{
+		"jp"			"{mint}This Witch can fling survivors away or into the air."
+	}
+
+	"Tank #23 Name"
+	{
+		"jp"			"Flying Tank"
+	}
+
+	"Boomer #23 Name"
+	{
+		"jp"			"Flying Boomer"
+	}
+
+	"Charger #23 Name"
+	{
+		"jp"			"Flying Charger"
+	}
+
+	"Hunter #23 Name"
+	{
+		"jp"			"Flying Hunter"
+	}
+
+	"Jockey #23 Name"
+	{
+		"jp"			"Flying Jockey"
+	}
+
+	"Smoker #23 Name"
+	{
+		"jp"			"Flying Smoker"
+	}
+
+	"Spitter #23 Name"
+	{
+		"jp"			"Flying Spitter"
+	}
+
+	"Witch #23 Name"
+	{
+		"jp"			"Flying Witch"
+	}
+
+	"Tank #23"
+	{
+		"jp"			"{mint}このタンクは攻撃対象を飛行しながら探し回ります。"
+	}
+
+	"Boomer #23"
+	{
+		"jp"			"{mint}This Boomer flies around looking for victims."
+	}
+
+	"Charger #23"
+	{
+		"jp"			"{mint}This Charger flies around looking for victims."
+	}
+
+	"Hunter #23"
+	{
+		"jp"			"{mint}This Hunter flies around looking for victims."
+	}
+
+	"Jockey #23"
+	{
+		"jp"			"{mint}This Jockey flies around looking for victims."
+	}
+
+	"Smoker #23"
+	{
+		"jp"			"{mint}This Smoker flies around looking for victims."
+	}
+
+	"Spitter #23"
+	{
+		"jp"			"{mint}This Spitter flies around looking for victims."
+	}
+
+	"Witch #23"
+	{
+		"jp"			"{mint}This Witch flies around looking for victims."
+	}
+
+	"Tank #24 Name"
+	{
+		"jp"			"Fragile Tank"
+	}
+
+	"Boomer #24 Name"
+	{
+		"jp"			"Fragile Boomer"
+	}
+
+	"Charger #24 Name"
+	{
+		"jp"			"Fragile Charger"
+	}
+
+	"Hunter #24 Name"
+	{
+		"jp"			"Fragile Hunter"
+	}
+
+	"Jockey #24 Name"
+	{
+		"jp"			"Fragile Jockey"
+	}
+
+	"Smoker #24 Name"
+	{
+		"jp"			"Fragile Smoker"
+	}
+
+	"Spitter #24 Name"
+	{
+		"jp"			"Fragile Spitter"
+	}
+
+	"Witch #24 Name"
+	{
+		"jp"			"Fragile Witch"
+	}
+
+	"Tank #24"
+	{
+		"jp"			"{mint}このタンクは被ダメージを増加させる代わりに一時的に生存者に対するダメージと移動速度を増加させます。"
+	}
+
+	"Boomer #24"
+	{
+		"jp"			"{mint}This Boomer takes extra damage while dealing more damage and running faster."
+	}
+
+	"Charger #24"
+	{
+		"jp"			"{mint}This Charger takes extra damage while dealing more damage and running faster."
+	}
+
+	"Hunter #24"
+	{
+		"jp"			"{mint}This Hunter takes extra damage while dealing more damage and running faster."
+	}
+
+	"Jockey #24"
+	{
+		"jp"			"{mint}This Jockey takes extra damage while dealing more damage and running faster."
+	}
+
+	"Smoker #24"
+	{
+		"jp"			"{mint}This Smoker takes extra damage while dealing more damage and running faster."
+	}
+
+	"Spitter #24"
+	{
+		"jp"			"{mint}This Spitter takes extra damage while dealing more damage and running faster."
+	}
+
+	"Witch #24"
+	{
+		"jp"			"{mint}This Witch takes extra damage while dealing more damage and running faster."
+	}
+
+	"Tank #25 Name"
+	{
+		"jp"			"Ghost Tank"
+	}
+
+	"Boomer #25 Name"
+	{
+		"jp"			"Ghost Boomer"
+	}
+
+	"Charger #25 Name"
+	{
+		"jp"			"Ghost Charger"
+	}
+
+	"Hunter #25 Name"
+	{
+		"jp"			"Ghost Hunter"
+	}
+
+	"Jockey #25 Name"
+	{
+		"jp"			"Ghost Jockey"
+	}
+
+	"Smoker #25 Name"
+	{
+		"jp"			"Ghost Smoker"
+	}
+
+	"Spitter #25 Name"
+	{
+		"jp"			"Ghost Spitter"
+	}
+
+	"Witch #25 Name"
+	{
+		"jp"			"Ghost Witch"
+	}
+
+	"Tank #25"
+	{
+		"jp"			"{mint}このタンクは自身を透明化することができ、生存者の武装を解除できます。"
+	}
+
+	"Boomer #25"
+	{
+		"jp"			"{mint}This Boomer can cloak itself and disarm survivors."
+	}
+
+	"Charger #25"
+	{
+		"jp"			"{mint}This Charger can cloak itself and disarm survivors."
+	}
+
+	"Hunter #25"
+	{
+		"jp"			"{mint}This Hunter can cloak itself and disarm survivors."
+	}
+
+	"Jockey #25"
+	{
+		"jp"			"{mint}This Jockey can cloak itself and disarm survivors."
+	}
+
+	"Smoker #25"
+	{
+		"jp"			"{mint}This Smoker can cloak itself and disarm survivors."
+	}
+
+	"Spitter #25"
+	{
+		"jp"			"{mint}This Spitter can cloak itself and disarm survivors."
+	}
+
+	"Witch #25"
+	{
+		"jp"			"{mint}This Witch can cloak itself and disarm survivors."
+	}
+
+	"Tank #26 Name"
+	{
+		"jp"			"Godly Tank"
+	}
+
+	"Boomer #26 Name"
+	{
+		"jp"			"Godly Boomer"
+	}
+
+	"Charger #26 Name"
+	{
+		"jp"			"Godly Charger"
+	}
+
+	"Hunter #26 Name"
+	{
+		"jp"			"Godly Hunter"
+	}
+
+	"Jockey #26 Name"
+	{
+		"jp"			"Godly Jockey"
+	}
+
+	"Smoker #26 Name"
+	{
+		"jp"			"Godly Smoker"
+	}
+
+	"Spitter #26 Name"
+	{
+		"jp"			"Godly Spitter"
+	}
+
+	"Witch #26 Name"
+	{
+		"jp"			"Godly Witch"
+	}
+
+	"Tank #26"
+	{
+		"jp"			"{mint}このタンクは一時的に無敵になることが出来ます。"
+	}
+
+	"Boomer #26"
+	{
+		"jp"			"{mint}This Boomer can gain temporary invincibility."
+	}
+
+	"Charger #26"
+	{
+		"jp"			"{mint}This Charger can gain temporary invincibility."
+	}
+
+	"Hunter #26"
+	{
+		"jp"			"{mint}This Hunter can gain temporary invincibility."
+	}
+
+	"Jockey #26"
+	{
+		"jp"			"{mint}This Jockey can gain temporary invincibility."
+	}
+
+	"Smoker #26"
+	{
+		"jp"			"{mint}This Smoker can gain temporary invincibility."
+	}
+
+	"Spitter #26"
+	{
+		"jp"			"{mint}This Spitter can gain temporary invincibility."
+	}
+
+	"Witch #26"
+	{
+		"jp"			"{mint}This Witch can gain temporary invincibility."
+	}
+
+	"Tank #27 Name"
+	{
+		"jp"			"Gravity Tank"
+	}
+
+	"Boomer #27 Name"
+	{
+		"jp"			"Gravity Boomer"
+	}
+
+	"Charger #27 Name"
+	{
+		"jp"			"Gravity Charger"
+	}
+
+	"Hunter #27 Name"
+	{
+		"jp"			"Gravity Hunter"
+	}
+
+	"Jockey #27 Name"
+	{
+		"jp"			"Gravity Jockey"
+	}
+
+	"Smoker #27 Name"
+	{
+		"jp"			"Gravity Smoker"
+	}
+
+	"Spitter #27 Name"
+	{
+		"jp"			"Gravity Spitter"
+	}
+
+	"Witch #27 Name"
+	{
+		"jp"			"Gravity Witch"
+	}
+
+	"Tank #27"
+	{
+		"jp"			"{mint}このタンクは生存者と感染者を自身の元へ引き寄せます。また、生存者の重力を低下させます。"
+	}
+
+	"Boomer #27"
+	{
+		"jp"			"{mint}This Boomer can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Charger #27"
+	{
+		"jp"			"{mint}This Charger can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Hunter #27"
+	{
+		"jp"			"{mint}This Hunter can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Jockey #27"
+	{
+		"jp"			"{mint}This Jockey can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Smoker #27"
+	{
+		"jp"			"{mint}This Smoker can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Spitter #27"
+	{
+		"jp"			"{mint}This Spitter can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Witch #27"
+	{
+		"jp"			"{mint}This Witch can pull survivors and infected towards it and lower survivors' gravity."
+	}
+
+	"Tank #28 Name"
+	{
+		"jp"			"Gunner Tank"
+	}
+
+	"Boomer #28 Name"
+	{
+		"jp"			"Gunner Boomer"
+	}
+
+	"Charger #28 Name"
+	{
+		"jp"			"Gunner Charger"
+	}
+
+	"Hunter #28 Name"
+	{
+		"jp"			"Gunner Hunter"
+	}
+
+	"Jockey #28 Name"
+	{
+		"jp"			"Gunner Jockey"
+	}
+
+	"Smoker #28 Name"
+	{
+		"jp"			"Gunner Smoker"
+	}
+
+	"Spitter #28 Name"
+	{
+		"jp"			"Gunner Spitter"
+	}
+
+	"Witch #28 Name"
+	{
+		"jp"			"Gunner Witch"
+	}
+
+	"Tank #28"
+	{
+		"jp"			"{mint}このタンクは銃を装備し生存者に対して銃撃を行います。"
+	}
+
+	"Boomer #28"
+	{
+		"jp"			"{mint}This Boomer can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Charger #28"
+	{
+		"jp"			"{mint}This Charger can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Hunter #28"
+	{
+		"jp"			"{mint}This Hunter can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Jockey #28"
+	{
+		"jp"			"{mint}This Jockey can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Smoker #28"
+	{
+		"jp"			"{mint}This Smoker can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Spitter #28"
+	{
+		"jp"			"{mint}This Spitter can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Witch #28"
+	{
+		"jp"			"{mint}This Witch can arm itself with guns and fire gunshots at survivors."
+	}
+
+	"Tank #29 Name"
+	{
+		"jp"			"Healthy Tank"
+	}
+
+	"Boomer #29 Name"
+	{
+		"jp"			"Healthy Boomer"
+	}
+
+	"Charger #29 Name"
+	{
+		"jp"			"Healthy Charger"
+	}
+
+	"Hunter #29 Name"
+	{
+		"jp"			"Healthy Hunter"
+	}
+
+	"Jockey #29 Name"
+	{
+		"jp"			"Healthy Jockey"
+	}
+
+	"Smoker #29 Name"
+	{
+		"jp"			"Healthy Smoker"
+	}
+
+	"Spitter #29 Name"
+	{
+		"jp"			"Healthy Spitter"
+	}
+
+	"Witch #29 Name"
+	{
+		"jp"			"Healthy Witch"
+	}
+
+	"Tank #29"
+	{
+		"jp"			"{mint}このタンクは生存者に一時的な追加HPを与え、周辺の感染者からHPを吸収します。"
+	}
+
+	"Boomer #29"
+	{
+		"jp"			"{mint}This Boomer can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Charger #29"
+	{
+		"jp"			"{mint}This Charger can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Hunter #29"
+	{
+		"jp"			"{mint}This Hunter can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Jockey #29"
+	{
+		"jp"			"{mint}This Jockey can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Smoker #29"
+	{
+		"jp"			"{mint}This Smoker can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Spitter #29"
+	{
+		"jp"			"{mint}This Spitter can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Witch #29"
+	{
+		"jp"			"{mint}This Witch can give survivors temporary health, and it can absorb health from nearby infected."
+	}
+
+	"Tank #30 Name"
+	{
+		"jp"			"Hitter Tank"
+	}
+
+	"Boomer #30 Name"
+	{
+		"jp"			"Hitter Boomer"
+	}
+
+	"Charger #30 Name"
+	{
+		"jp"			"Hitter Charger"
+	}
+
+	"Hunter #30 Name"
+	{
+		"jp"			"Hitter Hunter"
+	}
+
+	"Jockey #30 Name"
+	{
+		"jp"			"Hitter Jockey"
+	}
+
+	"Smoker #30 Name"
+	{
+		"jp"			"Hitter Smoker"
+	}
+
+	"Spitter #30 Name"
+	{
+		"jp"			"Hitter Spitter"
+	}
+
+	"Witch #30 Name"
+	{
+		"jp"			"Hitter Witch"
+	}
+
+	"Tank #30"
+	{
+		"jp"			"{mint}このタンクはヘッドショット以外のダメージを無効化します。"
+	}
+
+	"Boomer #30"
+	{
+		"jp"			"{mint}This Boomer can only be damaged by headshots."
+	}
+
+	"Charger #30"
+	{
+		"jp"			"{mint}This Charger can only be damaged by headshots."
+	}
+
+	"Hunter #30"
+	{
+		"jp"			"{mint}This Hunter can only be damaged by headshots."
+	}
+
+	"Jockey #30"
+	{
+		"jp"			"{mint}This Jockey can only be damaged by headshots."
+	}
+
+	"Smoker #30"
+	{
+		"jp"			"{mint}This Smoker can only be damaged by headshots."
+	}
+
+	"Spitter #30"
+	{
+		"jp"			"{mint}This Spitter can only be damaged by headshots."
+	}
+
+	"Witch #30"
+	{
+		"jp"			"{mint}This Witch can only be damaged by headshots."
+	}
+
+	"Tank #31 Name"
+	{
+		"jp"			"Hunter Tank"
+	}
+
+	"Boomer #31 Name"
+	{
+		"jp"			"Hunter Boomer"
+	}
+
+	"Charger #31 Name"
+	{
+		"jp"			"Hunter Charger"
+	}
+
+	"Hunter #31 Name"
+	{
+		"jp"			"Hunter Hunter"
+	}
+
+	"Jockey #31 Name"
+	{
+		"jp"			"Hunter Jockey"
+	}
+
+	"Smoker #31 Name"
+	{
+		"jp"			"Hunter Smoker"
+	}
+
+	"Spitter #31 Name"
+	{
+		"jp"			"Hunter Spitter"
+	}
+
+	"Witch #31 Name"
+	{
+		"jp"			"Hunter Witch"
+	}
+
+	"Tank #31"
+	{
+		"jp"			"{mint}このタンクは自身の背後にハンターをスポーンさせ、生存者に対してもハンターを投げつけることができます。"
+	}
+
+	"Boomer #31"
+	{
+		"jp"			"{mint}This Boomer can spawn Hunters behind it."
+	}
+
+	"Charger #31"
+	{
+		"jp"			"{mint}This Charger can spawn Hunters behind it."
+	}
+
+	"Hunter #31"
+	{
+		"jp"			"{mint}This Hunter can spawn Hunters behind it."
+	}
+
+	"Jockey #31"
+	{
+		"jp"			"{mint}This Jockey can spawn Hunters behind it."
+	}
+
+	"Smoker #31"
+	{
+		"jp"			"{mint}This Smoker can spawn Hunters behind it."
+	}
+
+	"Spitter #31"
+	{
+		"jp"			"{mint}This Spitter can spawn Hunters behind it."
+	}
+
+	"Witch #31"
+	{
+		"jp"			"{mint}This Witch can spawn Hunters behind it."
+	}
+
+	"Tank #32 Name"
+	{
+		"jp"			"Hurtful Tank"
+	}
+
+	"Boomer #32 Name"
+	{
+		"jp"			"Hurtful Boomer"
+	}
+
+	"Charger #32 Name"
+	{
+		"jp"			"Hurtful Charger"
+	}
+
+	"Hunter #32 Name"
+	{
+		"jp"			"Hurtful Hunter"
+	}
+
+	"Jockey #32 Name"
+	{
+		"jp"			"Hurtful Jockey"
+	}
+
+	"Smoker #32 Name"
+	{
+		"jp"			"Hurtful Smoker"
+	}
+
+	"Spitter #32 Name"
+	{
+		"jp"			"Hurtful Spitter"
+	}
+
+	"Witch #32 Name"
+	{
+		"jp"			"Hurtful Witch"
+	}
+
+	"Tank #32"
+	{
+		"jp"			"{mint}このタンクは一定時間ごとに生存者に対しダメージを与えます。"
+	}
+
+	"Boomer #32"
+	{
+		"jp"			"{mint}This Boomer can constantly hurt survivors for a certain period of time."
+	}
+
+	"Charger #32"
+	{
+		"jp"			"{mint}This Charger can constantly hurt survivors for a certain period of time."
+	}
+
+	"Hunter #32"
+	{
+		"jp"			"{mint}This Hunter can constantly hurt survivors for a certain period of time."
+	}
+
+	"Jockey #32"
+	{
+		"jp"			"{mint}This Jockey can constantly hurt survivors for a certain period of time."
+	}
+
+	"Smoker #32"
+	{
+		"jp"			"{mint}This Smoker can constantly hurt survivors for a certain period of time."
+	}
+
+	"Spitter #32"
+	{
+		"jp"			"{mint}This Spitter can constantly hurt survivors for a certain period of time."
+	}
+
+	"Witch #32"
+	{
+		"jp"			"{mint}This Witch can constantly hurt survivors for a certain period of time."
+	}
+
+	"Tank #33 Name"
+	{
+		"jp"			"Hypnotizer Tank"
+	}
+
+	"Boomer #33 Name"
+	{
+		"jp"			"Hypnotizer Boomer"
+	}
+
+	"Charger #33 Name"
+	{
+		"jp"			"Hypnotizer Charger"
+	}
+
+	"Hunter #33 Name"
+	{
+		"jp"			"Hypnotizer Hunter"
+	}
+
+	"Jockey #33 Name"
+	{
+		"jp"			"Hypnotizer Jockey"
+	}
+
+	"Smoker #33 Name"
+	{
+		"jp"			"Hypnotizer Smoker"
+	}
+
+	"Spitter #33 Name"
+	{
+		"jp"			"Hypnotizer Spitter"
+	}
+
+	"Witch #33 Name"
+	{
+		"jp"			"Hypnotizer Witch"
+	}
+
+	"Tank #33"
+	{
+		"jp"			"{mint}このタンクは生存者に対し催眠術をかけ、自身もしくはチームメイトにダメージを与えます。"
+	}
+
+	"Boomer #33"
+	{
+		"jp"			"{mint}This Boomer can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Charger #33"
+	{
+		"jp"			"{mint}This Charger can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Hunter #33"
+	{
+		"jp"			"{mint}This Hunter can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Jockey #33"
+	{
+		"jp"			"{mint}This Jockey can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Smoker #33"
+	{
+		"jp"			"{mint}This Smoker can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Spitter #33"
+	{
+		"jp"			"{mint}This Spitter can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Witch #33"
+	{
+		"jp"			"{mint}This Witch can hypnotize survivors to hurt themselves or their teammates."
+	}
+
+	"Tank #34 Name"
+	{
+		"jp"			"Icy Tank"
+	}
+
+	"Boomer #34 Name"
+	{
+		"jp"			"Icy Boomer"
+	}
+
+	"Charger #34 Name"
+	{
+		"jp"			"Icy Charger"
+	}
+
+	"Hunter #34 Name"
+	{
+		"jp"			"Icy Hunter"
+	}
+
+	"Jockey #34 Name"
+	{
+		"jp"			"Icy Jockey"
+	}
+
+	"Smoker #34 Name"
+	{
+		"jp"			"Icy Smoker"
+	}
+
+	"Spitter #34 Name"
+	{
+		"jp"			"Icy Spitter"
+	}
+
+	"Witch #34 Name"
+	{
+		"jp"			"Icy Witch"
+	}
+
+	"Tank #34"
+	{
+		"jp"			"{mint}このタンクは生存者を凍結させます。"
+	}
+
+	"Boomer #34"
+	{
+		"jp"			"{mint}This Boomer can freeze survivors."
+	}
+
+	"Charger #34"
+	{
+		"jp"			"{mint}This Charger can freeze survivors."
+	}
+
+	"Hunter #34"
+	{
+		"jp"			"{mint}This Hunter can freeze survivors."
+	}
+
+	"Jockey #34"
+	{
+		"jp"			"{mint}This Jockey can freeze survivors."
+	}
+
+	"Smoker #34"
+	{
+		"jp"			"{mint}This Smoker can freeze survivors."
+	}
+
+	"Spitter #34"
+	{
+		"jp"			"{mint}This Spitter can freeze survivors."
+	}
+
+	"Witch #34"
+	{
+		"jp"			"{mint}This Witch can freeze survivors."
+	}
+
+	"Tank #35 Name"
+	{
+		"jp"			"Idler Tank"
+	}
+
+	"Boomer #35 Name"
+	{
+		"jp"			"Idler Boomer"
+	}
+
+	"Charger #35 Name"
+	{
+		"jp"			"Idler Charger"
+	}
+
+	"Hunter #35 Name"
+	{
+		"jp"			"Idler Hunter"
+	}
+
+	"Jockey #35 Name"
+	{
+		"jp"			"Idler Jockey"
+	}
+
+	"Smoker #35 Name"
+	{
+		"jp"			"Idler Smoker"
+	}
+
+	"Spitter #35 Name"
+	{
+		"jp"			"Idler Spitter"
+	}
+
+	"Witch #35 Name"
+	{
+		"jp"			"Idler Witch"
+	}
+
+	"Tank #35"
+	{
+		"jp"			"{mint}このタンクは生存者を休憩状態にします。 (botは適用外)"
+	}
+
+	"Boomer #35"
+	{
+		"jp"			"{mint}This Boomer can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Charger #35"
+	{
+		"jp"			"{mint}This Charger can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Hunter #35"
+	{
+		"jp"			"{mint}This Hunter can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Jockey #35"
+	{
+		"jp"			"{mint}This Jockey can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Smoker #35"
+	{
+		"jp"			"{mint}This Smoker can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Spitter #35"
+	{
+		"jp"			"{mint}This Spitter can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Witch #35"
+	{
+		"jp"			"{mint}This Witch can make survivors go idle. (This doesn't affect bots.)"
+	}
+
+	"Tank #36 Name"
+	{
+		"jp"			"Inverter Tank"
+	}
+
+	"Boomer #36 Name"
+	{
+		"jp"			"Inverter Boomer"
+	}
+
+	"Charger #36 Name"
+	{
+		"jp"			"Inverter Charger"
+	}
+
+	"Hunter #36 Name"
+	{
+		"jp"			"Inverter Hunter"
+	}
+
+	"Jockey #36 Name"
+	{
+		"jp"			"Inverter Jockey"
+	}
+
+	"Smoker #36 Name"
+	{
+		"jp"			"Inverter Smoker"
+	}
+
+	"Spitter #36 Name"
+	{
+		"jp"			"Inverter Spitter"
+	}
+
+	"Witch #36 Name"
+	{
+		"jp"			"Inverter Witch"
+	}
+
+	"Tank #36"
+	{
+		"jp"			"{mint}このタンクは生存者の移動キーを反転させます。"
+	}
+
+	"Boomer #36"
+	{
+		"jp"			"{mint}This Boomer can invert survivors' movement keys."
+	}
+
+	"Charger #36"
+	{
+		"jp"			"{mint}This Charger can invert survivors' movement keys."
+	}
+
+	"Hunter #36"
+	{
+		"jp"			"{mint}This Hunter can invert survivors' movement keys."
+	}
+
+	"Jockey #36"
+	{
+		"jp"			"{mint}This Jockey can invert survivors' movement keys."
+	}
+
+	"Smoker #36"
+	{
+		"jp"			"{mint}This Smoker can invert survivors' movement keys."
+	}
+
+	"Spitter #36"
+	{
+		"jp"			"{mint}This Spitter can invert survivors' movement keys."
+	}
+
+	"Witch #36"
+	{
+		"jp"			"{mint}This Witch can invert survivors' movement keys."
+	}
+
+	"Tank #37 Name"
+	{
+		"jp"			"Item Tank"
+	}
+
+	"Boomer #37 Name"
+	{
+		"jp"			"Item Boomer"
+	}
+
+	"Charger #37 Name"
+	{
+		"jp"			"Item Charger"
+	}
+
+	"Hunter #37 Name"
+	{
+		"jp"			"Item Hunter"
+	}
+
+	"Jockey #37 Name"
+	{
+		"jp"			"Item Jockey"
+	}
+
+	"Smoker #37 Name"
+	{
+		"jp"			"Item Smoker"
+	}
+
+	"Spitter #37 Name"
+	{
+		"jp"			"Item Spitter"
+	}
+
+	"Witch #37 Name"
+	{
+		"jp"			"Item Witch"
+	}
+
+	"Tank #37"
+	{
+		"jp"			"{mint}このタンクは死亡時にアイテムを与えます。"
+	}
+
+	"Boomer #37"
+	{
+		"jp"			"{mint}This Boomer can give survivors items upon death."
+	}
+
+	"Charger #37"
+	{
+		"jp"			"{mint}This Charger can give survivors items upon death."
+	}
+
+	"Hunter #37"
+	{
+		"jp"			"{mint}This Hunter can give survivors items upon death."
+	}
+
+	"Jockey #37"
+	{
+		"jp"			"{mint}This Jockey can give survivors items upon death."
+	}
+
+	"Smoker #37"
+	{
+		"jp"			"{mint}This Smoker can give survivors items upon death."
+	}
+
+	"Spitter #37"
+	{
+		"jp"			"{mint}This Spitter can give survivors items upon death."
+	}
+
+	"Witch #37"
+	{
+		"jp"			"{mint}This Witch can give survivors items upon death."
+	}
+
+	"Tank #38 Name"
+	{
+		"jp"			"Jockey Tank"
+	}
+
+	"Boomer #38 Name"
+	{
+		"jp"			"Jockey Boomer"
+	}
+
+	"Charger #38 Name"
+	{
+		"jp"			"Jockey Charger"
+	}
+
+	"Hunter #38 Name"
+	{
+		"jp"			"Jockey Hunter"
+	}
+
+	"Jockey #38 Name"
+	{
+		"jp"			"Jockey Jockey"
+	}
+
+	"Smoker #38 Name"
+	{
+		"jp"			"Jockey Smoker"
+	}
+
+	"Spitter #38 Name"
+	{
+		"jp"			"Jockey Spitter"
+	}
+
+	"Witch #38 Name"
+	{
+		"jp"			"Jockey Witch"
+	}
+
+	"Tank #38"
+	{
+		"jp"			"{mint}このタンクは自身の背後にジョッキーをスポーンさせ、生存者に対してもジョッキーを投げつけることができます。"
+	}
+
+	"Boomer #38"
+	{
+		"jp"			"{mint}This Boomer can spawn Jockeys behind it."
+	}
+
+	"Charger #38"
+	{
+		"jp"			"{mint}This Charger can spawn Jockeys behind it."
+	}
+
+	"Hunter #38"
+	{
+		"jp"			"{mint}This Hunter can spawn Jockeys behind it."
+	}
+
+	"Jockey #38"
+	{
+		"jp"			"{mint}This Jockey can spawn Jockeys behind it."
+	}
+
+	"Smoker #38"
+	{
+		"jp"			"{mint}This Smoker can spawn Jockeys behind it."
+	}
+
+	"Spitter #38"
+	{
+		"jp"			"{mint}This Spitter can spawn Jockeys behind it."
+	}
+
+	"Witch #38"
+	{
+		"jp"			"{mint}This Witch can spawn Jockeys behind it."
+	}
+
+	"Tank #39 Name"
+	{
+		"jp"			"Jumper Tank"
+	}
+
+	"Boomer #39 Name"
+	{
+		"jp"			"Jumper Boomer"
+	}
+
+	"Charger #39 Name"
+	{
+		"jp"			"Jumper Charger"
+	}
+
+	"Hunter #39 Name"
+	{
+		"jp"			"Jumper Hunter"
+	}
+
+	"Jockey #39 Name"
+	{
+		"jp"			"Jumper Jockey"
+	}
+
+	"Smoker #39 Name"
+	{
+		"jp"			"Jumper Smoker"
+	}
+
+	"Spitter #39 Name"
+	{
+		"jp"			"Jumper Spitter"
+	}
+
+	"Witch #39 Name"
+	{
+		"jp"			"Jumper Witch"
+	}
+
+	"Tank #39"
+	{
+		"jp"			"{mint}このタンクは定期的にジャンプし生存者のジャンプを制御不能にします。"
+	}
+
+	"Boomer #39"
+	{
+		"jp"			"{mint}This Boomer can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Charger #39"
+	{
+		"jp"			"{mint}This Charger can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Hunter #39"
+	{
+		"jp"			"{mint}This Hunter can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Jockey #39"
+	{
+		"jp"			"{mint}This Jockey can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Smoker #39"
+	{
+		"jp"			"{mint}This Smoker can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Spitter #39"
+	{
+		"jp"			"{mint}This Spitter can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Witch #39"
+	{
+		"jp"			"{mint}This Witch can jump periodically and make survivors jump uncontrollably."
+	}
+
+	"Tank #40 Name"
+	{
+		"jp"			"Kamikaze Tank"
+	}
+
+	"Boomer #40 Name"
+	{
+		"jp"			"Kamikaze Boomer"
+	}
+
+	"Charger #40 Name"
+	{
+		"jp"			"Kamikaze Charger"
+	}
+
+	"Hunter #40 Name"
+	{
+		"jp"			"Kamikaze Hunter"
+	}
+
+	"Jockey #40 Name"
+	{
+		"jp"			"Kamikaze Jockey"
+	}
+
+	"Smoker #40 Name"
+	{
+		"jp"			"Kamikaze Smoker"
+	}
+
+	"Spitter #40 Name"
+	{
+		"jp"			"Kamikaze Spitter"
+	}
+
+	"Witch #40 Name"
+	{
+		"jp"			"Kamikaze Witch"
+	}
+
+	"Tank #40"
+	{
+		"jp"			"{mint}このタンクは生存者とともに自爆します。"
+	}
+
+	"Boomer #40"
+	{
+		"jp"			"{mint}This Boomer can kill itself along with a survivor victim."
+	}
+
+	"Charger #40"
+	{
+		"jp"			"{mint}This Charger can kill itself along with a survivor victim."
+	}
+
+	"Hunter #40"
+	{
+		"jp"			"{mint}This Hunter can kill itself along with a survivor victim."
+	}
+
+	"Jockey #40"
+	{
+		"jp"			"{mint}This Jockey can kill itself along with a survivor victim."
+	}
+
+	"Smoker #40"
+	{
+		"jp"			"{mint}This Smoker can kill itself along with a survivor victim."
+	}
+
+	"Spitter #40"
+	{
+		"jp"			"{mint}This Spitter can kill itself along with a survivor victim."
+	}
+
+	"Witch #40"
+	{
+		"jp"			"{mint}This Witch can kill itself along with a survivor victim."
+	}
+
+	"Tank #41 Name"
+	{
+		"jp"			"Lagger Tank"
+	}
+
+	"Boomer #41 Name"
+	{
+		"jp"			"Lagger Boomer"
+	}
+
+	"Charger #41 Name"
+	{
+		"jp"			"Lagger Charger"
+	}
+
+	"Hunter #41 Name"
+	{
+		"jp"			"Lagger Hunter"
+	}
+
+	"Jockey #41 Name"
+	{
+		"jp"			"Lagger Jockey"
+	}
+
+	"Smoker #41 Name"
+	{
+		"jp"			"Lagger Smoker"
+	}
+
+	"Spitter #41 Name"
+	{
+		"jp"			"Lagger Spitter"
+	}
+
+	"Witch #41 Name"
+	{
+		"jp"			"Lagger Witch"
+	}
+
+	"Tank #41"
+	{
+		"jp"			"{mint}このタンクは生存者をラグらせます。"
+	}
+
+	"Boomer #41"
+	{
+		"jp"			"{mint}This Boomer can make survivors lag."
+	}
+
+	"Charger #41"
+	{
+		"jp"			"{mint}This Charger can make survivors lag."
+	}
+
+	"Hunter #41"
+	{
+		"jp"			"{mint}This Hunter can make survivors lag."
+	}
+
+	"Jockey #41"
+	{
+		"jp"			"{mint}This Jockey can make survivors lag."
+	}
+
+	"Smoker #41"
+	{
+		"jp"			"{mint}This Smoker can make survivors lag."
+	}
+
+	"Spitter #41"
+	{
+		"jp"			"{mint}This Spitter can make survivors lag."
+	}
+
+	"Witch #41"
+	{
+		"jp"			"{mint}This Witch can make survivors lag."
+	}
+
+	"Tank #42 Name"
+	{
+		"jp"			"Laser Tank"
+	}
+
+	"Boomer #42 Name"
+	{
+		"jp"			"Laser Boomer"
+	}
+
+	"Charger #42 Name"
+	{
+		"jp"			"Laser Charger"
+	}
+
+	"Hunter #42 Name"
+	{
+		"jp"			"Laser Hunter"
+	}
+
+	"Jockey #42 Name"
+	{
+		"jp"			"Laser Jockey"
+	}
+
+	"Smoker #42 Name"
+	{
+		"jp"			"Laser Smoker"
+	}
+
+	"Spitter #42 Name"
+	{
+		"jp"			"Laser Spitter"
+	}
+
+	"Witch #42 Name"
+	{
+		"jp"			"Laser Witch"
+	}
+
+	"Tank #42"
+	{
+		"jp"			"{mint}このタンクは生存者に対してレーザーを放ちます。"
+	}
+
+	"Boomer #42"
+	{
+		"jp"			"{mint}This Boomer can shoot lasers at survivors."
+	}
+
+	"Charger #42"
+	{
+		"jp"			"{mint}This Charger can shoot lasers at survivors."
+	}
+
+	"Hunter #42"
+	{
+		"jp"			"{mint}This Hunter can shoot lasers at survivors."
+	}
+
+	"Jockey #42"
+	{
+		"jp"			"{mint}This Jockey can shoot lasers at survivors."
+	}
+
+	"Smoker #42"
+	{
+		"jp"			"{mint}This Smoker can shoot lasers at survivors."
+	}
+
+	"Spitter #42"
+	{
+		"jp"			"{mint}This Spitter can shoot lasers at survivors."
+	}
+
+	"Witch #42"
+	{
+		"jp"			"{mint}This Witch can shoot lasers at survivors."
+	}
+
+	"Tank #43 Name"
+	{
+		"jp"			"Leecher Tank"
+	}
+
+	"Boomer #43 Name"
+	{
+		"jp"			"Leecher Boomer"
+	}
+
+	"Charger #43 Name"
+	{
+		"jp"			"Leecher Charger"
+	}
+
+	"Hunter #43 Name"
+	{
+		"jp"			"Leecher Hunter"
+	}
+
+	"Jockey #43 Name"
+	{
+		"jp"			"Leecher Jockey"
+	}
+
+	"Smoker #43 Name"
+	{
+		"jp"			"Leecher Smoker"
+	}
+
+	"Spitter #43 Name"
+	{
+		"jp"			"Leecher Spitter"
+	}
+
+	"Witch #43 Name"
+	{
+		"jp"			"Leecher Witch"
+	}
+
+	"Tank #43"
+	{
+		"jp"			"{mint}このタンクは生存者からHPを奪い取ります。"
+	}
+
+	"Boomer #43"
+	{
+		"jp"			"{mint}This Boomer can leech off health from survivors."
+	}
+
+	"Charger #43"
+	{
+		"jp"			"{mint}This Charger can leech off health from survivors."
+	}
+
+	"Hunter #43"
+	{
+		"jp"			"{mint}This Hunter can leech off health from survivors."
+	}
+
+	"Jockey #43"
+	{
+		"jp"			"{mint}This Jockey can leech off health from survivors."
+	}
+
+	"Smoker #43"
+	{
+		"jp"			"{mint}This Smoker can leech off health from survivors."
+	}
+
+	"Spitter #43"
+	{
+		"jp"			"{mint}This Spitter can leech off health from survivors."
+	}
+
+	"Witch #43"
+	{
+		"jp"			"{mint}This Witch can leech off health from survivors."
+	}
+
+	"Tank #44 Name"
+	{
+		"jp"			"Lightning Tank"
+	}
+
+	"Boomer #44 Name"
+	{
+		"jp"			"Lightning Boomer"
+	}
+
+	"Charger #44 Name"
+	{
+		"jp"			"Lightning Charger"
+	}
+
+	"Hunter #44 Name"
+	{
+		"jp"			"Lightning Hunter"
+	}
+
+	"Jockey #44 Name"
+	{
+		"jp"			"Lightning Jockey"
+	}
+
+	"Smoker #44 Name"
+	{
+		"jp"			"Lightning Smoker"
+	}
+
+	"Spitter #44 Name"
+	{
+		"jp"			"Lightning Spitter"
+	}
+
+	"Witch #44 Name"
+	{
+		"jp"			"Lightning Witch"
+	}
+
+	"Tank #44"
+	{
+		"jp"			"{mint}このタンクは雷雨を発生させます。"
+	}
+
+	"Boomer #44"
+	{
+		"jp"			"{mint}This Boomer creates lightning storms."
+	}
+
+	"Charger #44"
+	{
+		"jp"			"{mint}This Charger creates lightning storms."
+	}
+
+	"Hunter #44"
+	{
+		"jp"			"{mint}This Hunter creates lightning storms."
+	}
+
+	"Jockey #44"
+	{
+		"jp"			"{mint}This Jockey creates lightning storms."
+	}
+
+	"Smoker #44"
+	{
+		"jp"			"{mint}This Smoker creates lightning storms."
+	}
+
+	"Spitter #44"
+	{
+		"jp"			"{mint}This Spitter creates lightning storms."
+	}
+
+	"Witch #44"
+	{
+		"jp"			"{mint}This Witch creates lightning storms."
+	}
+
+	"Tank #45 Name"
+	{
+		"jp"			"Medic Tank"
+	}
+
+	"Boomer #45 Name"
+	{
+		"jp"			"Medic Boomer"
+	}
+
+	"Charger #45 Name"
+	{
+		"jp"			"Medic Charger"
+	}
+
+	"Hunter #45 Name"
+	{
+		"jp"			"Medic Hunter"
+	}
+
+	"Jockey #45 Name"
+	{
+		"jp"			"Medic Jockey"
+	}
+
+	"Smoker #45 Name"
+	{
+		"jp"			"Medic Smoker"
+	}
+
+	"Spitter #45 Name"
+	{
+		"jp"			"Medic Spitter"
+	}
+
+	"Witch #45 Name"
+	{
+		"jp"			"Medic Witch"
+	}
+
+	"Tank #45"
+	{
+		"jp"			"{mint}このタンクは死亡時に周辺の特殊感染者を回復します。"
+	}
+
+	"Boomer #45"
+	{
+		"jp"			"{mint}This Boomer can heal nearby special infected upon death."
+	}
+
+	"Charger #45"
+	{
+		"jp"			"{mint}This Charger can heal nearby special infected upon death."
+	}
+
+	"Hunter #45"
+	{
+		"jp"			"{mint}This Hunter can heal nearby special infected upon death."
+	}
+
+	"Jockey #45"
+	{
+		"jp"			"{mint}This Jockey can heal nearby special infected upon death."
+	}
+
+	"Smoker #45"
+	{
+		"jp"			"{mint}This Smoker can heal nearby special infected upon death."
+	}
+
+	"Spitter #45"
+	{
+		"jp"			"{mint}This Spitter can heal nearby special infected upon death."
+	}
+
+	"Witch #45"
+	{
+		"jp"			"{mint}This Witch can heal nearby special infected upon death."
+	}
+
+	"Tank #46 Name"
+	{
+		"jp"			"Meteor Tank"
+	}
+
+	"Boomer #46 Name"
+	{
+		"jp"			"Meteor Boomer"
+	}
+
+	"Charger #46 Name"
+	{
+		"jp"			"Meteor Charger"
+	}
+
+	"Hunter #46 Name"
+	{
+		"jp"			"Meteor Hunter"
+	}
+
+	"Jockey #46 Name"
+	{
+		"jp"			"Meteor Jockey"
+	}
+
+	"Smoker #46 Name"
+	{
+		"jp"			"Meteor Smoker"
+	}
+
+	"Spitter #46 Name"
+	{
+		"jp"			"Meteor Spitter"
+	}
+
+	"Witch #46 Name"
+	{
+		"jp"			"Meteor Witch"
+	}
+
+	"Tank #46"
+	{
+		"jp"			"{mint}このタンクは数秒後に爆発と炎上を起こす隕石の流星群を降らせることが出来ます。"
+	}
+
+	"Boomer #46"
+	{
+		"jp"			"{mint}This Boomer can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Charger #46"
+	{
+		"jp"			"{mint}This Charger can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Hunter #46"
+	{
+		"jp"			"{mint}This Hunter can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Jockey #46"
+	{
+		"jp"			"{mint}This Jockey can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Smoker #46"
+	{
+		"jp"			"{mint}This Smoker can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Spitter #46"
+	{
+		"jp"			"{mint}This Spitter can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Witch #46"
+	{
+		"jp"			"{mint}This Witch can start meteor showers with meteorites that burn and explode after a few seconds."
+	}
+
+	"Tank #47 Name"
+	{
+		"jp"			"Necromancer Tank"
+	}
+
+	"Boomer #47 Name"
+	{
+		"jp"			"Necromancer Boomer"
+	}
+
+	"Charger #47 Name"
+	{
+		"jp"			"Necromancer Charger"
+	}
+
+	"Hunter #47 Name"
+	{
+		"jp"			"Necromancer Hunter"
+	}
+
+	"Jockey #47 Name"
+	{
+		"jp"			"Necromancer Jockey"
+	}
+
+	"Smoker #47 Name"
+	{
+		"jp"			"Necromancer Smoker"
+	}
+
+	"Spitter #47 Name"
+	{
+		"jp"			"Necromancer Spitter"
+	}
+
+	"Witch #47 Name"
+	{
+		"jp"			"Necromancer Witch"
+	}
+
+	"Tank #47"
+	{
+		"jp"			"{mint}このタンクは死亡した特殊感染者を復活させられます。"
+	}
+
+	"Boomer #47"
+	{
+		"jp"			"{mint}This Boomer can resurrect dead special infected."
+	}
+
+	"Charger #47"
+	{
+		"jp"			"{mint}This Charger can resurrect dead special infected."
+	}
+
+	"Hunter #47"
+	{
+		"jp"			"{mint}This Hunter can resurrect dead special infected."
+	}
+
+	"Jockey #47"
+	{
+		"jp"			"{mint}This Jockey can resurrect dead special infected."
+	}
+
+	"Smoker #47"
+	{
+		"jp"			"{mint}This Smoker can resurrect dead special infected."
+	}
+
+	"Spitter #47"
+	{
+		"jp"			"{mint}This Spitter can resurrect dead special infected."
+	}
+
+	"Witch #47"
+	{
+		"jp"			"{mint}This Witch can resurrect dead special infected."
+	}
+
+	"Tank #48 Name"
+	{
+		"jp"			"Nullifier Tank"
+	}
+
+	"Boomer #48 Name"
+	{
+		"jp"			"Nullifier Boomer"
+	}
+
+	"Charger #48 Name"
+	{
+		"jp"			"Nullifier Charger"
+	}
+
+	"Hunter #48 Name"
+	{
+		"jp"			"Nullifier Hunter"
+	}
+
+	"Jockey #48 Name"
+	{
+		"jp"			"Nullifier Jockey"
+	}
+
+	"Smoker #48 Name"
+	{
+		"jp"			"Nullifier Smoker"
+	}
+
+	"Spitter #48 Name"
+	{
+		"jp"			"Nullifier Spitter"
+	}
+
+	"Witch #48 Name"
+	{
+		"jp"			"Nullifier Witch"
+	}
+
+	"Tank #48"
+	{
+		"jp"			"{mint}このタンクは生存者からのダメージを無効化することが出来ます。"
+	}
+
+	"Boomer #48"
+	{
+		"jp"			"{mint}This Boomer can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Charger #48"
+	{
+		"jp"			"{mint}This Charger can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Hunter #48"
+	{
+		"jp"			"{mint}This Hunter can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Jockey #48"
+	{
+		"jp"			"{mint}This Jockey can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Smoker #48"
+	{
+		"jp"			"{mint}This Smoker can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Spitter #48"
+	{
+		"jp"			"{mint}This Spitter can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Witch #48"
+	{
+		"jp"			"{mint}This Witch can nullify survivors' damage to protect itself from damage."
+	}
+
+	"Tank #49 Name"
+	{
+		"jp"			"Omni Tank"
+	}
+
+	"Boomer #49 Name"
+	{
+		"jp"			"Omni Boomer"
+	}
+
+	"Charger #49 Name"
+	{
+		"jp"			"Omni Charger"
+	}
+
+	"Hunter #49 Name"
+	{
+		"jp"			"Omni Hunter"
+	}
+
+	"Jockey #49 Name"
+	{
+		"jp"			"Omni Jockey"
+	}
+
+	"Smoker #49 Name"
+	{
+		"jp"			"Omni Smoker"
+	}
+
+	"Spitter #49 Name"
+	{
+		"jp"			"Omni Spitter"
+	}
+
+	"Witch #49 Name"
+	{
+		"jp"			"Omni Witch"
+	}
+
+	"Tank #49"
+	{
+		"jp"			"{mint}このタンクは周辺のミュータントタンクの能力を使用できます。"
+	}
+
+	"Boomer #49"
+	{
+		"jp"			"{mint}This Boomer can access other nearby Mutant Boomers' abilities."
+	}
+
+	"Charger #49"
+	{
+		"jp"			"{mint}This Charger can access other nearby Mutant Chargers' abilities."
+	}
+
+	"Hunter #49"
+	{
+		"jp"			"{mint}This Hunter can access other nearby Mutant Hunters' abilities."
+	}
+
+	"Jockey #49"
+	{
+		"jp"			"{mint}This Jockey can access other nearby Mutant Jockeys' abilities."
+	}
+
+	"Smoker #49"
+	{
+		"jp"			"{mint}This Smoker can access other nearby Mutant Smokers' abilities."
+	}
+
+	"Spitter #49"
+	{
+		"jp"			"{mint}This Spitter can access other nearby Mutant Spitters' abilities."
+	}
+
+	"Witch #49"
+	{
+		"jp"			"{mint}This Witch can access other nearby Mutant Witches' abilities."
+	}
+
+	"Tank #50 Name"
+	{
+		"jp"			"Panic Tank"
+	}
+
+	"Boomer #50 Name"
+	{
+		"jp"			"Panic Boomer"
+	}
+
+	"Charger #50 Name"
+	{
+		"jp"			"Panic Charger"
+	}
+
+	"Hunter #50 Name"
+	{
+		"jp"			"Panic Hunter"
+	}
+
+	"Jockey #50 Name"
+	{
+		"jp"			"Panic Jockey"
+	}
+
+	"Smoker #50 Name"
+	{
+		"jp"			"Panic Smoker"
+	}
+
+	"Spitter #50 Name"
+	{
+		"jp"			"Panic Spitter"
+	}
+
+	"Witch #50 Name"
+	{
+		"jp"			"Panic Witch"
+	}
+
+	"Tank #50"
+	{
+		"jp"			"{mint}このタンクはラッシュを発生させることができます。"
+	}
+
+	"Boomer #50"
+	{
+		"jp"			"{mint}This Boomer can start panic events with hordes of zombies."
+	}
+
+	"Charger #50"
+	{
+		"jp"			"{mint}This Charger can start panic events with hordes of zombies."
+	}
+
+	"Hunter #50"
+	{
+		"jp"			"{mint}This Hunter can start panic events with hordes of zombies."
+	}
+
+	"Jockey #50"
+	{
+		"jp"			"{mint}This Jockey can start panic events with hordes of zombies."
+	}
+
+	"Smoker #50"
+	{
+		"jp"			"{mint}This Smoker can start panic events with hordes of zombies."
+	}
+
+	"Spitter #50"
+	{
+		"jp"			"{mint}This Spitter can start panic events with hordes of zombies."
+	}
+
+	"Witch #50"
+	{
+		"jp"			"{mint}This Witch can start panic events with hordes of zombies."
+	}
+
+	"Tank #51 Name"
+	{
+		"jp"			"Pet Tank"
+	}
+
+	"Boomer #51 Name"
+	{
+		"jp"			"Pet Boomer"
+	}
+
+	"Charger #51 Name"
+	{
+		"jp"			"Pet Charger"
+	}
+
+	"Hunter #51 Name"
+	{
+		"jp"			"Pet Hunter"
+	}
+
+	"Jockey #51 Name"
+	{
+		"jp"			"Pet Jockey"
+	}
+
+	"Smoker #51 Name"
+	{
+		"jp"			"Pet Smoker"
+	}
+
+	"Spitter #51 Name"
+	{
+		"jp"			"Pet Spitter"
+	}
+
+	"Witch #51 Name"
+	{
+		"jp"			"Pet Witch"
+	}
+
+	"Tank #51"
+	{
+		"jp"			"{mint}このタンクは生存者に忠誠を誓い、ハグが好きです。"
+	}
+
+	"Boomer #51"
+	{
+		"jp"			"{mint}This Boomer is loyal to the survivors and loves to give hugs."
+	}
+
+	"Charger #51"
+	{
+		"jp"			"{mint}This Charger is loyal to the survivors and loves to give hugs."
+	}
+
+	"Hunter #51"
+	{
+		"jp"			"{mint}This Hunter is loyal to the survivors and loves to give hugs."
+	}
+
+	"Jockey #51"
+	{
+		"jp"			"{mint}This Jockey is loyal to the survivors and loves to give hugs."
+	}
+
+	"Smoker #51"
+	{
+		"jp"			"{mint}This Smoker is loyal to the survivors and loves to give hugs."
+	}
+
+	"Spitter #51"
+	{
+		"jp"			"{mint}This Spitter is loyal to the survivors and loves to give hugs."
+	}
+
+	"Witch #51"
+	{
+		"jp"			"{mint}This Witch is loyal to the survivors and loves to give hugs."
+	}
+
+	"Tank #52 Name"
+	{
+		"jp"			"Pimp Tank"
+	}
+
+	"Boomer #52 Name"
+	{
+		"jp"			"Pimp Boomer"
+	}
+
+	"Charger #52 Name"
+	{
+		"jp"			"Pimp Charger"
+	}
+
+	"Hunter #52 Name"
+	{
+		"jp"			"Pimp Hunter"
+	}
+
+	"Jockey #52 Name"
+	{
+		"jp"			"Pimp Jockey"
+	}
+
+	"Smoker #52 Name"
+	{
+		"jp"			"Pimp Smoker"
+	}
+
+	"Spitter #52 Name"
+	{
+		"jp"			"Pimp Spitter"
+	}
+
+	"Witch #52 Name"
+	{
+		"jp"			"Pimp Witch"
+	}
+
+	"Tank #52"
+	{
+		"jp"			"{mint}このタンクは生存者に対して何度も平手打ちをお見舞いします。"
+	}
+
+	"Boomer #52"
+	{
+		"jp"			"{mint}This Boomer can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Charger #52"
+	{
+		"jp"			"{mint}This Charger can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Hunter #52"
+	{
+		"jp"			"{mint}This Hunter can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Jockey #52"
+	{
+		"jp"			"{mint}This Jockey can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Smoker #52"
+	{
+		"jp"			"{mint}This Smoker can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Spitter #52"
+	{
+		"jp"			"{mint}This Spitter can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Witch #52"
+	{
+		"jp"			"{mint}This Witch can pimp slap survivors repeatedly to show them who's boss."
+	}
+
+	"Tank #53 Name"
+	{
+		"jp"			"Platinum Tank"
+	}
+
+	"Boomer #53 Name"
+	{
+		"jp"			"Platinum Boomer"
+	}
+
+	"Charger #53 Name"
+	{
+		"jp"			"Platinum Charger"
+	}
+
+	"Hunter #53 Name"
+	{
+		"jp"			"Platinum Hunter"
+	}
+
+	"Jockey #53 Name"
+	{
+		"jp"			"Platinum Jockey"
+	}
+
+	"Smoker #53 Name"
+	{
+		"jp"			"Platinum Smoker"
+	}
+
+	"Spitter #53 Name"
+	{
+		"jp"			"Platinum Spitter"
+	}
+
+	"Witch #53 Name"
+	{
+		"jp"			"Platinum Witch"
+	}
+
+	"Tank #53"
+	{
+		"jp"			"{mint}このタンクは近接武器のダメージに耐性を持っています。"
+	}
+
+	"Boomer #53"
+	{
+		"jp"			"{mint}This Boomer is immune to melee damage."
+	}
+
+	"Charger #53"
+	{
+		"jp"			"{mint}This Charger is immune to melee damage."
+	}
+
+	"Hunter #53"
+	{
+		"jp"			"{mint}This Hunter is immune to melee damage."
+	}
+
+	"Jockey #53"
+	{
+		"jp"			"{mint}This Jockey is immune to melee damage."
+	}
+
+	"Smoker #53"
+	{
+		"jp"			"{mint}This Smoker is immune to melee damage."
+	}
+
+	"Spitter #53"
+	{
+		"jp"			"{mint}This Spitter is immune to melee damage."
+	}
+
+	"Witch #53"
+	{
+		"jp"			"{mint}This Witch is immune to melee damage."
+	}
+
+	"Tank #54 Name"
+	{
+		"jp"			"Puke Tank"
+	}
+
+	"Boomer #54 Name"
+	{
+		"jp"			"Puke Boomer"
+	}
+
+	"Charger #54 Name"
+	{
+		"jp"			"Puke Charger"
+	}
+
+	"Hunter #54 Name"
+	{
+		"jp"			"Puke Hunter"
+	}
+
+	"Jockey #54 Name"
+	{
+		"jp"			"Puke Jockey"
+	}
+
+	"Smoker #54 Name"
+	{
+		"jp"			"Puke Smoker"
+	}
+
+	"Spitter #54 Name"
+	{
+		"jp"			"Puke Spitter"
+	}
+
+	"Witch #54 Name"
+	{
+		"jp"			"Puke Witch"
+	}
+
+	"Tank #54"
+	{
+		"jp"			"{mint}このタンクは生存者に対して吐しゃ物を浴びせます。"
+	}
+
+	"Boomer #54"
+	{
+		"jp"			"{mint}This Boomer can puke on survivors."
+	}
+
+	"Charger #54"
+	{
+		"jp"			"{mint}This Charger can puke on survivors."
+	}
+
+	"Hunter #54"
+	{
+		"jp"			"{mint}This Hunter can puke on survivors."
+	}
+
+	"Jockey #54"
+	{
+		"jp"			"{mint}This Jockey can puke on survivors."
+	}
+
+	"Smoker #54"
+	{
+		"jp"			"{mint}This Smoker can puke on survivors."
+	}
+
+	"Spitter #54"
+	{
+		"jp"			"{mint}This Spitter can puke on survivors."
+	}
+
+	"Witch #54"
+	{
+		"jp"			"{mint}This Witch can puke on survivors."
+	}
+
+	"Tank #55 Name"
+	{
+		"jp"			"Pyromaniac Tank"
+	}
+
+	"Boomer #55 Name"
+	{
+		"jp"			"Pyromaniac Boomer"
+	}
+
+	"Charger #55 Name"
+	{
+		"jp"			"Pyromaniac Charger"
+	}
+
+	"Hunter #55 Name"
+	{
+		"jp"			"Pyromaniac Hunter"
+	}
+
+	"Jockey #55 Name"
+	{
+		"jp"			"Pyromaniac Jockey"
+	}
+
+	"Smoker #55 Name"
+	{
+		"jp"			"Pyromaniac Smoker"
+	}
+
+	"Spitter #55 Name"
+	{
+		"jp"			"Pyromaniac Spitter"
+	}
+
+	"Witch #55 Name"
+	{
+		"jp"			"Pyromaniac Witch"
+	}
+
+	"Tank #55"
+	{
+		"jp"			"{mint}このタンクは火が付いた際に移動速度を増加させます。"
+	}
+
+	"Boomer #55"
+	{
+		"jp"			"{mint}This Boomer gains a speed boost when set on fire."
+	}
+
+	"Charger #55"
+	{
+		"jp"			"{mint}This Charger gains a speed boost when set on fire."
+	}
+
+	"Hunter #55"
+	{
+		"jp"			"{mint}This Hunter gains a speed boost when set on fire."
+	}
+
+	"Jockey #55"
+	{
+		"jp"			"{mint}This Jockey gains a speed boost when set on fire."
+	}
+
+	"Smoker #55"
+	{
+		"jp"			"{mint}This Smoker gains a speed boost when set on fire."
+	}
+
+	"Spitter #55"
+	{
+		"jp"			"{mint}This Spitter gains a speed boost when set on fire."
+	}
+
+	"Witch #55"
+	{
+		"jp"			"{mint}This Witch gains a speed boost when set on fire."
+	}
+
+	"Tank #56 Name"
+	{
+		"jp"			"Quiet Tank"
+	}
+
+	"Boomer #56 Name"
+	{
+		"jp"			"Quiet Boomer"
+	}
+
+	"Charger #56 Name"
+	{
+		"jp"			"Quiet Charger"
+	}
+
+	"Hunter #56 Name"
+	{
+		"jp"			"Quiet Hunter"
+	}
+
+	"Jockey #56 Name"
+	{
+		"jp"			"Quiet Jockey"
+	}
+
+	"Smoker #56 Name"
+	{
+		"jp"			"Quiet Smoker"
+	}
+
+	"Spitter #56 Name"
+	{
+		"jp"			"Quiet Spitter"
+	}
+
+	"Witch #56 Name"
+	{
+		"jp"			"Quiet Witch"
+	}
+
+	"Tank #56"
+	{
+		"jp"			"{mint}このタンクは生存者に対して一切の音を立てません。"
+	}
+
+	"Boomer #56"
+	{
+		"jp"			"{mint}This Boomer can silence itself from survivors."
+	}
+
+	"Charger #56"
+	{
+		"jp"			"{mint}This Charger can silence itself from survivors."
+	}
+
+	"Hunter #56"
+	{
+		"jp"			"{mint}This Hunter can silence itself from survivors."
+	}
+
+	"Jockey #56"
+	{
+		"jp"			"{mint}This Jockey can silence itself from survivors."
+	}
+
+	"Smoker #56"
+	{
+		"jp"			"{mint}This Smoker can silence itself from survivors."
+	}
+
+	"Spitter #56"
+	{
+		"jp"			"{mint}This Spitter can silence itself from survivors."
+	}
+
+	"Witch #56"
+	{
+		"jp"			"{mint}This Witch can silence itself from survivors."
+	}
+
+	"Tank #57 Name"
+	{
+		"jp"			"Recall Tank"
+	}
+
+	"Boomer #57 Name"
+	{
+		"jp"			"Recall Boomer"
+	}
+
+	"Charger #57 Name"
+	{
+		"jp"			"Recall Charger"
+	}
+
+	"Hunter #57 Name"
+	{
+		"jp"			"Recall Hunter"
+	}
+
+	"Jockey #57 Name"
+	{
+		"jp"			"Recall Jockey"
+	}
+
+	"Smoker #57 Name"
+	{
+		"jp"			"Recall Smoker"
+	}
+
+	"Spitter #57 Name"
+	{
+		"jp"			"Recall Spitter"
+	}
+
+	"Witch #57 Name"
+	{
+		"jp"			"Recall Witch"
+	}
+
+	"Tank #57"
+	{
+		"jp"			"{mint}このタンクは生存者をタイムトラベルで嫌がらせします。"
+	}
+
+	"Boomer #57"
+	{
+		"jp"			"{mint}This Boomer can time travel to annoy survivors."
+	}
+
+	"Charger #57"
+	{
+		"jp"			"{mint}This Charger can time travel to annoy survivors."
+	}
+
+	"Hunter #57"
+	{
+		"jp"			"{mint}This Hunter can time travel to annoy survivors."
+	}
+
+	"Jockey #57"
+	{
+		"jp"			"{mint}This Jockey can time travel to annoy survivors."
+	}
+
+	"Smoker #57"
+	{
+		"jp"			"{mint}This Smoker can time travel to annoy survivors."
+	}
+
+	"Spitter #57"
+	{
+		"jp"			"{mint}This Spitter can time travel to annoy survivors."
+	}
+
+	"Witch #57"
+	{
+		"jp"			"{mint}This Witch can time travel to annoy survivors."
+	}
+
+	"Tank #58 Name"
+	{
+		"jp"			"Recoil Tank"
+	}
+
+	"Boomer #58 Name"
+	{
+		"jp"			"Recoil Boomer"
+	}
+
+	"Charger #58 Name"
+	{
+		"jp"			"Recoil Charger"
+	}
+
+	"Hunter #58 Name"
+	{
+		"jp"			"Recoil Hunter"
+	}
+
+	"Jockey #58 Name"
+	{
+		"jp"			"Recoil Jockey"
+	}
+
+	"Smoker #58 Name"
+	{
+		"jp"			"Recoil Smoker"
+	}
+
+	"Spitter #58 Name"
+	{
+		"jp"			"Recoil Spitter"
+	}
+
+	"Witch #58 Name"
+	{
+		"jp"			"Recoil Witch"
+	}
+
+	"Tank #58"
+	{
+		"jp"			"{mint}このタンクは生存者の銃のリコイルを増加させます。"
+	}
+
+	"Boomer #58"
+	{
+		"jp"			"{mint}This Boomer can give survivors high gun recoil."
+	}
+
+	"Charger #58"
+	{
+		"jp"			"{mint}This Charger can give survivors high gun recoil."
+	}
+
+	"Hunter #58"
+	{
+		"jp"			"{mint}This Hunter can give survivors high gun recoil."
+	}
+
+	"Jockey #58"
+	{
+		"jp"			"{mint}This Jockey can give survivors high gun recoil."
+	}
+
+	"Smoker #58"
+	{
+		"jp"			"{mint}This Smoker can give survivors high gun recoil."
+	}
+
+	"Spitter #58"
+	{
+		"jp"			"{mint}This Spitter can give survivors high gun recoil."
+	}
+
+	"Witch #58"
+	{
+		"jp"			"{mint}This Witch can give survivors high gun recoil."
+	}
+
+	"Tank #59 Name"
+	{
+		"jp"			"Regenerative Tank"
+	}
+
+	"Boomer #59 Name"
+	{
+		"jp"			"Regenerative Boomer"
+	}
+
+	"Charger #59 Name"
+	{
+		"jp"			"Regenerative Charger"
+	}
+
+	"Hunter #59 Name"
+	{
+		"jp"			"Regenerative Hunter"
+	}
+
+	"Jockey #59 Name"
+	{
+		"jp"			"Regenerative Jockey"
+	}
+
+	"Smoker #59 Name"
+	{
+		"jp"			"Regenerative Smoker"
+	}
+
+	"Spitter #59 Name"
+	{
+		"jp"			"Regenerative Spitter"
+	}
+
+	"Witch #59 Name"
+	{
+		"jp"			"Regenerative Witch"
+	}
+
+	"Tank #59"
+	{
+		"jp"			"{mint}このタンクは1秒ごとにHPを回復します。"
+	}
+
+	"Boomer #59"
+	{
+		"jp"			"{mint}This Boomer regenerates health every second."
+	}
+
+	"Charger #59"
+	{
+		"jp"			"{mint}This Charger regenerates health every second."
+	}
+
+	"Hunter #59"
+	{
+		"jp"			"{mint}This Hunter regenerates health every second."
+	}
+
+	"Jockey #59"
+	{
+		"jp"			"{mint}This Jockey regenerates health every second."
+	}
+
+	"Smoker #59"
+	{
+		"jp"			"{mint}This Smoker regenerates health every second."
+	}
+
+	"Spitter #59"
+	{
+		"jp"			"{mint}This Spitter regenerates health every second."
+	}
+
+	"Witch #59"
+	{
+		"jp"			"{mint}This Witch regenerates health every second."
+	}
+
+	"Tank #60 Name"
+	{
+		"jp"			"Respawner Tank"
+	}
+
+	"Boomer #60 Name"
+	{
+		"jp"			"Respawner Boomer"
+	}
+
+	"Charger #60 Name"
+	{
+		"jp"			"Respawner Charger"
+	}
+
+	"Hunter #60 Name"
+	{
+		"jp"			"Respawner Hunter"
+	}
+
+	"Jockey #60 Name"
+	{
+		"jp"			"Respawner Jockey"
+	}
+
+	"Smoker #60 Name"
+	{
+		"jp"			"Respawner Smoker"
+	}
+
+	"Spitter #60 Name"
+	{
+		"jp"			"Respawner Spitter"
+	}
+
+	"Witch #60 Name"
+	{
+		"jp"			"Respawner Witch"
+	}
+
+	"Tank #60"
+	{
+		"jp"			"{mint}このタンクは死亡時にリスポーンします。"
+	}
+
+	"Boomer #60"
+	{
+		"jp"			"{mint}This Boomer can respawn upon death."
+	}
+
+	"Charger #60"
+	{
+		"jp"			"{mint}This Charger can respawn upon death."
+	}
+
+	"Hunter #60"
+	{
+		"jp"			"{mint}This Hunter can respawn upon death."
+	}
+
+	"Jockey #60"
+	{
+		"jp"			"{mint}This Jockey can respawn upon death."
+	}
+
+	"Smoker #60"
+	{
+		"jp"			"{mint}This Smoker can respawn upon death."
+	}
+
+	"Spitter #60"
+	{
+		"jp"			"{mint}This Spitter can respawn upon death."
+	}
+
+	"Witch #60"
+	{
+		"jp"			"{mint}This Witch can respawn upon death."
+	}
+
+	"Tank #61 Name"
+	{
+		"jp"			"Restarter Tank"
+	}
+
+	"Boomer #61 Name"
+	{
+		"jp"			"Restarter Boomer"
+	}
+
+	"Charger #61 Name"
+	{
+		"jp"			"Restarter Charger"
+	}
+
+	"Hunter #61 Name"
+	{
+		"jp"			"Restarter Hunter"
+	}
+
+	"Jockey #61 Name"
+	{
+		"jp"			"Restarter Jockey"
+	}
+
+	"Smoker #61 Name"
+	{
+		"jp"			"Restarter Smoker"
+	}
+
+	"Spitter #61 Name"
+	{
+		"jp"			"Restarter Spitter"
+	}
+
+	"Witch #61 Name"
+	{
+		"jp"			"Restarter Witch"
+	}
+
+	"Tank #61"
+	{
+		"jp"			"{mint}このタンクは強制的に新しいロードアウトと共に生存者を初期地点に送り返します。"
+	}
+
+	"Boomer #61"
+	{
+		"jp"			"{mint}This Boomer can force survivors to restart with a new loadout."
+	}
+
+	"Charger #61"
+	{
+		"jp"			"{mint}This Charger can force survivors to restart with a new loadout."
+	}
+
+	"Hunter #61"
+	{
+		"jp"			"{mint}This Hunter can force survivors to restart with a new loadout."
+	}
+
+	"Jockey #61"
+	{
+		"jp"			"{mint}This Jockey can force survivors to restart with a new loadout."
+	}
+
+	"Smoker #61"
+	{
+		"jp"			"{mint}This Smoker can force survivors to restart with a new loadout."
+	}
+
+	"Spitter #61"
+	{
+		"jp"			"{mint}This Spitter can force survivors to restart with a new loadout."
+	}
+
+	"Witch #61"
+	{
+		"jp"			"{mint}This Witch can force survivors to restart with a new loadout."
+	}
+
+	"Tank #62 Name"
+	{
+		"jp"			"Rock Tank"
+	}
+
+	"Boomer #62 Name"
+	{
+		"jp"			"Rock Boomer"
+	}
+
+	"Charger #62 Name"
+	{
+		"jp"			"Rock Charger"
+	}
+
+	"Hunter #62 Name"
+	{
+		"jp"			"Rock Hunter"
+	}
+
+	"Jockey #62 Name"
+	{
+		"jp"			"Rock Jockey"
+	}
+
+	"Smoker #62 Name"
+	{
+		"jp"			"Rock Smoker"
+	}
+
+	"Spitter #62 Name"
+	{
+		"jp"			"Rock Spitter"
+	}
+
+	"Witch #62 Name"
+	{
+		"jp"			"Rock Witch"
+	}
+
+	"Tank #62"
+	{
+		"jp"			"{mint}このタンクは岩の雨を降らせることが出来ます。"
+	}
+
+	"Boomer #62"
+	{
+		"jp"			"{mint}This Boomer can start rock showers."
+	}
+
+	"Charger #62"
+	{
+		"jp"			"{mint}This Charger can start rock showers."
+	}
+
+	"Hunter #62"
+	{
+		"jp"			"{mint}This Hunter can start rock showers."
+	}
+
+	"Jockey #62"
+	{
+		"jp"			"{mint}This Jockey can start rock showers."
+	}
+
+	"Smoker #62"
+	{
+		"jp"			"{mint}This Smoker can start rock showers."
+	}
+
+	"Spitter #62"
+	{
+		"jp"			"{mint}This Spitter can start rock showers."
+	}
+
+	"Witch #62"
+	{
+		"jp"			"{mint}This Witch can start rock showers."
+	}
+
+	"Tank #63 Name"
+	{
+		"jp"			"Rocketeer Tank"
+	}
+
+	"Boomer #63 Name"
+	{
+		"jp"			"Rocketeer Boomer"
+	}
+
+	"Charger #63 Name"
+	{
+		"jp"			"Rocketeer Charger"
+	}
+
+	"Hunter #63 Name"
+	{
+		"jp"			"Rocketeer Hunter"
+	}
+
+	"Jockey #63 Name"
+	{
+		"jp"			"Rocketeer Jockey"
+	}
+
+	"Smoker #63 Name"
+	{
+		"jp"			"Rocketeer Smoker"
+	}
+
+	"Spitter #63 Name"
+	{
+		"jp"			"Rocketeer Spitter"
+	}
+
+	"Witch #63 Name"
+	{
+		"jp"			"Rocketeer Witch"
+	}
+
+	"Tank #63"
+	{
+		"jp"			"{mint}このタンクは生存者を天国に打ち上げます。"
+	}
+
+	"Boomer #63"
+	{
+		"jp"			"{mint}This Boomer can send survivors into space."
+	}
+
+	"Charger #63"
+	{
+		"jp"			"{mint}This Charger can send survivors into space."
+	}
+
+	"Hunter #63"
+	{
+		"jp"			"{mint}This Hunter can send survivors into space."
+	}
+
+	"Jockey #63"
+	{
+		"jp"			"{mint}This Jockey can send survivors into space."
+	}
+
+	"Smoker #63"
+	{
+		"jp"			"{mint}This Smoker can send survivors into space."
+	}
+
+	"Spitter #63"
+	{
+		"jp"			"{mint}This Spitter can send survivors into space."
+	}
+
+	"Witch #63"
+	{
+		"jp"			"{mint}This Witch can send survivors into space."
+	}
+
+	"Tank #64 Name"
+	{
+		"jp"			"Self-throwing Tank"
+	}
+
+	"Boomer #64 Name"
+	{
+		"jp"			"Self-throwing Boomer"
+	}
+
+	"Charger #64 Name"
+	{
+		"jp"			"Self-throwing Charger"
+	}
+
+	"Hunter #64 Name"
+	{
+		"jp"			"Self-throwing Hunter"
+	}
+
+	"Jockey #64 Name"
+	{
+		"jp"			"Self-throwing Jockey"
+	}
+
+	"Smoker #64 Name"
+	{
+		"jp"			"Self-throwing Smoker"
+	}
+
+	"Spitter #64 Name"
+	{
+		"jp"			"Self-throwing Spitter"
+	}
+
+	"Witch #64 Name"
+	{
+		"jp"			"Self-throwing Witch"
+	}
+
+	"Tank #64"
+	{
+		"jp"			"{mint}このタンクは生存者に向かって自身を投げ飛ばします。"
+	}
+
+	"Boomer #64"
+	{
+		"jp"			"{mint}This Boomer can throw itself towards survivors."
+	}
+
+	"Charger #64"
+	{
+		"jp"			"{mint}This Charger can throw itself towards survivors."
+	}
+
+	"Hunter #64"
+	{
+		"jp"			"{mint}This Hunter can throw itself towards survivors."
+	}
+
+	"Jockey #64"
+	{
+		"jp"			"{mint}This Jockey can throw itself towards survivors."
+	}
+
+	"Smoker #64"
+	{
+		"jp"			"{mint}This Smoker can throw itself towards survivors."
+	}
+
+	"Spitter #64"
+	{
+		"jp"			"{mint}This Spitter can throw itself towards survivors."
+	}
+
+	"Witch #64"
+	{
+		"jp"			"{mint}This Witch can throw itself towards survivors."
+	}
+
+	"Tank #65 Name"
+	{
+		"jp"			"Shaker Tank"
+	}
+
+	"Boomer #65 Name"
+	{
+		"jp"			"Shaker Boomer"
+	}
+
+	"Charger #65 Name"
+	{
+		"jp"			"Shaker Charger"
+	}
+
+	"Hunter #65 Name"
+	{
+		"jp"			"Shaker Hunter"
+	}
+
+	"Jockey #65 Name"
+	{
+		"jp"			"Shaker Jockey"
+	}
+
+	"Smoker #65 Name"
+	{
+		"jp"			"Shaker Smoker"
+	}
+
+	"Spitter #65 Name"
+	{
+		"jp"			"Shaker Spitter"
+	}
+
+	"Witch #65 Name"
+	{
+		"jp"			"Shaker Witch"
+	}
+
+	"Tank #65"
+	{
+		"jp"			"{mint}このタンクは生存者の画面を揺らすことができます。"
+	}
+
+	"Boomer #65"
+	{
+		"jp"			"{mint}This Boomer can shake survivors' screens."
+	}
+
+	"Charger #65"
+	{
+		"jp"			"{mint}This Charger can shake survivors' screens."
+	}
+
+	"Hunter #65"
+	{
+		"jp"			"{mint}This Hunter can shake survivors' screens."
+	}
+
+	"Jockey #65"
+	{
+		"jp"			"{mint}This Jockey can shake survivors' screens."
+	}
+
+	"Smoker #65"
+	{
+		"jp"			"{mint}This Smoker can shake survivors' screens."
+	}
+
+	"Spitter #65"
+	{
+		"jp"			"{mint}This Spitter can shake survivors' screens."
+	}
+
+	"Witch #65"
+	{
+		"jp"			"{mint}This Witch can shake survivors' screens."
+	}
+
+	"Tank #66 Name"
+	{
+		"jp"			"Shield Tank"
+	}
+
+	"Boomer #66 Name"
+	{
+		"jp"			"Shield Boomer"
+	}
+
+	"Charger #66 Name"
+	{
+		"jp"			"Shield Charger"
+	}
+
+	"Hunter #66 Name"
+	{
+		"jp"			"Shield Hunter"
+	}
+
+	"Jockey #66 Name"
+	{
+		"jp"			"Shield Jockey"
+	}
+
+	"Smoker #66 Name"
+	{
+		"jp"			"Shield Smoker"
+	}
+
+	"Spitter #66 Name"
+	{
+		"jp"			"Shield Spitter"
+	}
+
+	"Witch #66 Name"
+	{
+		"jp"			"Shield Witch"
+	}
+
+	"Tank #66"
+	{
+		"jp"			"{mint}このタンクはシールドを持ってスポーンし、シールドを破壊するのに必要なプロパンタンク/ガスカンを生存者に対して投げつけます。"
+	}
+
+	"Boomer #66"
+	{
+		"jp"			"{mint}This Boomer spawns with a shield."
+	}
+
+	"Charger #66"
+	{
+		"jp"			"{mint}This Charger spawns with a shield."
+	}
+
+	"Hunter #66"
+	{
+		"jp"			"{mint}This Hunter spawns with a shield."
+	}
+
+	"Jockey #66"
+	{
+		"jp"			"{mint}This Jockey spawns with a shield."
+	}
+
+	"Smoker #66"
+	{
+		"jp"			"{mint}This Smoker spawns with a shield."
+	}
+
+	"Spitter #66"
+	{
+		"jp"			"{mint}This Spitter spawns with a shield."
+	}
+
+	"Witch #66"
+	{
+		"jp"			"{mint}This Witch spawns with a shield."
+	}
+
+	"Tank #67 Name"
+	{
+		"jp"			"Shover Tank"
+	}
+
+	"Boomer #67 Name"
+	{
+		"jp"			"Shover Boomer"
+	}
+
+	"Charger #67 Name"
+	{
+		"jp"			"Shover Charger"
+	}
+
+	"Hunter #67 Name"
+	{
+		"jp"			"Shover Hunter"
+	}
+
+	"Jockey #67 Name"
+	{
+		"jp"			"Shover Jockey"
+	}
+
+	"Smoker #67 Name"
+	{
+		"jp"			"Shover Smoker"
+	}
+
+	"Spitter #67 Name"
+	{
+		"jp"			"Shover Spitter"
+	}
+
+	"Witch #67 Name"
+	{
+		"jp"			"Shover Witch"
+	}
+
+	"Tank #67"
+	{
+		"jp"			"{mint}このタンクは生存者を突き飛ばすことができます。"
+	}
+
+	"Boomer #67"
+	{
+		"jp"			"{mint}This Boomer can shove survivors around."
+	}
+
+	"Charger #67"
+	{
+		"jp"			"{mint}This Charger can shove survivors around."
+	}
+
+	"Hunter #67"
+	{
+		"jp"			"{mint}This Hunter can shove survivors around."
+	}
+
+	"Jockey #67"
+	{
+		"jp"			"{mint}This Jockey can shove survivors around."
+	}
+
+	"Smoker #67"
+	{
+		"jp"			"{mint}This Smoker can shove survivors around."
+	}
+
+	"Spitter #67"
+	{
+		"jp"			"{mint}This Spitter can shove survivors around."
+	}
+
+	"Witch #67"
+	{
+		"jp"			"{mint}This Witch can shove survivors around."
+	}
+
+	"Tank #68 Name"
+	{
+		"jp"			"Slow Tank"
+	}
+
+	"Boomer #68 Name"
+	{
+		"jp"			"Slow Boomer"
+	}
+
+	"Charger #68 Name"
+	{
+		"jp"			"Slow Charger"
+	}
+
+	"Hunter #68 Name"
+	{
+		"jp"			"Slow Hunter"
+	}
+
+	"Jockey #68 Name"
+	{
+		"jp"			"Slow Jockey"
+	}
+
+	"Smoker #68 Name"
+	{
+		"jp"			"Slow Smoker"
+	}
+
+	"Spitter #68 Name"
+	{
+		"jp"			"Slow Spitter"
+	}
+
+	"Witch #68 Name"
+	{
+		"jp"			"Slow Witch"
+	}
+
+	"Tank #68"
+	{
+		"jp"			"{mint}このタンクは生存者の移動速度を低下させることができます。"
+	}
+
+	"Boomer #68"
+	{
+		"jp"			"{mint}This Boomer can slow survivors down."
+	}
+
+	"Charger #68"
+	{
+		"jp"			"{mint}This Charger can slow survivors down."
+	}
+
+	"Hunter #68"
+	{
+		"jp"			"{mint}This Hunter can slow survivors down."
+	}
+
+	"Jockey #68"
+	{
+		"jp"			"{mint}This Jockey can slow survivors down."
+	}
+
+	"Smoker #68"
+	{
+		"jp"			"{mint}This Smoker can slow survivors down."
+	}
+
+	"Spitter #68"
+	{
+		"jp"			"{mint}This Spitter can slow survivors down."
+	}
+
+	"Witch #68"
+	{
+		"jp"			"{mint}This Witch can slow survivors down."
+	}
+
+	"Tank #69 Name"
+	{
+		"jp"			"Smasher Tank"
+	}
+
+	"Boomer #69 Name"
+	{
+		"jp"			"Smasher Boomer"
+	}
+
+	"Charger #69 Name"
+	{
+		"jp"			"Smasher Charger"
+	}
+
+	"Hunter #69 Name"
+	{
+		"jp"			"Smasher Hunter"
+	}
+
+	"Jockey #69 Name"
+	{
+		"jp"			"Smasher Jockey"
+	}
+
+	"Smoker #69 Name"
+	{
+		"jp"			"Smasher Smoker"
+	}
+
+	"Spitter #69 Name"
+	{
+		"jp"			"Smasher Spitter"
+	}
+
+	"Witch #69 Name"
+	{
+		"jp"			"Smasher Witch"
+	}
+
+	"Tank #69"
+	{
+		"jp"			"{mint}このタンクは生存者をワンパンすることができます。"
+	}
+
+	"Boomer #69"
+	{
+		"jp"			"{mint}This Boomer can smash survivors to death."
+	}
+
+	"Charger #69"
+	{
+		"jp"			"{mint}This Charger can smash survivors to death."
+	}
+
+	"Hunter #69"
+	{
+		"jp"			"{mint}This Hunter can smash survivors to death."
+	}
+
+	"Jockey #69"
+	{
+		"jp"			"{mint}This Jockey can smash survivors to death."
+	}
+
+	"Smoker #69"
+	{
+		"jp"			"{mint}This Smoker can smash survivors to death."
+	}
+
+	"Spitter #69"
+	{
+		"jp"			"{mint}This Spitter can smash survivors to death."
+	}
+
+	"Witch #69"
+	{
+		"jp"			"{mint}This Witch can smash survivors to death."
+	}
+
+	"Tank #70 Name"
+	{
+		"jp"			"Smiter Tank"
+	}
+
+	"Boomer #70 Name"
+	{
+		"jp"			"Smiter Boomer"
+	}
+
+	"Charger #70 Name"
+	{
+		"jp"			"Smiter Charger"
+	}
+
+	"Hunter #70 Name"
+	{
+		"jp"			"Smiter Hunter"
+	}
+
+	"Jockey #70 Name"
+	{
+		"jp"			"Smiter Jockey"
+	}
+
+	"Smoker #70 Name"
+	{
+		"jp"			"Smiter Smoker"
+	}
+
+	"Spitter #70 Name"
+	{
+		"jp"			"Smiter Spitter"
+	}
+
+	"Witch #70 Name"
+	{
+		"jp"			"Smiter Witch"
+	}
+
+	"Tank #70"
+	{
+		"jp"			"{mint}このタンクは即死攻撃を放つことができます。"
+	}
+
+	"Boomer #70"
+	{
+		"jp"			"{mint}This Boomer can smite survivors for an instant kill."
+	}
+
+	"Charger #70"
+	{
+		"jp"			"{mint}This Charger can smite survivors for an instant kill."
+	}
+
+	"Hunter #70"
+	{
+		"jp"			"{mint}This Hunter can smite survivors for an instant kill."
+	}
+
+	"Jockey #70"
+	{
+		"jp"			"{mint}This Jockey can smite survivors for an instant kill."
+	}
+
+	"Smoker #70"
+	{
+		"jp"			"{mint}This Smoker can smite survivors for an instant kill."
+	}
+
+	"Spitter #70"
+	{
+		"jp"			"{mint}This Spitter can smite survivors for an instant kill."
+	}
+
+	"Witch #70"
+	{
+		"jp"			"{mint}This Witch can smite survivors for an instant kill."
+	}
+
+	"Tank #71 Name"
+	{
+		"jp"			"Smoker Tank"
+	}
+
+	"Boomer #71 Name"
+	{
+		"jp"			"Smoker Boomer"
+	}
+
+	"Charger #71 Name"
+	{
+		"jp"			"Smoker Charger"
+	}
+
+	"Hunter #71 Name"
+	{
+		"jp"			"Smoker Hunter"
+	}
+
+	"Jockey #71 Name"
+	{
+		"jp"			"Smoker Jockey"
+	}
+
+	"Smoker #71 Name"
+	{
+		"jp"			"Smoker Smoker"
+	}
+
+	"Spitter #71 Name"
+	{
+		"jp"			"Smoker Spitter"
+	}
+
+	"Witch #71 Name"
+	{
+		"jp"			"Smoker Witch"
+	}
+
+	"Tank #71"
+	{
+		"jp"			"{mint}このタンクは自身の背後にスモーカーをスポーンさせ、生存者に対してもスモーカーを投げつけることができます。"
+	}
+
+	"Boomer #71"
+	{
+		"jp"			"{mint}This Boomer can spawn Smokers behind it."
+	}
+
+	"Charger #71"
+	{
+		"jp"			"{mint}This Charger can spawn Smokers behind it."
+	}
+
+	"Hunter #71"
+	{
+		"jp"			"{mint}This Hunter can spawn Smokers behind it."
+	}
+
+	"Jockey #71"
+	{
+		"jp"			"{mint}This Jockey can spawn Smokers behind it."
+	}
+
+	"Smoker #71"
+	{
+		"jp"			"{mint}This Smoker can spawn Smokers behind it."
+	}
+
+	"Spitter #71"
+	{
+		"jp"			"{mint}This Spitter can spawn Smokers behind it."
+	}
+
+	"Witch #71"
+	{
+		"jp"			"{mint}This Witch can spawn Smokers behind it."
+	}
+
+	"Tank #72 Name"
+	{
+		"jp"			"Spammer Tank"
+	}
+
+	"Boomer #72 Name"
+	{
+		"jp"			"Spammer Boomer"
+	}
+
+	"Charger #72 Name"
+	{
+		"jp"			"Spammer Charger"
+	}
+
+	"Hunter #72 Name"
+	{
+		"jp"			"Spammer Hunter"
+	}
+
+	"Jockey #72 Name"
+	{
+		"jp"			"Spammer Jockey"
+	}
+
+	"Smoker #72 Name"
+	{
+		"jp"			"Spammer Smoker"
+	}
+
+	"Spitter #72 Name"
+	{
+		"jp"			"Spammer Spitter"
+	}
+
+	"Witch #72 Name"
+	{
+		"jp"			"Spammer Witch"
+	}
+
+	"Tank #72"
+	{
+		"jp"			"{mint}このタンクは生存者に対して岩を連続で投げつけることができます。"
+	}
+
+	"Boomer #72"
+	{
+		"jp"			"{mint}This Boomer can spam rocks at survivors."
+	}
+
+	"Charger #72"
+	{
+		"jp"			"{mint}This Charger can spam rocks at survivors."
+	}
+
+	"Hunter #72"
+	{
+		"jp"			"{mint}This Hunter can spam rocks at survivors."
+	}
+
+	"Jockey #72"
+	{
+		"jp"			"{mint}This Jockey can spam rocks at survivors."
+	}
+
+	"Smoker #72"
+	{
+		"jp"			"{mint}This Smoker can spam rocks at survivors."
+	}
+
+	"Spitter #72"
+	{
+		"jp"			"{mint}This Spitter can spam rocks at survivors."
+	}
+
+	"Witch #72"
+	{
+		"jp"			"{mint}This Witch can spam rocks at survivors."
+	}
+
+	"Tank #73 Name"
+	{
+		"jp"			"Special Tank"
+	}
+
+	"Boomer #73 Name"
+	{
+		"jp"			"Special Boomer"
+	}
+
+	"Charger #73 Name"
+	{
+		"jp"			"Special Charger"
+	}
+
+	"Hunter #73 Name"
+	{
+		"jp"			"Special Hunter"
+	}
+
+	"Jockey #73 Name"
+	{
+		"jp"			"Special Jockey"
+	}
+
+	"Smoker #73 Name"
+	{
+		"jp"			"Special Smoker"
+	}
+
+	"Spitter #73 Name"
+	{
+		"jp"			"Special Spitter"
+	}
+
+	"Witch #73 Name"
+	{
+		"jp"			"Special Witch"
+	}
+
+	"Tank #73"
+	{
+		"jp"			"{mint}このタンクは自身の背後にランダムな特殊感染者をスポーンさせ、生存者に対してもランダムな特殊感染者を投げつけることができます。"
+	}
+
+	"Boomer #73"
+	{
+		"jp"			"{mint}This Boomer can spawn random special infected behind it."
+	}
+
+	"Charger #73"
+	{
+		"jp"			"{mint}This Charger can spawn random special infected behind it."
+	}
+
+	"Hunter #73"
+	{
+		"jp"			"{mint}This Hunter can spawn random special infected behind it."
+	}
+
+	"Jockey #73"
+	{
+		"jp"			"{mint}This Jockey can spawn random special infected behind it."
+	}
+
+	"Smoker #73"
+	{
+		"jp"			"{mint}This Smoker can spawn random special infected behind it."
+	}
+
+	"Spitter #73"
+	{
+		"jp"			"{mint}This Spitter can spawn random special infected behind it."
+	}
+
+	"Witch #73"
+	{
+		"jp"			"{mint}This Witch can spawn random special infected behind it."
+	}
+
+	"Tank #74 Name"
+	{
+		"jp"			"Spitter Tank"
+	}
+
+	"Boomer #74 Name"
+	{
+		"jp"			"Spitter Boomer"
+	}
+
+	"Charger #74 Name"
+	{
+		"jp"			"Spitter Charger"
+	}
+
+	"Hunter #74 Name"
+	{
+		"jp"			"Spitter Hunter"
+	}
+
+	"Jockey #74 Name"
+	{
+		"jp"			"Spitter Jockey"
+	}
+
+	"Smoker #74 Name"
+	{
+		"jp"			"Spitter Smoker"
+	}
+
+	"Spitter #74 Name"
+	{
+		"jp"			"Spitter Spitter"
+	}
+
+	"Witch #74 Name"
+	{
+		"jp"			"Spitter Witch"
+	}
+
+	"Tank #74"
+	{
+		"jp"			"{mint}このタンクは自身の背後にスピッターをスポーンさせ、生存者に対してもスピッターを投げつけることができます。"
+	}
+
+	"Boomer #74"
+	{
+		"jp"			"{mint}This Boomer can spawn Spitters behind it."
+	}
+
+	"Charger #74"
+	{
+		"jp"			"{mint}This Charger can spawn Spitters behind it."
+	}
+
+	"Hunter #74"
+	{
+		"jp"			"{mint}This Hunter can spawn Spitters behind it."
+	}
+
+	"Jockey #74"
+	{
+		"jp"			"{mint}This Jockey can spawn Spitters behind it."
+	}
+
+	"Smoker #74"
+	{
+		"jp"			"{mint}This Smoker can spawn Spitters behind it."
+	}
+
+	"Spitter #74"
+	{
+		"jp"			"{mint}This Spitter can spawn Spitters behind it."
+	}
+
+	"Witch #74"
+	{
+		"jp"			"{mint}This Witch can spawn Spitters behind it."
+	}
+
+	"Tank #75 Name"
+	{
+		"jp"			"Splasher Tank"
+	}
+
+	"Boomer #75 Name"
+	{
+		"jp"			"Splasher Boomer"
+	}
+
+	"Charger #75 Name"
+	{
+		"jp"			"Splasher Charger"
+	}
+
+	"Hunter #75 Name"
+	{
+		"jp"			"Splasher Hunter"
+	}
+
+	"Jockey #75 Name"
+	{
+		"jp"			"Splasher Jockey"
+	}
+
+	"Smoker #75 Name"
+	{
+		"jp"			"Splasher Smoker"
+	}
+
+	"Spitter #75 Name"
+	{
+		"jp"			"Splasher Spitter"
+	}
+
+	"Witch #75 Name"
+	{
+		"jp"			"Splasher Witch"
+	}
+
+	"Tank #75"
+	{
+		"jp"			"{mint}このタンクは一定範囲内の生存者に対してダメージを与えることができます。"
+	}
+
+	"Boomer #75"
+	{
+		"jp"			"{mint}This Boomer can release a splash of damage within a certain radius."
+	}
+
+	"Charger #75"
+	{
+		"jp"			"{mint}This Charger can release a splash of damage within a certain radius."
+	}
+
+	"Hunter #75"
+	{
+		"jp"			"{mint}This Hunter can release a splash of damage within a certain radius."
+	}
+
+	"Jockey #75"
+	{
+		"jp"			"{mint}This Jockey can release a splash of damage within a certain radius."
+	}
+
+	"Smoker #75"
+	{
+		"jp"			"{mint}This Smoker can release a splash of damage within a certain radius."
+	}
+
+	"Spitter #75"
+	{
+		"jp"			"{mint}This Spitter can release a splash of damage within a certain radius."
+	}
+
+	"Witch #75"
+	{
+		"jp"			"{mint}This Witch can release a splash of damage within a certain radius."
+	}
+
+	"Tank #76 Name"
+	{
+		"jp"			"Splatter Tank"
+	}
+
+	"Boomer #76 Name"
+	{
+		"jp"			"Splatter Boomer"
+	}
+
+	"Charger #76 Name"
+	{
+		"jp"			"Splatter Charger"
+	}
+
+	"Hunter #76 Name"
+	{
+		"jp"			"Splatter Hunter"
+	}
+
+	"Jockey #76 Name"
+	{
+		"jp"			"Splatter Jockey"
+	}
+
+	"Smoker #76 Name"
+	{
+		"jp"			"Splatter Smoker"
+	}
+
+	"Spitter #76 Name"
+	{
+		"jp"			"Splatter Spitter"
+	}
+
+	"Witch #76 Name"
+	{
+		"jp"			"Splatter Witch"
+	}
+
+	"Tank #76"
+	{
+		"jp"			"{mint}このタンクは全員に対して様々な画面エフェクトをかけることができます。"
+	}
+
+	"Boomer #76"
+	{
+		"jp"			"{mint}This Boomer can cover everyone's screens with splatters."
+	}
+
+	"Charger #76"
+	{
+		"jp"			"{mint}This Charger can cover everyone's screens with splatters."
+	}
+
+	"Hunter #76"
+	{
+		"jp"			"{mint}This Hunter can cover everyone's screens with splatters."
+	}
+
+	"Jockey #76"
+	{
+		"jp"			"{mint}This Jockey can cover everyone's screens with splatters."
+	}
+
+	"Smoker #76"
+	{
+		"jp"			"{mint}This Smoker can cover everyone's screens with splatters."
+	}
+
+	"Spitter #76"
+	{
+		"jp"			"{mint}This Spitter can cover everyone's screens with splatters."
+	}
+
+	"Witch #76"
+	{
+		"jp"			"{mint}This Witch can cover everyone's screens with splatters."
+	}
+
+	"Tank #77 Name"
+	{
+		"jp"			"Thrower Tank"
+	}
+
+	"Boomer #77 Name"
+	{
+		"jp"			"Thrower Boomer"
+	}
+
+	"Charger #77 Name"
+	{
+		"jp"			"Thrower Charger"
+	}
+
+	"Hunter #77 Name"
+	{
+		"jp"			"Thrower Hunter"
+	}
+
+	"Jockey #77 Name"
+	{
+		"jp"			"Thrower Jockey"
+	}
+
+	"Smoker #77 Name"
+	{
+		"jp"			"Thrower Smoker"
+	}
+
+	"Spitter #77 Name"
+	{
+		"jp"			"Thrower Spitter"
+	}
+
+	"Witch #77 Name"
+	{
+		"jp"			"Thrower Witch"
+	}
+
+	"Tank #77"
+	{
+		"jp"			"{mint}このタンクは車, 特殊感染者, タンク, ウィッチ, そして自分を投げつけることができます！"
+	}
+
+	"Boomer #77"
+	{
+		"jp"			"{mint}This Boomer can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Charger #77"
+	{
+		"jp"			"{mint}This Charger can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Hunter #77"
+	{
+		"jp"			"{mint}This Hunter can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Jockey #77"
+	{
+		"jp"			"{mint}This Jockey can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Smoker #77"
+	{
+		"jp"			"{mint}This Smoker can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Spitter #77"
+	{
+		"jp"			"{mint}This Spitter can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Witch #77"
+	{
+		"jp"			"{mint}This Witch can throw cars, special infected, Tanks, Witches, and itself!"
+	}
+
+	"Tank #78 Name"
+	{
+		"jp"			"Tracker Tank"
+	}
+
+	"Boomer #78 Name"
+	{
+		"jp"			"Tracker Boomer"
+	}
+
+	"Charger #78 Name"
+	{
+		"jp"			"Tracker Charger"
+	}
+
+	"Hunter #78 Name"
+	{
+		"jp"			"Tracker Hunter"
+	}
+
+	"Jockey #78 Name"
+	{
+		"jp"			"Tracker Jockey"
+	}
+
+	"Smoker #78 Name"
+	{
+		"jp"			"Tracker Smoker"
+	}
+
+	"Spitter #78 Name"
+	{
+		"jp"			"Tracker Spitter"
+	}
+
+	"Witch #78 Name"
+	{
+		"jp"			"Tracker Witch"
+	}
+
+	"Tank #78"
+	{
+		"jp"			"{mint}このタンクは近くのプレイヤーに追尾する岩を投げることができます。"
+	}
+
+	"Boomer #78"
+	{
+		"jp"			"{mint}This Boomer throws rocks which can track nearby survivors."
+	}
+
+	"Charger #78"
+	{
+		"jp"			"{mint}This Charger throws rocks which can track nearby survivors."
+	}
+
+	"Hunter #78"
+	{
+		"jp"			"{mint}This Hunter throws rocks which can track nearby survivors."
+	}
+
+	"Jockey #78"
+	{
+		"jp"			"{mint}This Jockey throws rocks which can track nearby survivors."
+	}
+
+	"Smoker #78"
+	{
+		"jp"			"{mint}This Smoker throws rocks which can track nearby survivors."
+	}
+
+	"Spitter #78"
+	{
+		"jp"			"{mint}This Spitter throws rocks which can track nearby survivors."
+	}
+
+	"Witch #78"
+	{
+		"jp"			"{mint}This Witch throws rocks which can track nearby survivors."
+	}
+
+	"Tank #79 Name"
+	{
+		"jp"			"Ultimate Tank"
+	}
+
+	"Boomer #79 Name"
+	{
+		"jp"			"Ultimate Boomer"
+	}
+
+	"Charger #79 Name"
+	{
+		"jp"			"Ultimate Charger"
+	}
+
+	"Hunter #79 Name"
+	{
+		"jp"			"Ultimate Hunter"
+	}
+
+	"Jockey #79 Name"
+	{
+		"jp"			"Ultimate Jockey"
+	}
+
+	"Smoker #79 Name"
+	{
+		"jp"			"Ultimate Smoker"
+	}
+
+	"Spitter #79 Name"
+	{
+		"jp"			"Ultimate Spitter"
+	}
+
+	"Witch #79 Name"
+	{
+		"jp"			"Ultimate Witch"
+	}
+
+	"Tank #79"
+	{
+		"jp"			"{mint}このタンクは一時的に無敵状態になり、HPが低くなった際はダメージが増加します。"
+	}
+
+	"Boomer #79"
+	{
+		"jp"			"{mint}This Boomer gains temporary godmode and damage boost when low on health."
+	}
+
+	"Charger #79"
+	{
+		"jp"			"{mint}This Charger gains temporary godmode and damage boost when low on health."
+	}
+
+	"Hunter #79"
+	{
+		"jp"			"{mint}This Hunter gains temporary godmode and damage boost when low on health."
+	}
+
+	"Jockey #79"
+	{
+		"jp"			"{mint}This Jockey gains temporary godmode and damage boost when low on health."
+	}
+
+	"Smoker #79"
+	{
+		"jp"			"{mint}This Smoker gains temporary godmode and damage boost when low on health."
+	}
+
+	"Spitter #79"
+	{
+		"jp"			"{mint}This Spitter gains temporary godmode and damage boost when low on health."
+	}
+
+	"Witch #79"
+	{
+		"jp"			"{mint}This Witch gains temporary godmode and damage boost when low on health."
+	}
+
+	"Tank #80 Name"
+	{
+		"jp"			"Undead Tank"
+	}
+
+	"Boomer #80 Name"
+	{
+		"jp"			"Undead Boomer"
+	}
+
+	"Charger #80 Name"
+	{
+		"jp"			"Undead Charger"
+	}
+
+	"Hunter #80 Name"
+	{
+		"jp"			"Undead Hunter"
+	}
+
+	"Jockey #80 Name"
+	{
+		"jp"			"Undead Jockey"
+	}
+
+	"Smoker #80 Name"
+	{
+		"jp"			"Undead Smoker"
+	}
+
+	"Spitter #80 Name"
+	{
+		"jp"			"Undead Spitter"
+	}
+
+	"Witch #80 Name"
+	{
+		"jp"			"Undead Witch"
+	}
+
+	"Tank #80"
+	{
+		"jp"			"{mint}このタンクは死にかけた際にHPを最大まで回復させます。"
+	}
+
+	"Boomer #80"
+	{
+		"jp"			"{mint}This Boomer regains full HP when close to dying."
+	}
+
+	"Charger #80"
+	{
+		"jp"			"{mint}This Charger regains full HP when close to dying."
+	}
+
+	"Hunter #80"
+	{
+		"jp"			"{mint}This Hunter regains full HP when close to dying."
+	}
+
+	"Jockey #80"
+	{
+		"jp"			"{mint}This Jockey regains full HP when close to dying."
+	}
+
+	"Smoker #80"
+	{
+		"jp"			"{mint}This Smoker regains full HP when close to dying."
+	}
+
+	"Spitter #80"
+	{
+		"jp"			"{mint}This Spitter regains full HP when close to dying."
+	}
+
+	"Witch #80"
+	{
+		"jp"			"{mint}This Witch regains full HP when close to dying."
+	}
+
+	"Tank #81 Name"
+	{
+		"jp"			"Vampire Tank"
+	}
+
+	"Boomer #81 Name"
+	{
+		"jp"			"Vampire Boomer"
+	}
+
+	"Charger #81 Name"
+	{
+		"jp"			"Vampire Charger"
+	}
+
+	"Hunter #81 Name"
+	{
+		"jp"			"Vampire Hunter"
+	}
+
+	"Jockey #81 Name"
+	{
+		"jp"			"Vampire Jockey"
+	}
+
+	"Smoker #81 Name"
+	{
+		"jp"			"Vampire Smoker"
+	}
+
+	"Spitter #81 Name"
+	{
+		"jp"			"Vampire Spitter"
+	}
+
+	"Witch #81 Name"
+	{
+		"jp"			"Vampire Witch"
+	}
+
+	"Tank #81"
+	{
+		"jp"			"{mint}このタンクは生存者からHPを盗み取ることができます。"
+	}
+
+	"Boomer #81"
+	{
+		"jp"			"{mint}This Boomer can steal health from survivors."
+	}
+
+	"Charger #81"
+	{
+		"jp"			"{mint}This Charger can steal health from survivors."
+	}
+
+	"Hunter #81"
+	{
+		"jp"			"{mint}This Hunter can steal health from survivors."
+	}
+
+	"Jockey #81"
+	{
+		"jp"			"{mint}This Jockey can steal health from survivors."
+	}
+
+	"Smoker #81"
+	{
+		"jp"			"{mint}This Smoker can steal health from survivors."
+	}
+
+	"Spitter #81"
+	{
+		"jp"			"{mint}This Spitter can steal health from survivors."
+	}
+
+	"Witch #81"
+	{
+		"jp"			"{mint}This Witch can steal health from survivors."
+	}
+
+	"Tank #82 Name"
+	{
+		"jp"			"Visual Tank"
+	}
+
+	"Boomer #82 Name"
+	{
+		"jp"			"Visual Boomer"
+	}
+
+	"Charger #82 Name"
+	{
+		"jp"			"Visual Charger"
+	}
+
+	"Hunter #82 Name"
+	{
+		"jp"			"Visual Hunter"
+	}
+
+	"Jockey #82 Name"
+	{
+		"jp"			"Visual Jockey"
+	}
+
+	"Smoker #82 Name"
+	{
+		"jp"			"Visual Smoker"
+	}
+
+	"Spitter #82 Name"
+	{
+		"jp"			"Visual Spitter"
+	}
+
+	"Witch #82 Name"
+	{
+		"jp"			"Visual Witch"
+	}
+
+	"Tank #82"
+	{
+		"jp"			"{mint}このタンクは生存者のFOVを変更することができます。"
+	}
+
+	"Boomer #82"
+	{
+		"jp"			"{mint}This Boomer can change the FOV of survivors."
+	}
+
+	"Charger #82"
+	{
+		"jp"			"{mint}This Charger can change the FOV of survivors."
+	}
+
+	"Hunter #82"
+	{
+		"jp"			"{mint}This Hunter can change the FOV of survivors."
+	}
+
+	"Jockey #82"
+	{
+		"jp"			"{mint}This Jockey can change the FOV of survivors."
+	}
+
+	"Smoker #82"
+	{
+		"jp"			"{mint}This Smoker can change the FOV of survivors."
+	}
+
+	"Spitter #82"
+	{
+		"jp"			"{mint}This Spitter can change the FOV of survivors."
+	}
+
+	"Witch #82"
+	{
+		"jp"			"{mint}This Witch can change the FOV of survivors."
+	}
+
+	"Tank #83 Name"
+	{
+		"jp"			"Warper Tank"
+	}
+
+	"Boomer #83 Name"
+	{
+		"jp"			"Warper Boomer"
+	}
+
+	"Charger #83 Name"
+	{
+		"jp"			"Warper Charger"
+	}
+
+	"Hunter #83 Name"
+	{
+		"jp"			"Warper Hunter"
+	}
+
+	"Jockey #83 Name"
+	{
+		"jp"			"Warper Jockey"
+	}
+
+	"Smoker #83 Name"
+	{
+		"jp"			"Warper Smoker"
+	}
+
+	"Spitter #83 Name"
+	{
+		"jp"			"Warper Spitter"
+	}
+
+	"Witch #83 Name"
+	{
+		"jp"			"Warper Witch"
+	}
+
+	"Tank #83"
+	{
+		"jp"			"{mint}このタンクはランダムな生存者にテレポートすることができます。"
+	}
+
+	"Boomer #83"
+	{
+		"jp"			"{mint}This Boomer can warp to a random survivor."
+	}
+
+	"Charger #83"
+	{
+		"jp"			"{mint}This Charger can warp to a random survivor."
+	}
+
+	"Hunter #83"
+	{
+		"jp"			"{mint}This Hunter can warp to a random survivor."
+	}
+
+	"Jockey #83"
+	{
+		"jp"			"{mint}This Jockey can warp to a random survivor."
+	}
+
+	"Smoker #83"
+	{
+		"jp"			"{mint}This Smoker can warp to a random survivor."
+	}
+
+	"Spitter #83"
+	{
+		"jp"			"{mint}This Spitter can warp to a random survivor."
+	}
+
+	"Witch #83"
+	{
+		"jp"			"{mint}This Witch can warp to a random survivor."
+	}
+
+	"Tank #84 Name"
+	{
+		"jp"			"Whirler Tank"
+	}
+
+	"Boomer #84 Name"
+	{
+		"jp"			"Whirler Boomer"
+	}
+
+	"Charger #84 Name"
+	{
+		"jp"			"Whirler Charger"
+	}
+
+	"Hunter #84 Name"
+	{
+		"jp"			"Whirler Hunter"
+	}
+
+	"Jockey #84 Name"
+	{
+		"jp"			"Whirler Jockey"
+	}
+
+	"Smoker #84 Name"
+	{
+		"jp"			"Whirler Smoker"
+	}
+
+	"Spitter #84 Name"
+	{
+		"jp"			"Whirler Spitter"
+	}
+
+	"Witch #84 Name"
+	{
+		"jp"			"Whirler Witch"
+	}
+
+	"Tank #84"
+	{
+		"jp"			"{mint}このタンクは生存者の画面を高速で回転させます。"
+	}
+
+	"Boomer #84"
+	{
+		"jp"			"{mint}This Boomer can make survivors whirl."
+	}
+
+	"Charger #84"
+	{
+		"jp"			"{mint}This Charger can make survivors whirl."
+	}
+
+	"Hunter #84"
+	{
+		"jp"			"{mint}This Hunter can make survivors whirl."
+	}
+
+	"Jockey #84"
+	{
+		"jp"			"{mint}This Jockey can make survivors whirl."
+	}
+
+	"Smoker #84"
+	{
+		"jp"			"{mint}This Smoker can make survivors whirl."
+	}
+
+	"Spitter #84"
+	{
+		"jp"			"{mint}This Spitter can make survivors whirl."
+	}
+
+	"Witch #84"
+	{
+		"jp"			"{mint}This Witch can make survivors whirl."
+	}
+
+	"Tank #85 Name"
+	{
+		"jp"			"Witch Tank"
+	}
+
+	"Boomer #85 Name"
+	{
+		"jp"			"Witch Boomer"
+	}
+
+	"Charger #85 Name"
+	{
+		"jp"			"Witch Charger"
+	}
+
+	"Hunter #85 Name"
+	{
+		"jp"			"Witch Hunter"
+	}
+
+	"Jockey #85 Name"
+	{
+		"jp"			"Witch Jockey"
+	}
+
+	"Smoker #85 Name"
+	{
+		"jp"			"Witch Smoker"
+	}
+
+	"Spitter #85 Name"
+	{
+		"jp"			"Witch Spitter"
+	}
+
+	"Witch #85 Name"
+	{
+		"jp"			"Witch Witch"
+	}
+
+	"Tank #85"
+	{
+		"jp"			"{mint}このタンクは周辺の通常感染者をウィッチに変換し、生存者に対して投げつけることができます。"
+	}
+
+	"Boomer #85"
+	{
+		"jp"			"{mint}This Boomer can convert nearby common infected into Witches."
+	}
+
+	"Charger #85"
+	{
+		"jp"			"{mint}This Charger can convert nearby common infected into Witches."
+	}
+
+	"Hunter #85"
+	{
+		"jp"			"{mint}This Hunter can convert nearby common infected into Witches."
+	}
+
+	"Jockey #85"
+	{
+		"jp"			"{mint}This Jockey can convert nearby common infected into Witches."
+	}
+
+	"Smoker #85"
+	{
+		"jp"			"{mint}This Smoker can convert nearby common infected into Witches."
+	}
+
+	"Spitter #85"
+	{
+		"jp"			"{mint}This Spitter can convert nearby common infected into Witches."
+	}
+
+	"Witch #85"
+	{
+		"jp"			"{mint}This Witch can convert nearby common infected into Witches."
+	}
+
+	"Tank #86 Name"
+	{
+		"jp"			"Xiphos Tank"
+	}
+
+	"Boomer #86 Name"
+	{
+		"jp"			"Xiphos Boomer"
+	}
+
+	"Charger #86 Name"
+	{
+		"jp"			"Xiphos Charger"
+	}
+
+	"Hunter #86 Name"
+	{
+		"jp"			"Xiphos Hunter"
+	}
+
+	"Jockey #86 Name"
+	{
+		"jp"			"Xiphos Jockey"
+	}
+
+	"Smoker #86 Name"
+	{
+		"jp"			"Xiphos Smoker"
+	}
+
+	"Spitter #86 Name"
+	{
+		"jp"			"Xiphos Spitter"
+	}
+
+	"Witch #86 Name"
+	{
+		"jp"			"Xiphos Witch"
+	}
+
+	"Tank #86"
+	{
+		"jp"			"{mint}このタンクは生存者からHPを吸い取ることができ、またその逆も行うことができます。"
+	}
+
+	"Boomer #86"
+	{
+		"jp"			"{mint}This Boomer can steal health from survivors and vice-versa."
+	}
+
+	"Charger #86"
+	{
+		"jp"			"{mint}This Charger can steal health from survivors and vice-versa."
+	}
+
+	"Hunter #86"
+	{
+		"jp"			"{mint}This Hunter can steal health from survivors and vice-versa."
+	}
+
+	"Jockey #86"
+	{
+		"jp"			"{mint}This Jockey can steal health from survivors and vice-versa."
+	}
+
+	"Smoker #86"
+	{
+		"jp"			"{mint}This Smoker can steal health from survivors and vice-versa."
+	}
+
+	"Spitter #86"
+	{
+		"jp"			"{mint}This Spitter can steal health from survivors and vice-versa."
+	}
+
+	"Witch #86"
+	{
+		"jp"			"{mint}This Witch can steal health from survivors and vice-versa."
+	}
+
+	"Tank #87 Name"
+	{
+		"jp"			"Yeller Tank"
+	}
+
+	"Boomer #87 Name"
+	{
+		"jp"			"Yeller Boomer"
+	}
+
+	"Charger #87 Name"
+	{
+		"jp"			"Yeller Charger"
+	}
+
+	"Hunter #87 Name"
+	{
+		"jp"			"Yeller Hunter"
+	}
+
+	"Jockey #87 Name"
+	{
+		"jp"			"Yeller Jockey"
+	}
+
+	"Smoker #87 Name"
+	{
+		"jp"			"Yeller Smoker"
+	}
+
+	"Spitter #87 Name"
+	{
+		"jp"			"Yeller Spitter"
+	}
+
+	"Witch #87 Name"
+	{
+		"jp"			"Yeller Witch"
+	}
+
+	"Tank #87"
+	{
+		"jp"			"{mint}このタンクは生存者を咆哮で一時的に音を聞こえにくくします。"
+	}
+
+	"Boomer #87"
+	{
+		"jp"			"{mint}This Boomer can yell to defean survivors."
+	}
+
+	"Charger #87"
+	{
+		"jp"			"{mint}This Charger can yell to defean survivors."
+	}
+
+	"Hunter #87"
+	{
+		"jp"			"{mint}This Hunter can yell to defean survivors."
+	}
+
+	"Jockey #87"
+	{
+		"jp"			"{mint}This Jockey can yell to defean survivors."
+	}
+
+	"Smoker #87"
+	{
+		"jp"			"{mint}This Smoker can yell to defean survivors."
+	}
+
+	"Spitter #87"
+	{
+		"jp"			"{mint}This Spitter can yell to defean survivors."
+	}
+
+	"Witch #87"
+	{
+		"jp"			"{mint}This Witch can yell to defean survivors."
+	}
+
+	"Tank #88 Name"
+	{
+		"jp"			"Zombie Tank"
+	}
+
+	"Boomer #88 Name"
+	{
+		"jp"			"Zombie Boomer"
+	}
+
+	"Charger #88 Name"
+	{
+		"jp"			"Zombie Charger"
+	}
+
+	"Hunter #88 Name"
+	{
+		"jp"			"Zombie Hunter"
+	}
+
+	"Jockey #88 Name"
+	{
+		"jp"			"Zombie Jockey"
+	}
+
+	"Smoker #88 Name"
+	{
+		"jp"			"Zombie Smoker"
+	}
+
+	"Spitter #88 Name"
+	{
+		"jp"			"Zombie Spitter"
+	}
+
+	"Witch #88 Name"
+	{
+		"jp"			"Zombie Witch"
+	}
+
+	"Tank #88"
+	{
+		"jp"			"{mint}このタンクは感染者を一定の範囲内に召喚することができます。"
+	}
+
+	"Boomer #88"
+	{
+		"jp"			"{mint}This Boomer can create a mob of zombies within the area."
+	}
+
+	"Charger #88"
+	{
+		"jp"			"{mint}This Charger can create a mob of zombies within the area."
+	}
+
+	"Hunter #88"
+	{
+		"jp"			"{mint}This Hunter can create a mob of zombies within the area."
+	}
+
+	"Jockey #88"
+	{
+		"jp"			"{mint}This Jockey can create a mob of zombies within the area."
+	}
+
+	"Smoker #88"
+	{
+		"jp"			"{mint}This Smoker can create a mob of zombies within the area."
+	}
+
+	"Spitter #88"
+	{
+		"jp"			"{mint}This Spitter can create a mob of zombies within the area."
+	}
+
+	"Witch #88"
+	{
+		"jp"			"{mint}This Witch can create a mob of zombies within the area."
+	}
+
+	"Tank #89 Name"
+	{
+		"jp"			"Armageddon Tank"
+	}
+
+	"Boomer #89 Name"
+	{
+		"jp"			"Armageddon Boomer"
+	}
+
+	"Charger #89 Name"
+	{
+		"jp"			"Armageddon Charger"
+	}
+
+	"Hunter #89 Name"
+	{
+		"jp"			"Armageddon Hunter"
+	}
+
+	"Jockey #89 Name"
+	{
+		"jp"			"Armageddon Jockey"
+	}
+
+	"Smoker #89 Name"
+	{
+		"jp"			"Armageddon Smoker"
+	}
+
+	"Spitter #89 Name"
+	{
+		"jp"			"Armageddon Spitter"
+	}
+
+	"Witch #89 Name"
+	{
+		"jp"			"Armageddon Witch"
+	}
+
+	"Tank #89"
+	{
+		"jp"			"{mint}このタンクは爆発に対して耐性を持ち、生存者と感染者を自身に引き寄せ、隕石の雨を降らすことができます。"
+	}
+
+	"Boomer #89"
+	{
+		"jp"			"{mint}This Boomer is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Charger #89"
+	{
+		"jp"			"{mint}This Charger is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Hunter #89"
+	{
+		"jp"			"{mint}This Hunter is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Jockey #89"
+	{
+		"jp"			"{mint}This Jockey is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Smoker #89"
+	{
+		"jp"			"{mint}This Smoker is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Spitter #89"
+	{
+		"jp"			"{mint}This Spitter is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Witch #89"
+	{
+		"jp"			"{mint}This Witch is immune to explosives, can pull survivors and infected towards it, and can start meteor showers."
+	}
+
+	"Tank #90 Name"
+	{
+		"jp"			"Boss Tank"
+	}
+
+	"Boomer #90 Name"
+	{
+		"jp"			"Boss Boomer"
+	}
+
+	"Charger #90 Name"
+	{
+		"jp"			"Boss Charger"
+	}
+
+	"Hunter #90 Name"
+	{
+		"jp"			"Boss Hunter"
+	}
+
+	"Jockey #90 Name"
+	{
+		"jp"			"Boss Jockey"
+	}
+
+	"Smoker #90 Name"
+	{
+		"jp"			"Boss Smoker"
+	}
+
+	"Spitter #90 Name"
+	{
+		"jp"			"Boss Spitter"
+	}
+
+	"Witch #90 Name"
+	{
+		"jp"			"Boss Witch"
+	}
+
+	"Tank #90"
+	{
+		"jp"			"{mint}炎上ダメージへの耐性, 高速, 自身を透明化, 生存者の武装を解除, 生存者を引き寄せ重力を変更, 強制的にジャンプ, 隕石の雨を降らせる, シールドを持ってスポーン, 即死攻撃, 生存者の元へテレポートする, ゾンビとウィッチをスポーン。"
+	}
+
+	"Boomer #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Charger #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Hunter #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Jockey #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Smoker #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Spitter #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Witch #90"
+	{
+		"jp"			"{mint}Fire immunity, fast, cloak itself, disarm survivors, pull survivors in and change their gravity, jump periodically, start meteor showers, spawn with a shield, smite survivors, warp to survivors, and spawn Witches/zombies."
+	}
+
+	"Tank #91 Name"
+	{
+		"jp"			"Cobalt Tank"
+	}
+
+	"Boomer #91 Name"
+	{
+		"jp"			"Cobalt Boomer"
+	}
+
+	"Charger #91 Name"
+	{
+		"jp"			"Cobalt Charger"
+	}
+
+	"Hunter #91 Name"
+	{
+		"jp"			"Cobalt Hunter"
+	}
+
+	"Jockey #91 Name"
+	{
+		"jp"			"Cobalt Jockey"
+	}
+
+	"Smoker #91 Name"
+	{
+		"jp"			"Cobalt Smoker"
+	}
+
+	"Spitter #91 Name"
+	{
+		"jp"			"Cobalt Spitter"
+	}
+
+	"Witch #91 Name"
+	{
+		"jp"			"Cobalt Witch"
+	}
+
+	"Tank #91"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージに耐性を持ち、高速で移動できます。"
+	}
+
+	"Boomer #91"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage and can run really fast."
+	}
+
+	"Charger #91"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage and can run really fast."
+	}
+
+	"Hunter #91"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage and can run really fast."
+	}
+
+	"Jockey #91"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage and can run really fast."
+	}
+
+	"Smoker #91"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage and can run really fast."
+	}
+
+	"Spitter #91"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage and can run really fast."
+	}
+
+	"Witch #91"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage and can run really fast."
+	}
+
+	"Tank #92 Name"
+	{
+		"jp"			"Distraction Tank"
+	}
+
+	"Boomer #92 Name"
+	{
+		"jp"			"Distraction Boomer"
+	}
+
+	"Charger #92 Name"
+	{
+		"jp"			"Distraction Charger"
+	}
+
+	"Hunter #92 Name"
+	{
+		"jp"			"Distraction Hunter"
+	}
+
+	"Jockey #92 Name"
+	{
+		"jp"			"Distraction Jockey"
+	}
+
+	"Smoker #92 Name"
+	{
+		"jp"			"Distraction Smoker"
+	}
+
+	"Spitter #92 Name"
+	{
+		"jp"			"Distraction Spitter"
+	}
+
+	"Witch #92 Name"
+	{
+		"jp"			"Distraction Witch"
+	}
+
+	"Tank #92"
+	{
+		"jp"			"{mint}このタンクは定期的にジャンプし、生存者のジャンプを制御不能にし、生存者へテレポートすることができます。 "
+	}
+
+	"Boomer #92"
+	{
+		"jp"			"{mint}This Boomer can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Charger #92"
+	{
+		"jp"			"{mint}This Charger can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Hunter #92"
+	{
+		"jp"			"{mint}This Hunter can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Jockey #92"
+	{
+		"jp"			"{mint}This Jockey can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Smoker #92"
+	{
+		"jp"			"{mint}This Smoker can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Spitter #92"
+	{
+		"jp"			"{mint}This Spitter can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Witch #92"
+	{
+		"jp"			"{mint}This Witch can jump periodically, make survivors jump uncontrollably, and warp to survivors."
+	}
+
+	"Tank #93 Name"
+	{
+		"jp"			"Feedback Tank"
+	}
+
+	"Boomer #93 Name"
+	{
+		"jp"			"Feedback Boomer"
+	}
+
+	"Charger #93 Name"
+	{
+		"jp"			"Feedback Charger"
+	}
+
+	"Hunter #93 Name"
+	{
+		"jp"			"Feedback Hunter"
+	}
+
+	"Jockey #93 Name"
+	{
+		"jp"			"Feedback Jockey"
+	}
+
+	"Smoker #93 Name"
+	{
+		"jp"			"Feedback Smoker"
+	}
+
+	"Spitter #93 Name"
+	{
+		"jp"			"Feedback Spitter"
+	}
+
+	"Witch #93 Name"
+	{
+		"jp"			"Feedback Witch"
+	}
+
+	"Tank #93"
+	{
+		"jp"			"{mint}このタンクは生存者を遠くへ押し出します。"
+	}
+
+	"Boomer #93"
+	{
+		"jp"			"{mint}This Boomer pushes survivors away."
+	}
+
+	"Charger #93"
+	{
+		"jp"			"{mint}This Charger pushes survivors away."
+	}
+
+	"Hunter #93"
+	{
+		"jp"			"{mint}This Hunter pushes survivors away."
+	}
+
+	"Jockey #93"
+	{
+		"jp"			"{mint}This Jockey pushes survivors away."
+	}
+
+	"Smoker #93"
+	{
+		"jp"			"{mint}This Smoker pushes survivors away."
+	}
+
+	"Spitter #93"
+	{
+		"jp"			"{mint}This Spitter pushes survivors away."
+	}
+
+	"Witch #93"
+	{
+		"jp"			"{mint}This Witch pushes survivors away."
+	}
+
+	"Tank #94 Name"
+	{
+		"jp"			"Flash Tank"
+	}
+
+	"Boomer #94 Name"
+	{
+		"jp"			"Flash Boomer"
+	}
+
+	"Charger #94 Name"
+	{
+		"jp"			"Flash Charger"
+	}
+
+	"Hunter #94 Name"
+	{
+		"jp"			"Flash Hunter"
+	}
+
+	"Jockey #94 Name"
+	{
+		"jp"			"Flash Jockey"
+	}
+
+	"Smoker #94 Name"
+	{
+		"jp"			"Flash Smoker"
+	}
+
+	"Spitter #94 Name"
+	{
+		"jp"			"Flash Spitter"
+	}
+
+	"Witch #94 Name"
+	{
+		"jp"			"Flash Witch"
+	}
+
+	"Tank #94"
+	{
+		"jp"			"{mint}このタンクは超高速で動き、電撃を生存者に投げつけ、一時的に無敵になりながら自身の周辺の生存者の速度を低下させることができます。"
+	}
+
+	"Boomer #94"
+	{
+		"jp"			"{mint}This Boomer can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Charger #94"
+	{
+		"jp"			"{mint}This Charger can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Hunter #94"
+	{
+		"jp"			"{mint}This Hunter can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Jockey #94"
+	{
+		"jp"			"{mint}This Jockey can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Smoker #94"
+	{
+		"jp"			"{mint}This Smoker can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Spitter #94"
+	{
+		"jp"			"{mint}This Spitter can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Witch #94"
+	{
+		"jp"			"{mint}This Witch can run really fast and slow down time around itself, all while having temporary invincibility."
+	}
+
+	"Tank #95 Name"
+	{
+		"jp"			"Goliath Tank"
+	}
+
+	"Boomer #95 Name"
+	{
+		"jp"			"Goliath Boomer"
+	}
+
+	"Charger #95 Name"
+	{
+		"jp"			"Goliath Charger"
+	}
+
+	"Hunter #95 Name"
+	{
+		"jp"			"Goliath Hunter"
+	}
+
+	"Jockey #95 Name"
+	{
+		"jp"			"Goliath Jockey"
+	}
+
+	"Smoker #95 Name"
+	{
+		"jp"			"Goliath Smoker"
+	}
+
+	"Spitter #95 Name"
+	{
+		"jp"			"Goliath Spitter"
+	}
+
+	"Witch #95 Name"
+	{
+		"jp"			"Goliath Witch"
+	}
+
+	"Tank #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+		"jp"			"{mint}炎上ダメージへの耐性, ゆっくりと移動, 生存者に一時的なHPを付与, 周辺の感染者からHPを吸収, シールドを持ってスポーン, 即死攻撃"
+	}
+
+	"Boomer #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Charger #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Hunter #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Jockey #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Smoker #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Spitter #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Witch #95"
+	{
+		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
+	}
+
+	"Tank #96 Name"
+	{
+		"jp"			"Hallucination Tank"
+	}
+
+	"Boomer #96 Name"
+	{
+		"jp"			"Hallucination Boomer"
+	}
+
+	"Charger #96 Name"
+	{
+		"jp"			"Hallucination Charger"
+	}
+
+	"Hunter #96 Name"
+	{
+		"jp"			"Hallucination Hunter"
+	}
+
+	"Jockey #96 Name"
+	{
+		"jp"			"Hallucination Jockey"
+	}
+
+	"Smoker #96 Name"
+	{
+		"jp"			"Hallucination Smoker"
+	}
+
+	"Spitter #96 Name"
+	{
+		"jp"			"Hallucination Spitter"
+	}
+
+	"Witch #96 Name"
+	{
+		"jp"			"Hallucination Witch"
+	}
+
+	"Tank #96"
+	{
+		"jp"			"{mint}炎上ダメージへの耐性, 自身を透明化, 生存者へテレポート。"
+	}
+
+	"Boomer #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Charger #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Hunter #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Jockey #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Smoker #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Spitter #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Witch #96"
+	{
+		"jp"			"{mint}Fire immunity, cloaks itself, and warps to survivors."
+	}
+
+	"Tank #97 Name"
+	{
+		"jp"			"Meme Tank"
+	}
+
+	"Boomer #97 Name"
+	{
+		"jp"			"Meme Boomer"
+	}
+
+	"Charger #97 Name"
+	{
+		"jp"			"Meme Charger"
+	}
+
+	"Hunter #97 Name"
+	{
+		"jp"			"Meme Hunter"
+	}
+
+	"Jockey #97 Name"
+	{
+		"jp"			"Meme Jockey"
+	}
+
+	"Smoker #97 Name"
+	{
+		"jp"			"Meme Smoker"
+	}
+
+	"Spitter #97 Name"
+	{
+		"jp"			"Meme Spitter"
+	}
+
+	"Witch #97 Name"
+	{
+		"jp"			"Meme Witch"
+	}
+
+	"Tank #97"
+	{
+		"jp"			"{mint}炎上ダメージへの耐性, ダメージ吸収, 高速移動, 自身を透明化, 生存者を引き寄せ重力を変更, ハイジャンプ, 隕石の雨を降らせる, 即死攻撃, 岩を連続で投げつけ, 生存者へテレポート, ウィッチ/ゾンビをスポーン。"
+	}
+
+	"Boomer #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Charger #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Hunter #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Jockey #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Smoker #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Spitter #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Witch #97"
+	{
+		"jp"			"{mint}Fire immunity, absorbs damage, runs fast, cloaks itself, pulls survivors in and changes their gravity, jumps high, starts meteor showers, smites survivors, spams rocks, warps to survivors, and spawns Witches/zombies."
+	}
+
+	"Tank #98 Name"
+	{
+		"jp"			"Mirage Tank"
+	}
+
+	"Boomer #98 Name"
+	{
+		"jp"			"Mirage Boomer"
+	}
+
+	"Charger #98 Name"
+	{
+		"jp"			"Mirage Charger"
+	}
+
+	"Hunter #98 Name"
+	{
+		"jp"			"Mirage Hunter"
+	}
+
+	"Jockey #98 Name"
+	{
+		"jp"			"Mirage Jockey"
+	}
+
+	"Smoker #98 Name"
+	{
+		"jp"			"Mirage Smoker"
+	}
+
+	"Spitter #98 Name"
+	{
+		"jp"			"Mirage Spitter"
+	}
+
+	"Witch #98 Name"
+	{
+		"jp"			"Mirage Witch"
+	}
+
+	"Tank #98"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージへの耐性を持ち、高速移動し、生存者へテレポートできます。"
+	}
+
+	"Boomer #98"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Charger #98"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Hunter #98"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Jockey #98"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Smoker #98"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Spitter #98"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Witch #98"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage, runs fast, and warps to survivors."
+	}
+
+	"Tank #99 Name"
+	{
+		"jp"			"Poltergeist Tank"
+	}
+
+	"Boomer #99 Name"
+	{
+		"jp"			"Poltergeist Boomer"
+	}
+
+	"Charger #99 Name"
+	{
+		"jp"			"Poltergeist Charger"
+	}
+
+	"Hunter #99 Name"
+	{
+		"jp"			"Poltergeist Hunter"
+	}
+
+	"Jockey #99 Name"
+	{
+		"jp"			"Poltergeist Jockey"
+	}
+
+	"Smoker #99 Name"
+	{
+		"jp"			"Poltergeist Smoker"
+	}
+
+	"Spitter #99 Name"
+	{
+		"jp"			"Poltergeist Spitter"
+	}
+
+	"Witch #99 Name"
+	{
+		"jp"			"Poltergeist Witch"
+	}
+
+	"Tank #99"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージへの耐性を持ち、高速移動し、自身を透明化でき、生存者へテレポートすることができます。"
+	}
+
+	"Boomer #99"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Charger #99"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Hunter #99"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Jockey #99"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Smoker #99"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Spitter #99"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Witch #99"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage, runs fast, cloaks itself, and warps to survivors."
+	}
+
+	"Tank #100 Name"
+	{
+		"jp"			"Psychotic Tank"
+	}
+
+	"Boomer #100 Name"
+	{
+		"jp"			"Psychotic Boomer"
+	}
+
+	"Charger #100 Name"
+	{
+		"jp"			"Psychotic Charger"
+	}
+
+	"Hunter #100 Name"
+	{
+		"jp"			"Psychotic Hunter"
+	}
+
+	"Jockey #100 Name"
+	{
+		"jp"			"Psychotic Jockey"
+	}
+
+	"Smoker #100 Name"
+	{
+		"jp"			"Psychotic Smoker"
+	}
+
+	"Spitter #100 Name"
+	{
+		"jp"			"Psychotic Spitter"
+	}
+
+	"Witch #100 Name"
+	{
+		"jp"			"Psychotic Witch"
+	}
+
+	"Tank #100"
+	{
+		"jp"			"{mint}このタンクは生存者へ一時的なHPを与え、周辺の感染者からHPを吸収し、隕石の雨を降らせ、シールドを持ってスポーンし、生存者へテレポートできます。"
+	}
+
+	"Boomer #100"
+	{
+		"jp"			"{mint}This Boomer can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Charger #100"
+	{
+		"jp"			"{mint}This Charger can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Hunter #100"
+	{
+		"jp"			"{mint}This Hunter can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Jockey #100"
+	{
+		"jp"			"{mint}This Jockey can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Smoker #100"
+	{
+		"jp"			"{mint}This Smoker can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Spitter #100"
+	{
+		"jp"			"{mint}This Spitter can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Witch #100"
+	{
+		"jp"			"{mint}This Witch can give survivors temporary health, absorb health from nearby infected, start meteor showers, spawn with a shield, and warp to survivors."
+	}
+
+	"Tank #101 Name"
+	{
+		"jp"			"Reverse-Flash Tank"
+	}
+
+	"Boomer #101 Name"
+	{
+		"jp"			"Reverse-Flash Boomer"
+	}
+
+	"Charger #101 Name"
+	{
+		"jp"			"Reverse-Flash Charger"
+	}
+
+	"Hunter #101 Name"
+	{
+		"jp"			"Reverse-Flash Hunter"
+	}
+
+	"Jockey #101 Name"
+	{
+		"jp"			"Reverse-Flash Jockey"
+	}
+
+	"Smoker #101 Name"
+	{
+		"jp"			"Reverse-Flash Smoker"
+	}
+
+	"Spitter #101 Name"
+	{
+		"jp"			"Reverse-Flash Spitter"
+	}
+
+	"Witch #101 Name"
+	{
+		"jp"			"Reverse-Flash Witch"
+	}
+
+	"Tank #101"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージへの耐性を持ち、高速移動し、生存者へテレポートできます。"
+	}
+
+	"Boomer #101"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Charger #101"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Hunter #101"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Jockey #101"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Smoker #101"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Spitter #101"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Witch #101"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Tank #102 Name"
+	{
+		"jp"			"Spawner Tank"
+	}
+
+	"Boomer #102 Name"
+	{
+		"jp"			"Spawner Boomer"
+	}
+
+	"Charger #102 Name"
+	{
+		"jp"			"Spawner Charger"
+	}
+
+	"Hunter #102 Name"
+	{
+		"jp"			"Spawner Hunter"
+	}
+
+	"Jockey #102 Name"
+	{
+		"jp"			"Spawner Jockey"
+	}
+
+	"Smoker #102 Name"
+	{
+		"jp"			"Spawner Smoker"
+	}
+
+	"Spitter #102 Name"
+	{
+		"jp"			"Spawner Spitter"
+	}
+
+	"Witch #102 Name"
+	{
+		"jp"			"Spawner Witch"
+	}
+
+	"Tank #102"
+	{
+		"jp"			"{mint}このタンクはゾンビを召喚することができます。"	
+	}
+
+	"Boomer #102"
+	{
+		"jp"			"{mint}This Boomer spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Charger #102"
+	{
+		"jp"			"{mint}This Charger spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Hunter #102"
+	{
+		"jp"			"{mint}This Hunter spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Jockey #102"
+	{
+		"jp"			"{mint}This Jockey spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Smoker #102"
+	{
+		"jp"			"{mint}This Smoker spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Spitter #102"
+	{
+		"jp"			"{mint}This Spitter spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Witch #102"
+	{
+		"jp"			"{mint}This Witch spawns zombies behind clouds of smoke within the area."
+	}
+
+	"Tank #103 Name"
+	{
+		"jp"			"Zoom Tank"
+	}
+
+	"Boomer #103 Name"
+	{
+		"jp"			"Zoom Boomer"
+	}
+
+	"Charger #103 Name"
+	{
+		"jp"			"Zoom Charger"
+	}
+
+	"Hunter #103 Name"
+	{
+		"jp"			"Zoom Hunter"
+	}
+
+	"Jockey #103 Name"
+	{
+		"jp"			"Zoom Jockey"
+	}
+
+	"Smoker #103 Name"
+	{
+		"jp"			"Zoom Smoker"
+	}
+
+	"Spitter #103 Name"
+	{
+		"jp"			"Zoom Spitter"
+	}
+
+	"Witch #103 Name"
+	{
+		"jp"			"Zoom Witch"
+	}
+
+	"Tank #103"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージへの耐性を持ち、超高速で移動し、生存者へテレポートできます。"
+	}
+
+	"Boomer #103"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Charger #103"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Hunter #103"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Jockey #103"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Smoker #103"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Spitter #103"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Witch #103"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Tank #104 Name"
+	{
+		"jp"			"Trap Tank"
+	}
+
+	"Boomer #104 Name"
+	{
+		"jp"			"Trap Boomer"
+	}
+
+	"Charger #104 Name"
+	{
+		"jp"			"Trap Charger"
+	}
+
+	"Hunter #104 Name"
+	{
+		"jp"			"Trap Hunter"
+	}
+
+	"Jockey #104 Name"
+	{
+		"jp"			"Trap Jockey"
+	}
+
+	"Smoker #104 Name"
+	{
+		"jp"			"Trap Smoker"
+	}
+
+	"Spitter #104 Name"
+	{
+		"jp"			"Trap Spitter"
+	}
+
+	"Witch #104 Name"
+	{
+		"jp"			"Trap Witch"
+	}
+
+	"Tank #104"
+	{
+		"jp"			"{mint}このタンクは何かが違う。"
+	}
+
+	"Boomer #104"
+	{
+		"jp"			"{mint}This Boomer is not what it seems."
+	}
+
+	"Charger #104"
+	{
+		"jp"			"{mint}This Charger is not what it seems."
+	}
+
+	"Hunter #104"
+	{
+		"jp"			"{mint}This Hunter is not what it seems."
+	}
+
+	"Jockey #104"
+	{
+		"jp"			"{mint}This Jockey is not what it seems."
+	}
+
+	"Smoker #104"
+	{
+		"jp"			"{mint}This Smoker is not what it seems."
+	}
+
+	"Spitter #104"
+	{
+		"jp"			"{mint}This Spitter is not what it seems."
+	}
+
+	"Witch #104"
+	{
+		"jp"			"{mint}This Witch is not what it seems."
+	}
+
+	"Tank #105 Name"
+	{
+		"jp"			"Dread Tank"
+	}
+
+	"Boomer #105 Name"
+	{
+		"jp"			"Dread Boomer"
+	}
+
+	"Charger #105 Name"
+	{
+		"jp"			"Dread Charger"
+	}
+
+	"Hunter #105 Name"
+	{
+		"jp"			"Dread Hunter"
+	}
+
+	"Jockey #105 Name"
+	{
+		"jp"			"Dread Jockey"
+	}
+
+	"Smoker #105 Name"
+	{
+		"jp"			"Dread Smoker"
+	}
+
+	"Spitter #105 Name"
+	{
+		"jp"			"Dread Spitter"
+	}
+
+	"Witch #105 Name"
+	{
+		"jp"			"Dread Witch"
+	}
+
+	"Tank #105"
+	{
+		"jp"			"{mint}このタンクは生存者を若干視界を悪化させることができます。"
+	}
+
+	"Boomer #105"
+	{
+		"jp"			"{mint}This Boomer can partially blind survivors."
+	}
+
+	"Charger #105"
+	{
+		"jp"			"{mint}This Charger can partially blind survivors."
+	}
+
+	"Hunter #105"
+	{
+		"jp"			"{mint}This Hunter can partially blind survivors."
+	}
+
+	"Jockey #105"
+	{
+		"jp"			"{mint}This Jockey can partially blind survivors."
+	}
+
+	"Smoker #105"
+	{
+		"jp"			"{mint}This Smoker can partially blind survivors."
+	}
+
+	"Spitter #105"
+	{
+		"jp"			"{mint}This Spitter can partially blind survivors."
+	}
+
+	"Witch #105"
+	{
+		"jp"			"{mint}This Witch can partially blind survivors."
+	}
+
+	"Tank #106 Name"
+	{
+		"jp"			"Rabid Tank"
+	}
+
+	"Boomer #106 Name"
+	{
+		"jp"			"Rabid Boomer"
+	}
+
+	"Charger #106 Name"
+	{
+		"jp"			"Rabid Charger"
+	}
+
+	"Hunter #106 Name"
+	{
+		"jp"			"Rabid Hunter"
+	}
+
+	"Jockey #106 Name"
+	{
+		"jp"			"Rabid Jockey"
+	}
+
+	"Smoker #106 Name"
+	{
+		"jp"			"Rabid Smoker"
+	}
+
+	"Spitter #106 Name"
+	{
+		"jp"			"Rabid Spitter"
+	}
+
+	"Witch #106 Name"
+	{
+		"jp"			"Rabid Witch"
+	}
+
+	"Tank #106"
+	{
+		"jp"			"{mint}このタンクは生存者をドラッグ状態にし、ダメージを与えます。"
+	}
+
+	"Boomer #106"
+	{
+		"jp"			"{mint}This Boomer can partially drug and hurt survivors."
+	}
+
+	"Charger #106"
+	{
+		"jp"			"{mint}This Charger can partially drug and hurt survivors."
+	}
+
+	"Hunter #106"
+	{
+		"jp"			"{mint}This Hunter can partially drug and hurt survivors."
+	}
+
+	"Jockey #106"
+	{
+		"jp"			"{mint}This Jockey can partially drug and hurt survivors."
+	}
+
+	"Smoker #106"
+	{
+		"jp"			"{mint}This Smoker can partially drug and hurt survivors."
+	}
+
+	"Spitter #106"
+	{
+		"jp"			"{mint}This Spitter can partially drug and hurt survivors."
+	}
+
+	"Witch #106"
+	{
+		"jp"			"{mint}This Witch can partially drug and hurt survivors."
+	}
+
+	"Tank #107 Name"
+	{
+		"jp"			"Tremor Tank"
+	}
+
+	"Boomer #107 Name"
+	{
+		"jp"			"Tremor Boomer"
+	}
+
+	"Charger #107 Name"
+	{
+		"jp"			"Tremor Charger"
+	}
+
+	"Hunter #107 Name"
+	{
+		"jp"			"Tremor Hunter"
+	}
+
+	"Jockey #107 Name"
+	{
+		"jp"			"Tremor Jockey"
+	}
+
+	"Smoker #107 Name"
+	{
+		"jp"			"Tremor Smoker"
+	}
+
+	"Spitter #107 Name"
+	{
+		"jp"			"Tremor Spitter"
+	}
+
+	"Witch #107 Name"
+	{
+		"jp"			"Tremor Witch"
+	}
+
+	"Tank #107"
+	{
+		"jp"			"{mint}このタンクは大量の岩を生存者へ投げつけます。"
+	}
+
+	"Boomer #107"
+	{
+		"jp"			"{mint}This Boomer can hurl rocks at survivors."
+	}
+
+	"Charger #107"
+	{
+		"jp"			"{mint}This Charger can hurl rocks at survivors."
+	}
+
+	"Hunter #107"
+	{
+		"jp"			"{mint}This Hunter can hurl rocks at survivors."
+	}
+
+	"Jockey #107"
+	{
+		"jp"			"{mint}This Jockey can hurl rocks at survivors."
+	}
+
+	"Smoker #107"
+	{
+		"jp"			"{mint}This Smoker can hurl rocks at survivors."
+	}
+
+	"Spitter #107"
+	{
+		"jp"			"{mint}This Spitter can hurl rocks at survivors."
+	}
+
+	"Witch #107"
+	{
+		"jp"			"{mint}This Witch can hurl rocks at survivors."
+	}
+
+	"Tank #108 Name"
+	{
+		"jp"			"Psyk0tik Tank"
+	}
+
+	"Boomer #108 Name"
+	{
+		"jp"			"Psyk0tik Boomer"
+	}
+
+	"Charger #108 Name"
+	{
+		"jp"			"Psyk0tik Charger"
+	}
+
+	"Hunter #108 Name"
+	{
+		"jp"			"Psyk0tik Hunter"
+	}
+
+	"Jockey #108 Name"
+	{
+		"jp"			"Psyk0tik Jockey"
+	}
+
+	"Smoker #108 Name"
+	{
+		"jp"			"Psyk0tik Smoker"
+	}
+
+	"Spitter #108 Name"
+	{
+		"jp"			"Psyk0tik Spitter"
+	}
+
+	"Witch #108 Name"
+	{
+		"jp"			"Psyk0tik Witch"
+	}
+
+	"Tank #108"
+	{
+		"jp"			"{mint}このタンクはより多くのダメージを与え、高速移動し、自身を透明化、生存者の移動速度を低下させることができます。"
+	}
+
+	"Boomer #108"
+	{
+		"jp"			"{mint}This Boomer does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Charger #108"
+	{
+		"jp"			"{mint}This Charger does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Hunter #108"
+	{
+		"jp"			"{mint}This Hunter does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Jockey #108"
+	{
+		"jp"			"{mint}This Jockey does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Smoker #108"
+	{
+		"jp"			"{mint}This Smoker does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Spitter #108"
+	{
+		"jp"			"{mint}This Spitter does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Witch #108"
+	{
+		"jp"			"{mint}This Witch does extra damage and runs really fast while cloaking itself and slowing survivors down."
+	}
+
+	"Tank #109 Name"
+	{
+		"jp"			"Apocalyptic Tank"
+	}
+
+	"Boomer #109 Name"
+	{
+		"jp"			"Apocalyptic Boomer"
+	}
+
+	"Charger #109 Name"
+	{
+		"jp"			"Apocalyptic Charger"
+	}
+
+	"Hunter #109 Name"
+	{
+		"jp"			"Apocalyptic Hunter"
+	}
+
+	"Jockey #109 Name"
+	{
+		"jp"			"Apocalyptic Jockey"
+	}
+
+	"Smoker #109 Name"
+	{
+		"jp"			"Apocalyptic Smoker"
+	}
+
+	"Spitter #109 Name"
+	{
+		"jp"			"Apocalyptic Spitter"
+	}
+
+	"Witch #109 Name"
+	{
+		"jp"			"Apocalyptic Witch"
+	}
+
+	"Tank #109"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージへの耐性を持ち、酵素で移動し、隕石の雨を降らし、ラッシュを発生させ、岩を大量に投げつけます。"
+	}
+
+	"Boomer #109"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Charger #109"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Hunter #109"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Jockey #109"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Smoker #109"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Spitter #109"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Witch #109"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage, runs a little faster, starts meteor showers, panic events, and rock showers."
+	}
+
+	"Tank #110 Name"
+	{
+		"jp"			"Darth Vader Tank"
+	}
+
+	"Boomer #110 Name"
+	{
+		"jp"			"Darth Vader Boomer"
+	}
+
+	"Charger #110 Name"
+	{
+		"jp"			"Darth Vader Charger"
+	}
+
+	"Hunter #110 Name"
+	{
+		"jp"			"Darth Vader Hunter"
+	}
+
+	"Jockey #110 Name"
+	{
+		"jp"			"Darth Vader Jockey"
+	}
+
+	"Smoker #110 Name"
+	{
+		"jp"			"Darth Vader Smoker"
+	}
+
+	"Spitter #110 Name"
+	{
+		"jp"			"Darth Vader Spitter"
+	}
+
+	"Witch #110 Name"
+	{
+		"jp"			"Darth Vader Witch"
+	}
+
+	"Tank #110"
+	{
+		"jp"			"{mint}あれはダース・ベイダー... そしてあいつはフォースの力を持ったミュータントタンクだ！"
+	}
+
+	"Boomer #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Boomer with the Force!"
+	}
+
+	"Charger #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Charger with the Force!"
+	}
+
+	"Hunter #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Hunter with the Force!"
+	}
+
+	"Jockey #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Jockey with the Force!"
+	}
+
+	"Smoker #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Smoker with the Force!"
+	}
+
+	"Spitter #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Spitter with the Force!"
+	}
+
+	"Witch #110"
+	{
+		"jp"			"{mint}It's Darth Vader... And he is... A Mutant Witch with the Force!"
+	}
+
+	"Tank #111 Name"
+	{
+		"jp"			"Drug Addict Tank"
+	}
+
+	"Boomer #111 Name"
+	{
+		"jp"			"Drug Addict Boomer"
+	}
+
+	"Charger #111 Name"
+	{
+		"jp"			"Drug Addict Charger"
+	}
+
+	"Hunter #111 Name"
+	{
+		"jp"			"Drug Addict Hunter"
+	}
+
+	"Jockey #111 Name"
+	{
+		"jp"			"Drug Addict Jockey"
+	}
+
+	"Smoker #111 Name"
+	{
+		"jp"			"Drug Addict Smoker"
+	}
+
+	"Spitter #111 Name"
+	{
+		"jp"			"Drug Addict Spitter"
+	}
+
+	"Witch #111 Name"
+	{
+		"jp"			"Drug Addict Witch"
+	}
+
+	"Tank #111"
+	{
+		"jp"			"{mint}This Tank has a contagious addiction."
+	}
+
+	"Boomer #111"
+	{
+		"jp"			"{mint}This Boomer has a contagious addiction."
+	}
+
+	"Charger #111"
+	{
+		"jp"			"{mint}This Charger has a contagious addiction."
+	}
+
+	"Hunter #111"
+	{
+		"jp"			"{mint}This Hunter has a contagious addiction."
+	}
+
+	"Jockey #111"
+	{
+		"jp"			"{mint}This Jockey has a contagious addiction."
+	}
+
+	"Smoker #111"
+	{
+		"jp"			"{mint}This Smoker has a contagious addiction."
+	}
+
+	"Spitter #111"
+	{
+		"jp"			"{mint}This Spitter has a contagious addiction."
+	}
+
+	"Witch #111"
+	{
+		"jp"			"{mint}This Witch has a contagious addiction."
+	}
+
+	"Tank #112 Name"
+	{
+		"jp"			"Godspeed Tank"
+	}
+
+	"Boomer #112 Name"
+	{
+		"jp"			"Godspeed Boomer"
+	}
+
+	"Charger #112 Name"
+	{
+		"jp"			"Godspeed Charger"
+	}
+
+	"Hunter #112 Name"
+	{
+		"jp"			"Godspeed Hunter"
+	}
+
+	"Jockey #112 Name"
+	{
+		"jp"			"Godspeed Jockey"
+	}
+
+	"Smoker #112 Name"
+	{
+		"jp"			"Godspeed Smoker"
+	}
+
+	"Spitter #112 Name"
+	{
+		"jp"			"Godspeed Spitter"
+	}
+
+	"Witch #112 Name"
+	{
+		"jp"			"Godspeed Witch"
+	}
+
+	"Tank #112"
+	{
+		"jp"			"{mint}このタンクは炎上ダメージへの耐性を持ち、超高速で移動し、生存者へテレポートできます。"
+	}
+
+	"Boomer #112"
+	{
+		"jp"			"{mint}This Boomer is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Charger #112"
+	{
+		"jp"			"{mint}This Charger is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Hunter #112"
+	{
+		"jp"			"{mint}This Hunter is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Jockey #112"
+	{
+		"jp"			"{mint}This Jockey is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Smoker #112"
+	{
+		"jp"			"{mint}This Smoker is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Spitter #112"
+	{
+		"jp"			"{mint}This Spitter is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Witch #112"
+	{
+		"jp"			"{mint}This Witch is immune to fire damage, runs really fast, and warps to survivors."
+	}
+
+	"Tank #113 Name"
+	{
+		"jp"			"Grim Reaper Tank"
+	}
+
+	"Boomer #113 Name"
+	{
+		"jp"			"Grim Reaper Boomer"
+	}
+
+	"Charger #113 Name"
+	{
+		"jp"			"Grim Reaper Charger"
+	}
+
+	"Hunter #113 Name"
+	{
+		"jp"			"Grim Reaper Hunter"
+	}
+
+	"Jockey #113 Name"
+	{
+		"jp"			"Grim Reaper Jockey"
+	}
+
+	"Smoker #113 Name"
+	{
+		"jp"			"Grim Reaper Smoker"
+	}
+
+	"Spitter #113 Name"
+	{
+		"jp"			"Grim Reaper Spitter"
+	}
+
+	"Witch #113 Name"
+	{
+		"jp"			"Grim Reaper Witch"
+	}
+
+	"Tank #113"
+	{
+		"jp"			"{mint}このタンクは高速で移動し、生存者を地中に埋め、自身を透明化し、生存者へテレポートできます。"
+	}
+
+	"Boomer #113"
+	{
+		"jp"			"{mint}This Boomer runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Charger #113"
+	{
+		"jp"			"{mint}This Charger runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Hunter #113"
+	{
+		"jp"			"{mint}This Hunter runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Jockey #113"
+	{
+		"jp"			"{mint}This Jockey runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Smoker #113"
+	{
+		"jp"			"{mint}This Smoker runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Spitter #113"
+	{
+		"jp"			"{mint}This Spitter runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Witch #113"
+	{
+		"jp"			"{mint}This Witch runs a little faster, buries survivors, cloaks itself, and warps to survivors."
+	}
+
+	"Tank #114 Name"
+	{
+		"jp"			"Horde Tank"
+	}
+
+	"Boomer #114 Name"
+	{
+		"jp"			"Horde Boomer"
+	}
+
+	"Charger #114 Name"
+	{
+		"jp"			"Horde Charger"
+	}
+
+	"Hunter #114 Name"
+	{
+		"jp"			"Horde Hunter"
+	}
+
+	"Jockey #114 Name"
+	{
+		"jp"			"Horde Jockey"
+	}
+
+	"Smoker #114 Name"
+	{
+		"jp"			"Horde Smoker"
+	}
+
+	"Spitter #114 Name"
+	{
+		"jp"			"Horde Spitter"
+	}
+
+	"Witch #114 Name"
+	{
+		"jp"			"Horde Witch"
+	}
+
+	"Tank #114"
+	{
+		"jp"			"{mint}このタンクはラッシュを発生させ、長持ちさせるために生存者へ吐しゃ物を浴びせます。"
+	}
+
+	"Boomer #114"
+	{
+		"jp"			"{mint}This Boomer can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Charger #114"
+	{
+		"jp"			"{mint}This Charger can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Hunter #114"
+	{
+		"jp"			"{mint}This Hunter can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Jockey #114"
+	{
+		"jp"			"{mint}This Jockey can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Smoker #114"
+	{
+		"jp"			"{mint}This Smoker can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Spitter #114"
+	{
+		"jp"			"{mint}This Spitter can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Witch #114"
+	{
+		"jp"			"{mint}This Witch can start panic events and puke on survivors to help prolong them."
+	}
+
+	"Tank #115 Name"
+	{
+		"jp"			"Hulk Tank"
+	}
+
+	"Boomer #115 Name"
+	{
+		"jp"			"Hulk Boomer"
+	}
+
+	"Charger #115 Name"
+	{
+		"jp"			"Hulk Charger"
+	}
+
+	"Hunter #115 Name"
+	{
+		"jp"			"Hulk Hunter"
+	}
+
+	"Jockey #115 Name"
+	{
+		"jp"			"Hulk Jockey"
+	}
+
+	"Smoker #115 Name"
+	{
+		"jp"			"Hulk Smoker"
+	}
+
+	"Spitter #115 Name"
+	{
+		"jp"			"Hulk Spitter"
+	}
+
+	"Witch #115 Name"
+	{
+		"jp"			"Hulk Witch"
+	}
+
+	"Tank #115"
+	{
+		"jp"			"{mint}インクレディブル・ハルクに会ったぞ！ このタンクはハルクのほとんどの能力を持っている。"
+	}
+
+	"Boomer #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Boomer has most of the abilities of the Hulk!"
+	}
+
+	"Charger #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Charger has most of the abilities of the Hulk!"
+	}
+
+	"Hunter #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Hunter has most of the abilities of the Hulk!"
+	}
+
+	"Jockey #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Jockey has most of the abilities of the Hulk!"
+	}
+
+	"Smoker #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Smoker has most of the abilities of the Hulk!"
+	}
+
+	"Spitter #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Spitter has most of the abilities of the Hulk!"
+	}
+
+	"Witch #115"
+	{
+		"jp"			"{mint}Meet the Incredible Hulk! This Witch has most of the abilities of the Hulk!"
+	}
+
+	"Tank #116 Name"
+	{
+		"jp"			"Ninja Tank"
+	}
+
+	"Boomer #116 Name"
+	{
+		"jp"			"Ninja Boomer"
+	}
+
+	"Charger #116 Name"
+	{
+		"jp"			"Ninja Charger"
+	}
+
+	"Hunter #116 Name"
+	{
+		"jp"			"Ninja Hunter"
+	}
+
+	"Jockey #116 Name"
+	{
+		"jp"			"Ninja Jockey"
+	}
+
+	"Smoker #116 Name"
+	{
+		"jp"			"Ninja Smoker"
+	}
+
+	"Spitter #116 Name"
+	{
+		"jp"			"Ninja Spitter"
+	}
+
+	"Witch #116 Name"
+	{
+		"jp"			"Ninja Witch"
+	}
+
+	"Tank #116"
+	{
+		"jp"			"{mint}このタンクはテレポート、静かに移動、自身を透明化できます。気をつけて！"
+	}
+
+	"Boomer #116"
+	{
+		"jp"			"{mint}This Boomer can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Charger #116"
+	{
+		"jp"			"{mint}This Charger can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Hunter #116"
+	{
+		"jp"			"{mint}This Hunter can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Jockey #116"
+	{
+		"jp"			"{mint}This Jockey can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Smoker #116"
+	{
+		"jp"			"{mint}This Smoker can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Spitter #116"
+	{
+		"jp"			"{mint}This Spitter can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Witch #116"
+	{
+		"jp"			"{mint}This Witch can teleport, move around silently, and cloak itself. Be very careful!"
+	}
+
+	"Tank #117 Name"
+	{
+		"jp"			"Zen Tank"
+	}
+
+	"Boomer #117 Name"
+	{
+		"jp"			"Zen Boomer"
+	}
+
+	"Charger #117 Name"
+	{
+		"jp"			"Zen Charger"
+	}
+
+	"Hunter #117 Name"
+	{
+		"jp"			"Zen Hunter"
+	}
+
+	"Jockey #117 Name"
+	{
+		"jp"			"Zen Jockey"
+	}
+
+	"Smoker #117 Name"
+	{
+		"jp"			"Zen Smoker"
+	}
+
+	"Spitter #117 Name"
+	{
+		"jp"			"Zen Spitter"
+	}
+
+	"Witch #117 Name"
+	{
+		"jp"			"Zen Witch"
+	}
+
+	"Tank #117"
+	{
+		"jp"			"{mint}このタンクは瞑想に忙しく、あなたのことは気にも留めないだろう。"
+	}
+
+	"Boomer #117"
+	{
+		"jp"			"{mint}This Boomer is too busy meditating to care about you."
+	}
+
+	"Charger #117"
+	{
+		"jp"			"{mint}This Charger is too busy meditating to care about you."
+	}
+
+	"Hunter #117"
+	{
+		"jp"			"{mint}This Hunter is too busy meditating to care about you."
+	}
+
+	"Jockey #117"
+	{
+		"jp"			"{mint}This Jockey is too busy meditating to care about you."
+	}
+
+	"Smoker #117"
+	{
+		"jp"			"{mint}This Smoker is too busy meditating to care about you."
+	}
+
+	"Spitter #117"
+	{
+		"jp"			"{mint}This Spitter is too busy meditating to care about you."
+	}
+
+	"Witch #117"
+	{
+		"jp"			"{mint}This Witch is too busy meditating to care about you."
+	}
+
+	"Tank #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Boomer #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Charger #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Hunter #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Jockey #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Smoker #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Spitter #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Witch #118 Name"
+	{
+		"jp"			"The Boss (1st Form)"
+	}
+
+	"Tank #118"
+	{
+		"jp"			"{mint}このタンクは爆発する岩を投げ、一定時間ごとに生存者へテレポートします。"
+	}
+
+	"Boomer #118"
+	{
+		"jp"			"{mint}This Boomer periodically warps to survivors."
+	}
+
+	"Charger #118"
+	{
+		"jp"			"{mint}This Charger periodically warps to survivors."
+	}
+
+	"Hunter #118"
+	{
+		"jp"			"{mint}This Hunter periodically warps to survivors."
+	}
+
+	"Jockey #118"
+	{
+		"jp"			"{mint}This Jockey periodically warps to survivors."
+	}
+
+	"Smoker #118"
+	{
+		"jp"			"{mint}This Smoker periodically warps to survivors."
+	}
+
+	"Spitter #118"
+	{
+		"jp"			"{mint}This Spitter periodically warps to survivors."
+	}
+
+	"Witch #118"
+	{
+		"jp"			"{mint}This Witch periodically warps to survivors."
+	}
+
+	"Tank #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Boomer #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Charger #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Hunter #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Jockey #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Smoker #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Spitter #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Witch #119 Name"
+	{
+		"jp"			"Steel Overlord (2nd Form)"
+	}
+
+	"Tank #119"
+	{
+		"jp"			"{mint}このタンクは高速で移動し、近接武器のダメージを無効化し、いつもより少しだけ強く、爆発する岩を投げ、生存者の重力を変更し、一定時間ごとに生存者へテレポートします。"
+	}
+
+	"Boomer #119"
+	{
+		"jp"			"{mint}This Boomer runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Charger #119"
+	{
+		"jp"			"{mint}This Charger runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Hunter #119"
+	{
+		"jp"			"{mint}This Hunter runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Jockey #119"
+	{
+		"jp"			"{mint}This Jockey runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Smoker #119"
+	{
+		"jp"			"{mint}This Smoker runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Spitter #119"
+	{
+		"jp"			"{mint}This Spitter runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Witch #119"
+	{
+		"jp"			"{mint}This Witch runs a little faster, is immune to melee, is a bit stronger than usual, can change survivors' gravity, and periodically warps to survivors."
+	}
+
+	"Tank #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Boomer #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Charger #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Hunter #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Jockey #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Smoker #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Spitter #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Witch #120 Name"
+	{
+		"jp"			"Night Stalker (3rd Form)"
+	}
+
+	"Tank #120"
+	{
+		"jp"			"{mint}このタンクは高速で移動し、炎上ダメージへの耐性を持ち、いつもより少しだけ弱く、爆発する岩を投げ、生存者の視界を悪くし、透明化でき、一定時間ごとに生存者にテレポートできます。"
+	}
+
+	"Boomer #120"
+	{
+		"jp"			"{mint}This Boomer runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Charger #120"
+	{
+		"jp"			"{mint}This Charger runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Hunter #120"
+	{
+		"jp"			"{mint}This Hunter runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Jockey #120"
+	{
+		"jp"			"{mint}This Jockey runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Smoker #120"
+	{
+		"jp"			"{mint}This Smoker runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Spitter #120"
+	{
+		"jp"			"{mint}This Spitter runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Witch #120"
+	{
+		"jp"			"{mint}This Witch runs a little faster, is immune to fire, is a bit weaker than usual, can blind survivors, can go invisible, and periodically warps to survivors."
+	}
+
+	"Tank #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Boomer #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Charger #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Hunter #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Jockey #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Smoker #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Spitter #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Witch #121 Name"
+	{
+		"jp"			"Spirit of Fire (4th Form)"
+	}
+
+	"Tank #121"
+	{
+		"jp"			"{mint}このタンクは高速で移動し、炎上ダメージへの耐性を持ち、いつもより強く、爆発する岩を投げ、周囲を炎上させ、生存者に一時的なHPを与え、一定時間ごとにジャンプ, 生存者へテレポートします。"
+	}
+
+	"Boomer #121"
+	{
+		"jp"			"{mint}This Boomer runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Charger #121"
+	{
+		"jp"			"{mint}This Charger runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Hunter #121"
+	{
+		"jp"			"{mint}This Hunter runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Jockey #121"
+	{
+		"jp"			"{mint}This Jockey runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Smoker #121"
+	{
+		"jp"			"{mint}This Smoker runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Spitter #121"
+	{
+		"jp"			"{mint}This Spitter runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Witch #121"
+	{
+		"jp"			"{mint}This Witch runs a little faster, is immune to fire, is stronger than usual, create fires, give survivors temporary health, jump periodically, and periodically warps to survivors."
+	}
+
+	"Tank #122 Name"
+	{
+		"jp"			"Randomizer Tank"
+	}
+
+	"Boomer #122 Name"
+	{
+		"jp"			"Randomizer Boomer"
+	}
+
+	"Charger #122 Name"
+	{
+		"jp"			"Randomizer Charger"
+	}
+
+	"Hunter #122 Name"
+	{
+		"jp"			"Randomizer Hunter"
+	}
+
+	"Jockey #122 Name"
+	{
+		"jp"			"Randomizer Jockey"
+	}
+
+	"Smoker #122 Name"
+	{
+		"jp"			"Randomizer Smoker"
+	}
+
+	"Spitter #122 Name"
+	{
+		"jp"			"Randomizer Spitter"
+	}
+
+	"Witch #122 Name"
+	{
+		"jp"			"Randomizer Witch"
+	}
+
+	"Tank #122"
+	{
+		"jp"			"{mint}このタンクはランダムで他のミュータンタンクの能力へ切り替え、より多くのダメージを与えます。 気をつけて..."
+	}
+
+	"Boomer #122"
+	{
+		"jp"			"{mint}This Boomer randomly switches into different Mutant Boomer types and deals increased damage. Be careful..."
+	}
+
+	"Charger #122"
+	{
+		"jp"			"{mint}This Charger randomly switches into different Mutant Charger types and deals increased damage. Be careful..."
+	}
+
+	"Hunter #122"
+	{
+		"jp"			"{mint}This Hunter randomly switches into different Mutant Hunter types and deals increased damage. Be careful..."
+	}
+
+	"Jockey #122"
+	{
+		"jp"			"{mint}This Jockey randomly switches into different Mutant Jockey types and deals increased damage. Be careful..."
+	}
+
+	"Smoker #122"
+	{
+		"jp"			"{mint}This Smoker randomly switches into different Mutant Smoker types and deals increased damage. Be careful..."
+	}
+
+	"Spitter #122"
+	{
+		"jp"			"{mint}This Spitter randomly switches into different Mutant Spitter types and deals increased damage. Be careful..."
+	}
+
+	"Witch #122"
+	{
+		"jp"			"{mint}This Witch randomly switches into different Mutant Witch types and deals increased damage. Be careful..."
+	}
+
+	"Tank #123 Name"
+	{
+		"jp"			"Shapeshifter Tank"
+	}
+
+	"Boomer #123 Name"
+	{
+		"jp"			"Shapeshifter Boomer"
+	}
+
+	"Charger #123 Name"
+	{
+		"jp"			"Shapeshifter Charger"
+	}
+
+	"Hunter #123 Name"
+	{
+		"jp"			"Shapeshifter Hunter"
+	}
+
+	"Jockey #123 Name"
+	{
+		"jp"			"Shapeshifter Jockey"
+	}
+
+	"Smoker #123 Name"
+	{
+		"jp"			"Shapeshifter Smoker"
+	}
+
+	"Spitter #123 Name"
+	{
+		"jp"			"Shapeshifter Spitter"
+	}
+
+	"Witch #123 Name"
+	{
+		"jp"			"Shapeshifter Witch"
+	}
+
+	"Tank #123"
+	{
+		"jp"			"{mint}このタンクは様々なタイプのミュータントタンクに変身できます。 あなどるなかれ..."
+	}
+
+	"Boomer #123"
+	{
+		"jp"			"{mint}This Boomer can shapeshift into different Mutant Boomer types. Don't underestimate it..."
+	}
+
+	"Charger #123"
+	{
+		"jp"			"{mint}This Charger can shapeshift into different Mutant Charger types. Don't underestimate it..."
+	}
+
+	"Hunter #123"
+	{
+		"jp"			"{mint}This Hunter can shapeshift into different Mutant Hunter types. Don't underestimate it..."
+	}
+
+	"Jockey #123"
+	{
+		"jp"			"{mint}This Jockey can shapeshift into different Mutant Jockey types. Don't underestimate it..."
+	}
+
+	"Smoker #123"
+	{
+		"jp"			"{mint}This Smoker can shapeshift into different Mutant Smoker types. Don't underestimate it..."
+	}
+
+	"Spitter #123"
+	{
+		"jp"			"{mint}This Spitter can shapeshift into different Mutant Spitter types. Don't underestimate it..."
+	}
+
+	"Witch #123"
+	{
+		"jp"			"{mint}This Witch can shapeshift into different Mutant Witch types. Don't underestimate it..."
+	}
+
+	"Tank #124 Name"
+	{
+		"jp"			"Flashbanger Tank"
+	}
+
+	"Boomer #124 Name"
+	{
+		"jp"			"Flashbanger Boomer"
+	}
+
+	"Charger #124 Name"
+	{
+		"jp"			"Flashbanger Charger"
+	}
+
+	"Hunter #124 Name"
+	{
+		"jp"			"Flashbanger Hunter"
+	}
+
+	"Jockey #124 Name"
+	{
+		"jp"			"Flashbanger Jockey"
+	}
+
+	"Smoker #124 Name"
+	{
+		"jp"			"Flashbanger Smoker"
+	}
+
+	"Spitter #124 Name"
+	{
+		"jp"			"Flashbanger Spitter"
+	}
+
+	"Witch #124 Name"
+	{
+		"jp"			"Flashbanger Witch"
+	}
+
+	"Tank #124"
+	{
+		"jp"			"{mint}このタンクは閃光弾を放ち、自身を含め攻撃を受けたものをよろめかせます。"
+	}
+
+	"Boomer #124"
+	{
+		"jp"			"{mint}This Boomer causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Charger #124"
+	{
+		"jp"			"{mint}This Charger causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Hunter #124"
+	{
+		"jp"			"{mint}This Hunter causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Jockey #124"
+	{
+		"jp"			"{mint}This Jockey causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Smoker #124"
+	{
+		"jp"			"{mint}This Smoker causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Spitter #124"
+	{
+		"jp"			"{mint}This Spitter causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Witch #124"
+	{
+		"jp"			"{mint}This Witch causes flashbangs which staggers it and anyone affected by its attacks."
+	}
+
+	"Tank #125 Name"
+	{
+		"jp"			"Mudman Tank"
+	}
+
+	"Boomer #125 Name"
+	{
+		"jp"			"Mudman Boomer"
+	}
+
+	"Charger #125 Name"
+	{
+		"jp"			"Mudman Charger"
+	}
+
+	"Hunter #125 Name"
+	{
+		"jp"			"Mudman Hunter"
+	}
+
+	"Jockey #125 Name"
+	{
+		"jp"			"Mudman Jockey"
+	}
+
+	"Smoker #125 Name"
+	{
+		"jp"			"Mudman Smoker"
+	}
+
+	"Spitter #125 Name"
+	{
+		"jp"			"Mudman Spitter"
+	}
+
+	"Witch #125 Name"
+	{
+		"jp"			"Mudman Witch"
+	}
+
+	"Tank #125"
+	{
+		"jp"			"{mint}このタンクはとても不快だ。"
+	}
+
+	"Boomer #125"
+	{
+		"jp"			"{mint}This Boomer is as annoying as any mudman."
+	}
+
+	"Charger #125"
+	{
+		"jp"			"{mint}This Charger is as annoying as any mudman."
+	}
+
+	"Hunter #125"
+	{
+		"jp"			"{mint}This Hunter is as annoying as any mudman."
+	}
+
+	"Jockey #125"
+	{
+		"jp"			"{mint}This Jockey is as annoying as any mudman."
+	}
+
+	"Smoker #125"
+	{
+		"jp"			"{mint}This Smoker is as annoying as any mudman."
+	}
+
+	"Spitter #125"
+	{
+		"jp"			"{mint}This Spitter is as annoying as any mudman."
+	}
+
+	"Witch #125"
+	{
+		"jp"			"{mint}This Witch is as annoying as any mudman."
+	}
+
+	"Tank #126 Name"
+	{
+		"jp"			"Endgame Tank"
+	}
+
+	"Boomer #126 Name"
+	{
+		"jp"			"Endgame Boomer"
+	}
+
+	"Charger #126 Name"
+	{
+		"jp"			"Endgame Charger"
+	}
+
+	"Hunter #126 Name"
+	{
+		"jp"			"Endgame Hunter"
+	}
+
+	"Jockey #126 Name"
+	{
+		"jp"			"Endgame Jockey"
+	}
+
+	"Smoker #126 Name"
+	{
+		"jp"			"Endgame Smoker"
+	}
+
+	"Spitter #126 Name"
+	{
+		"jp"			"Endgame Spitter"
+	}
+
+	"Witch #126 Name"
+	{
+		"jp"			"Endgame Witch"
+	}
+
+	"Tank #126"
+	{
+		"jp"			"{mint}さようなら！"
+	}
+
+	"Boomer #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Charger #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Hunter #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Jockey #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Smoker #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Spitter #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Witch #126"
+	{
+		"jp"			"{mint}Goodbye everyone!"
+	}
+
+	"Tank #127 Name"
+	{
+		"jp"			"Playful Tank"
+	}
+
+	"Boomer #127 Name"
+	{
+		"jp"			"Playful Boomer"
+	}
+
+	"Charger #127 Name"
+	{
+		"jp"			"Playful Charger"
+	}
+
+	"Hunter #127 Name"
+	{
+		"jp"			"Playful Hunter"
+	}
+
+	"Jockey #127 Name"
+	{
+		"jp"			"Playful Jockey"
+	}
+
+	"Smoker #127 Name"
+	{
+		"jp"			"Playful Smoker"
+	}
+
+	"Spitter #127 Name"
+	{
+		"jp"			"Playful Spitter"
+	}
+
+	"Witch #127 Name"
+	{
+		"jp"			"Playful Witch"
+	}
+
+	"Tank #127"
+	{
+		"jp"			"{mint}このタンクは一切のダメージを与えません。 ただ遊びたいだけのようです！"
+	}
+
+	"Boomer #127"
+	{
+		"jp"			"{mint}This Boomer doesn't do any damage. It just wants to play!"
+	}
+
+	"Charger #127"
+	{
+		"jp"			"{mint}This Charger doesn't do any damage. It just wants to play!"
+	}
+
+	"Hunter #127"
+	{
+		"jp"			"{mint}This Hunter doesn't do any damage. It just wants to play!"
+	}
+
+	"Jockey #127"
+	{
+		"jp"			"{mint}This Jockey doesn't do any damage. It just wants to play!"
+	}
+
+	"Smoker #127"
+	{
+		"jp"			"{mint}This Smoker doesn't do any damage. It just wants to play!"
+	}
+
+	"Spitter #127"
+	{
+		"jp"			"{mint}This Spitter doesn't do any damage. It just wants to play!"
+	}
+
+	"Witch #127"
+	{
+		"jp"			"{mint}This Witch doesn't do any damage. It just wants to play!"
+	}
+
+	"Tank #128 Name"
+	{
+		"jp"			"Annoying Tank"
+	}
+
+	"Boomer #128 Name"
+	{
+		"jp"			"Annoying Boomer"
+	}
+
+	"Charger #128 Name"
+	{
+		"jp"			"Annoying Charger"
+	}
+
+	"Hunter #128 Name"
+	{
+		"jp"			"Annoying Hunter"
+	}
+
+	"Jockey #128 Name"
+	{
+		"jp"			"Annoying Jockey"
+	}
+
+	"Smoker #128 Name"
+	{
+		"jp"			"Annoying Smoker"
+	}
+
+	"Spitter #128 Name"
+	{
+		"jp"			"Annoying Spitter"
+	}
+
+	"Witch #128 Name"
+	{
+		"jp"			"Annoying Witch"
+	}
+
+	"Tank #128"
+	{
+		"jp"			"{mint}このタンクは何をしても居なくなることはない。"
+	}
+
+	"Boomer #128"
+	{
+		"jp"			"{mint}This Boomer just won't go away."
+	}
+
+	"Charger #128"
+	{
+		"jp"			"{mint}This Charger just won't go away."
+	}
+
+	"Hunter #128"
+	{
+		"jp"			"{mint}This Hunter just won't go away."
+	}
+
+	"Jockey #128"
+	{
+		"jp"			"{mint}This Jockey just won't go away."
+	}
+
+	"Smoker #128"
+	{
+		"jp"			"{mint}This Smoker just won't go away."
+	}
+
+	"Spitter #128"
+	{
+		"jp"			"{mint}This Spitter just won't go away."
+	}
+
+	"Witch #128"
+	{
+		"jp"			"{mint}This Witch just won't go away."
+	}
+
+	// This is actually a valid Steam32ID, so don't uncomment this; it's just an example.
+	// --
+	// "STEAM_0:1:23456789 Name"
+	// {
+	//	"jp"			"Tank"
+	// }
+	//
+	// "STEAM_0:1:23456789"
+	// {
+	//	"jp"			"{mint}This Tank is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Boomer Name"
+	// {
+	//	"jp"			"Boomer"
+	// }
+	//
+	// "STEAM_0:1:23456789 Boomer"
+	// {
+	//	"jp"			"{mint}This Boomer is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Charger Name"
+	// {
+	//	"jp"			"Charger"
+	// }
+	//
+	// "STEAM_0:1:23456789 Charger"
+	// {
+	//	"jp"			"{mint}This Charger is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Hunter Name"
+	// {
+	//	"jp"			"Hunter"
+	// }
+	//
+	// "STEAM_0:1:23456789 Hunter"
+	// {
+	//	"jp"			"{mint}This Hunter is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Jockey Name"
+	// {
+	//	"jp"			"Jockey"
+	// }
+	//
+	// "STEAM_0:1:23456789 Jockey"
+	// {
+	//	"jp"			"{mint}This Jockey is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Smoker Name"
+	// {
+	//	"jp"			"Smoker"
+	// }
+	//
+	// "STEAM_0:1:23456789 Smoker"
+	// {
+	//	"jp"			"{mint}This Smoker is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Spitter Name"
+	// {
+	//	"jp"			"Spitter"
+	// }
+	//
+	// "STEAM_0:1:23456789 Spitter"
+	// {
+	//	"jp"			"{mint}This Spitter is controlled by someone."
+	// }
+	//
+	// "STEAM_0:1:23456789 Witch Name"
+	// {
+	//	"jp"			"Witch"
+	// }
+	//
+	// "STEAM_0:1:23456789 Witch"
+	// {
+	//	"jp"			"{mint}This Witch is controlled by someone."
+	// }
+	// --
+	// Add Tank Note phrases for your own Mutant Tanks below!
+}
