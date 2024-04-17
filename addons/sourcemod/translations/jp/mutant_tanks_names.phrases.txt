@@ -7576,7 +7576,6 @@
 
 	"Tank #95"
 	{
-		"jp"			"{mint}Fire immunity, moves slowly, give survivors temporary health, absorbs health from nearby infected, spawns with a shield, and smites survivors."
 		"jp"			"{mint}炎上ダメージへの耐性, ゆっくりと移動, 生存者に一時的なHPを付与, 周辺の感染者からHPを吸収, シールドを持ってスポーン, 即死攻撃"
 	}
 
