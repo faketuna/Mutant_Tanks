@@ -1,0 +1,6431 @@
+"Phrases"
+{
+	// MT Chat Color Placeholders
+	// --
+	// Note: Not all phrases support these placeholders.
+	// --
+	// "{default}" - Normal -> \x01
+	// --
+	// "{mint}" - Sky-green -> \x03
+	// --
+	// "{yellow}" - Yellow-orange -> \x04
+	// --
+	// "{olive}" - Yellow-green -> \x05
+	// --
+	// "{percent}" - "%%" -> %
+
+	"MutantTanks"
+	{
+		"jp"			"Mutant Tanks"
+	}
+
+	"MTAbilitiesMenu"
+	{
+		"jp"			"Mutant Tanks Abilities"
+	}
+
+	"MTConfigMenu"
+	{
+		"jp"			"Config Parser Menu"
+	}
+
+	"MTDefaultItem"
+	{
+		"jp"			"Default Tank"
+	}
+
+	"MTDefaultItemBoomer"
+	{
+		"jp"			"Default Boomer"
+	}
+
+	"MTDefaultItemCharger"
+	{
+		"jp"			"Default Charger"
+	}
+
+	"MTDefaultItemHunter"
+	{
+		"jp"			"Default Hunter"
+	}
+
+	"MTDefaultItemJockey"
+	{
+		"jp"			"Default Jockey"
+	}
+
+	"MTDefaultItemSmoker"
+	{
+		"jp"			"Default Smoker"
+	}
+
+	"MTDefaultItemSpitter"
+	{
+		"jp"			"Default Spitter"
+	}
+
+	"MTDefaultItemWitch"
+	{
+		"jp"			"Default Witch"
+	}
+
+	"MTFavoriteMenu"
+	{
+		"jp"			"Use your favorite Mutant Tank type?"
+	}
+
+	"MTFavoriteMenuBoomer"
+	{
+		"jp"			"Use your favorite Mutant Boomer type?"
+	}
+
+	"MTFavoriteMenuCharger"
+	{
+		"jp"			"Use your favorite Mutant Charger type?"
+	}
+
+	"MTFavoriteMenuHunter"
+	{
+		"jp"			"Use your favorite Mutant Hunter type?"
+	}
+
+	"MTFavoriteMenuJockey"
+	{
+		"jp"			"Use your favorite Mutant Jockey type?"
+	}
+
+	"MTFavoriteMenuSmoker"
+	{
+		"jp"			"Use your favorite Mutant Smoker type?"
+	}
+
+	"MTFavoriteMenuSpitter"
+	{
+		"jp"			"Use your favorite Mutant Spitter type?"
+	}
+
+	"MTFavoriteMenuWitch"
+	{
+		"jp"			"Use your favorite Mutant Witch type?"
+	}
+
+	"MTInfoMenu"
+	{
+		"jp"			"Mutant Tanks Information"
+	}
+
+	"MTItem"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Tank #{2}) [Tank #{3}]"
+	}
+
+	"MTItemBoomer"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Boomer #{2}) [Boomer #{3}]"
+	}
+
+	"MTItemCharger"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Charger #{2}) [Charger #{3}]"
+	}
+
+	"MTItemHunter"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Hunter #{2}) [Hunter #{3}]"
+	}
+
+	"MTItemJockey"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Jockey #{2}) [Jockey #{3}]"
+	}
+
+	"MTItemSmoker"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Smoker #{2}) [Smoker #{3}]"
+	}
+
+	"MTItemSpitter"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Spitter #{2}) [Spitter #{3}]"
+	}
+
+	"MTItemWitch"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1} (Witch #{2}) [Witch #{3}]"
+	}
+
+	"MTListMenu"
+	{
+		"jp"			"Mutant Tanks List"
+	}
+
+	"MTListMenuBoomer"
+	{
+		"jp"			"Mutant Boomers List"
+	}
+
+	"MTListMenuCharger"
+	{
+		"jp"			"Mutant Chargers List"
+	}
+
+	"MTListMenuHunter"
+	{
+		"jp"			"Mutant Hunters List"
+	}
+
+	"MTListMenuJockey"
+	{
+		"jp"			"Mutant Jockeys List"
+	}
+
+	"MTListMenuSmoker"
+	{
+		"jp"			"Mutant Smokers List"
+	}
+
+	"MTListMenuSpitter"
+	{
+		"jp"			"Mutant Spitters List"
+	}
+
+	"MTListMenuWitch"
+	{
+		"jp"			"Mutant Witches List"
+	}
+
+	"MTPathMenu"
+	{
+		"jp"			"File Path Menu"
+	}
+
+	"MTPrefsInfo"
+	{
+		"jp"			"Type{olive} !mt_prefs{default} to change your{mint} visual reward settings{default}!"
+	}
+
+	"MTPrefsMenu"
+	{
+		"jp"			"Mutant Tanks Preferences Menu"
+	}
+
+	"MTReloadMenu"
+	{
+		"jp"			"Reload Config Menu"
+	}
+
+	"MTSettingsItem"
+	{
+		"jp"			"Plugin Settings"
+	}
+
+	"MTVersionMenu"
+	{
+		"jp"			"Mutant Tanks Version"
+	}
+
+	"Ammunition"
+	{
+		"jp"			"Ammunition"
+	}
+
+	"AbilityAmmo"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Your main/special/upon-death ability has{olive} {1}{mint}/{olive}{2}{mint} ammo left."
+	}
+
+	"AbilityAmmo2"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Your range ability has{olive} {1}{mint}/{olive}{2}{mint} ammo left."
+	}
+
+	"AndConjunction"
+	{
+		"jp"			"and"
+	}
+
+	"ButtonMode"
+	{
+		"jp"			"Button Mode"
+	}
+
+	"AbilityButtonMode1"
+	{
+		"jp"			"Press button(s) to activate your abilit(y/ies)."
+	}
+
+	"AbilityButtonMode2"
+	{
+		"jp"			"Hold button(s) down to use your abilit(y/ies)."
+	}
+
+	"Buttons"
+	{
+		"jp"			"Buttons"
+	}
+
+	"AbilityButtons"
+	{
+		"jp"			"{olive}+use (default: E):{mint} Activate your main ability."
+	}
+
+	"AbilityButtons2"
+	{
+		"jp"			"{olive}+reload (default: R):{mint} Activate your range ability."
+	}
+
+	"AbilityButtons3"
+	{
+		"jp"			"{olive}+zoom (default: Mouse3/Scroll wheel):{mint} Activate your special ability."
+	}
+
+	"AbilityButtons4"
+	{
+		"jp"			"{olive}+duck (default: CTRL):{mint} Activate your upon-death ability."
+	}
+
+	"Cooldown"
+	{
+		"jp"			"Cooldown"
+	}
+
+	"AbilityCooldown"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Cooldown:{olive} {1} second(s)"
+	}
+
+	"Details"
+	{
+		"jp"			"Details"
+	}
+
+	"Duration"
+	{
+		"jp"			"Duration"
+	}
+
+	"AbilityDuration"
+	{
+		"#format"		"{1:.2f}"
+		"jp"			"Duration:{olive} {1} second(s)"
+	}
+
+	"AbilityDuration2"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Duration:{olive} {1} second(s)"
+	}
+
+	"HumanSupport"
+	{
+		"jp"			"Human Support"
+	}
+
+	"AbilityHumanSupport1"
+	{
+		"jp"			"Enabled:{olive} No"
+	}
+
+	"AbilityHumanSupport2"
+	{
+		"jp"			"Enabled:{olive} Yes"
+	}
+
+	"RangeCooldown"
+	{
+		"jp"			"Range Cooldown"
+	}
+
+	"AbilityRangeCooldown"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Range Cooldown:{olive} {1} second(s)"
+	}
+
+	"RockCooldown"
+	{
+		"jp"			"Rock Cooldown"
+	}
+
+	"AbilityRockCooldown"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Rock Cooldown:{olive} {1} second(s)"
+	}
+
+	"Status"
+	{
+		"jp"			"Status"
+	}
+
+	"AbilityInstalled"
+	{
+		"#format"		"{1:s}"
+		"jp"			"{1}{olive} is installed."
+	}
+
+	"AbilityInstalled2"
+	{
+		"#format"		"{1:s}"
+		"jp"			"{1} is installed."
+	}
+
+	"AbilityStatus1"
+	{
+		"jp"			"Status:{olive} Disabled"
+	}
+
+	"AbilityStatus2"
+	{
+		"jp"			"Status:{olive} Enabled"
+	}
+
+	"Arrival1"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} が出現しました！"
+	}
+
+	"Arrival2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive} {1}{default} が来たぞ！"
+	}
+
+	"Arrival3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} は殺す準備ができている！"
+	}
+
+	"Arrival4"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive} {1}{default}と戦う準備は出来ているか？"
+	}
+
+	"Arrival5"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} が戦いを挑みに来た！"
+	}
+
+	"Arrival6"
+	{
+		"#format"		"{1:t}"
+		"jp"			"気をつけろ！{olive} {1}{default} が来るぞ！"
+	}
+
+	"Arrival7"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} の登場だ！"
+	}
+
+	"Arrival8"
+	{
+		"#format"		"{1:t}"
+		"jp"			"なんてこった！{olive} {1}{default} が近くまで来ている！"
+	}
+
+	"Arrival9"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} がゲームに参加しました"
+	}
+
+	"Arrival10"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive} {1}{default} が生存者に合流します！"
+	}
+
+	"Assist1"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive}{1}{default} は敗北した！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist2"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"生存者は{olive} {1}{default}を打ち倒した！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist3"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive}{1}{default} は地獄へ落ちた！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist4"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"本当に{olive} {1}{default} は死んだのか...?{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist5"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive}{1}{default} は生存者に挑戦し敗北しました！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist6"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive} {1}{default} は生存者を殺しそこねました！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist7"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive}{1}{default} は終焉を迎えた！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist8"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"やったぜ！{olive} {1}{default} は死んだ！{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist9"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive}{1}{default} がゲームから退出しました{yellow} MVP:{mint} {2}"
+	}
+
+	"Assist10"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"結局{olive} {1}{default} は生存者を倒せなかったようだ。{yellow} MVP:{mint} {2}"
+	}
+
+	"BodyVisualOn"
+	{
+		"jp"			"Body Color Visual: ON"
+	}
+
+	"BodyVisualOff"
+	{
+		"jp"			"Body Color Visual: OFF"
+	}
+
+	"ChangeType"
+	{
+		"jp"			"Your personal Mutant Tank type changed."
+	}
+
+	"ChangeTypeBoomer"
+	{
+		"jp"			"Your personal Mutant Boomer type changed."
+	}
+
+	"ChangeTypeCharger"
+	{
+		"jp"			"Your personal Mutant Charger type changed."
+	}
+
+	"ChangeTypeHunter"
+	{
+		"jp"			"Your personal Mutant Hunter type changed."
+	}
+
+	"ChangeTypeJockey"
+	{
+		"jp"			"Your personal Mutant Jockey type changed."
+	}
+
+	"ChangeTypeSmoker"
+	{
+		"jp"			"Your personal Mutant Smoker type changed."
+	}
+
+	"ChangeTypeSpitter"
+	{
+		"jp"			"Your personal Mutant Spitter type changed."
+	}
+
+	"ChangeTypeWitch"
+	{
+		"jp"			"Your personal Mutant Witch type changed."
+	}
+
+	"CheckConsole"
+	{
+		"jp"			"See console for full output."
+	}
+
+	"CommandUsage"
+	{
+		"#format"		"{1:s},{2:i},{3:i}"
+		"jp"			"Usage: {1} <type {2}-{3}> <amount: 1-32> <0: spawn at crosshair|1: spawn automatically> <0: not blind|1: blind>"
+	}
+
+	"CommandUsage2"
+	{
+		"#format"		"{1:s}"
+		"jp"			"Usage: {1} \"ability name\""
+	}
+
+	"CompletedParsing"
+	{
+		"jp"			"Parsing complete!"
+	}
+
+	"Death1"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} は敗北した！"
+	}
+
+	"Death2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"生存者は{olive} {1}{default}を打ち倒した！"
+	}
+
+	"Death3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} は地獄へ落ちた！"
+	}
+
+	"Death4"
+	{
+		"#format"		"{1:t}"
+		"jp"			"本当に{olive} {1}{default} は死んだのか...?"
+	}
+
+	"Death5"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} は生存者に挑戦し敗北しました！"
+	}
+
+	"Death6"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive} {1}{default} は生存者を殺しそこねました！"
+	}
+
+	"Death7"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} は終焉を迎えた！"
+	}
+
+	"Death8"
+	{
+		"#format"		"{1:t}"
+		"jp"			"やったぜ！{olive} {1}{default} は死んだ！"
+	}
+
+	"Death9"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{default} がゲームから退出しました"
+	}
+
+	"Death10"
+	{
+		"#format"		"{1:t}"
+		"jp"			"結局{olive} {1}{default} は生存者を倒せなかったようだ。"
+	}
+
+	"DespawnCanceled"
+	{
+		"jp"			"Your despawn was canceled!"
+	}
+
+	"DespawnNow"
+	{
+		"jp"			"You have despawned!"
+	}
+
+	"DespawnTimer"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You will despawn in {1} second(s)!"
+	}
+
+	"DisabledType"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Tank #{2}) [Tank #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeBoomer"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Boomer #{2}) [Boomer #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeCharger"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Charger #{2}) [Charger #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeHunter"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Hunter #{2}) [Hunter #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeJockey"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Jockey #{2}) [Jockey #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeSmoker"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Smoker #{2}) [Smoker #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeSpitter"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Spitter #{2}) [Spitter #{3}]{default} is disabled."
+	}
+
+	"DisabledTypeWitch"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"{1}{yellow} (Witch #{2}) [Witch #{3}]{default} is disabled."
+	}
+
+	"ErrorParsing"
+	{
+		"#format"		"{1:s},{2:s}"
+		"jp"			"Error while parsing the \"{1}\" file. Error Message: {2}."
+	}
+
+	"Evolved"
+	{
+		"#format"		"{1:t},{2:t},{3:i}"
+		"jp"			"{olive}{1}{mint} evolved into{olive} {2}{yellow} (Stage {3}){mint}!"
+	}
+
+	"FailedParsing"
+	{
+		"#format"		"{1:s}"
+		"jp"			"Failed to parse the \"{1}\" file."
+	}
+
+	"FavoriteUnused"
+	{
+		"jp"			"You chose not to use your favorite Mutant Tank type."
+	}
+
+	"FavoriteUnusedBoomer"
+	{
+		"jp"			"You chose not to use your favorite Mutant Boomer type."
+	}
+
+	"FavoriteUnusedCharger"
+	{
+		"jp"			"You chose not to use your favorite Mutant Charger type."
+	}
+
+	"FavoriteUnusedHunter"
+	{
+		"jp"			"You chose not to use your favorite Mutant Hunter type."
+	}
+
+	"FavoriteUnusedJockey"
+	{
+		"jp"			"You chose not to use your favorite Mutant Jockey type."
+	}
+
+	"FavoriteUnusedSmoker"
+	{
+		"jp"			"You chose not to use your favorite Mutant Smoker type."
+	}
+
+	"FavoriteUnusedSpitter"
+	{
+		"jp"			"You chose not to use your favorite Mutant Spitter type."
+	}
+
+	"FavoriteUnusedWitch"
+	{
+		"jp"			"You chose not to use your favorite Mutant Witch type."
+	}
+
+	"GeneralDetails"
+	{
+		"jp"			"Mutant Tanks makes fighting Tanks great again!"
+	}
+
+	"GlowVisualOn"
+	{
+		"jp"			"Glow Outline Visual: ON"
+	}
+
+	"GlowVisualOff"
+	{
+		"jp"			"Glow Outline Visual: OFF"
+	}
+
+	"HardcoreModeOn"
+	{
+		"jp"			"HARDCORE{default} mode is{olive} enabled{default}!"
+	}
+
+	"HardcoreModeOff"
+	{
+		"jp"			"HARDCORE{default} mode is{olive} disabled{default}!"
+	}
+
+	"HardcoreModeWarning"
+	{
+		"jp"			"You only get one chance to survive on HARDCORE mode!"
+	}
+
+	"HumanCooldown"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Tank type."
+	}
+
+	"HumanCooldownBoomer"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Boomer type."
+	}
+
+	"HumanCooldownCharger"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Charger type."
+	}
+
+	"HumanCooldownHunter"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Hunter type."
+	}
+
+	"HumanCooldownJockey"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Jockey type."
+	}
+
+	"HumanCooldownSmoker"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Smoker type."
+	}
+
+	"HumanCooldownSpitter"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Spitter type."
+	}
+
+	"HumanCooldownWitch"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You must wait another{olive} {1} second(s){mint} before changing into a different Mutant Witch type."
+	}
+
+	"HumanTag"
+	{
+		"jp"			"[HUMAN]"
+	}
+
+	"Kill1"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{default} は{mint} {2}{default}を破壊した！"
+	}
+
+	"Kill2"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{default} は{mint} {2}{default}を打ち倒した！"
+	}
+
+	"Kill3"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{default} は{mint} {2}{default} を地獄送りにした！"
+	}
+
+	"Kill4"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive} {1}{default} は{mint} {2}{default} を殺したのか...?"
+	}
+
+	"Kill5"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{mint}{2}{default} は{olive} {1}{default}との対戦で敗北した！"
+	}
+
+	"Kill6"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{mint}{2}{default} は{olive} {1}{default}を倒せなかった！"
+	}
+
+	"Kill7"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{mint}{2}{default} は{olive} {1}{default}の手によって終焉を迎えた！"
+	}
+
+	"Kill8"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"やったぜ！{mint} {2}{default} は{olive} {1}{default}の手によって死亡した！"
+	}
+
+	"Kill9"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{default} は{mint} {2}{default} を萎え落ちさせた！"
+	}
+
+	"Kill10"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"やはり{mint} {2}{default} は{olive} {1}{default} に勝てなかったようだ！"
+	}
+
+	"Killer1"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{mint}{1}{default} は{olive} {2}{default} を破壊した！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer2"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{mint}{1}{default} は{olive} {2}{default} を打ち倒した！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer3"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{mint}{1}{default} は{olive} {2}{default} を地獄送りにした！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer4"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{olive} {1}{default} は{mint} {2}{default} を殺したのか...?{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer5"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{mint}{2}{default} は{olive} {1}{default}との対戦で敗北した！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer6"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{mint}{2}{default} は{olive} {1}{default}を倒せなかった！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer7"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{mint}{2}{default} は{olive} {1}{default}の手によって終焉を迎えた！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer8"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"やったぜ！{mint} {2}{default} は{olive} {1}{default}の手によって死亡した！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer9"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"{olive}{1}{default} は{mint} {2}{default} を萎え落ちさせた！{yellow} MVP:{mint} {3}"
+	}
+
+	"Killer10"
+	{
+		"#format"		"{1:s},{2:t},{3:s}"
+		"jp"			"やはり{mint} {2}{default} は{olive} {1}{default} に勝てなかったようだ！{yellow} MVP:{mint} {3}"
+	}
+
+	"KillCountdown"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Tanks{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownAll"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Special Infected{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownBoomer"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Boomers{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownCharger"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Chargers{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownHunter"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Hunters{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownJockey"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Jockeys{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownSmoker"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Smokers{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownSpitter"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Spitters{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"KillCountdownWitch"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Witches{default} have{yellow} {1} minute(s) {2} second(s){default} to kill the survivors."
+	}
+
+	"LightVisualOn"
+	{
+		"jp"			"Light Color Visual: ON"
+	}
+
+	"LightVisualOff"
+	{
+		"jp"			"Light Color Visual: OFF"
+	}
+
+	"LogEnded"
+	{
+		"#format"		"{1:s},{2:s}"
+		"jp"			"[{1}] --- LOG ENDED ON MAP: {2} ---"
+	}
+
+	"LogStarted"
+	{
+		"#format"		"{1:s},{2:s}"
+		"jp"			"[{1}] --- LOG STARTED ON MAP: {2} ---"
+	}
+
+	"MultipleMatches"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Tank #{1}) [Tank #{2}]{olive}."
+	}
+
+	"MultipleMatchesBoomer"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Boomer #{1}) [Boomer #{2}]{olive}."
+	}
+
+	"MultipleMatchesCharger"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Charger #{1}) [Charger #{2}]{olive}."
+	}
+
+	"MultipleMatchesHunter"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Hunter #{1}) [Hunter #{2}]{olive}."
+	}
+
+	"MultipleMatchesJockey"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Jockey #{1}) [Jockey #{2}]{olive}."
+	}
+
+	"MultipleMatchesSmoker"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Smoker #{1}) [Smoker #{2}]{olive}."
+	}
+
+	"MultipleMatchesSpitter"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Spitter #{1}) [Spitter #{2}]{olive}."
+	}
+
+	"MultipleMatchesWitch"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Multiple types matched that name.{olive} Selecting a random match{yellow} (Witch #{1}) [Witch #{2}]{olive}."
+	}
+
+	"NoAbilities"
+	{
+		"jp"			"No abilities were found."
+	}
+
+	"NoCommandAccess"
+	{
+		"jp"			"You do not have access to this command."
+	}
+
+	"NoItems"
+	{
+		"jp"			"There are no items available."
+	}
+
+	"NoName"
+	{
+		"jp"			"タンク"
+	}
+
+	"NoNameBoomer"
+	{
+		"jp"			"Boomer"
+	}
+
+	"NoNameCharger"
+	{
+		"jp"			"Charger"
+	}
+
+	"NoNameHunter"
+	{
+		"jp"			"Hunter"
+	}
+
+	"NoNameJockey"
+	{
+		"jp"			"Jockey"
+	}
+
+	"NoNameSmoker"
+	{
+		"jp"			"Smoker"
+	}
+
+	"NoNameSpitter"
+	{
+		"jp"			"Spitter"
+	}
+
+	"NoNameWitch"
+	{
+		"jp"			"Witch"
+	}
+
+	"NoNote"
+	{
+		"jp"			"このタンクに関する情報が見つかりませんでした。"
+	}
+
+	"NoNoteBoomer"
+	{
+		"jp"			"No note found for this Mutant Boomer."
+	}
+
+	"NoNoteCharger"
+	{
+		"jp"			"No note found for this Mutant Charger."
+	}
+
+	"NoNoteHunter"
+	{
+		"jp"			"No note found for this Mutant Hunter."
+	}
+
+	"NoNoteJockey"
+	{
+		"jp"			"No note found for this Mutant Jockey."
+	}
+
+	"NoNoteSmoker"
+	{
+		"jp"			"No note found for this Mutant Smoker."
+	}
+
+	"NoNoteSpitter"
+	{
+		"jp"			"No note found for this Mutant Spitter."
+	}
+
+	"NoNoteWitch"
+	{
+		"jp"			"No note found for this Mutant Witch."
+	}
+
+	"NoTypeAccess"
+	{
+		"jp"			"You do not have access to this Mutant Tank type."
+	}
+
+	"NoTypeAccessBoomer"
+	{
+		"jp"			"You do not have access to this Mutant Boomer type."
+	}
+
+	"NoTypeAccessCharger"
+	{
+		"jp"			"You do not have access to this Mutant Charger type."
+	}
+
+	"NoTypeAccessHunter"
+	{
+		"jp"			"You do not have access to this Mutant Hunter type."
+	}
+
+	"NoTypeAccessJockey"
+	{
+		"jp"			"You do not have access to this Mutant Jockey type."
+	}
+
+	"NoTypeAccessSmoker"
+	{
+		"jp"			"You do not have access to this Mutant Smoker type."
+	}
+
+	"NoTypeAccessSpitter"
+	{
+		"jp"			"You do not have access to this Mutant Spitter type."
+	}
+
+	"NoTypeAccessWitch"
+	{
+		"jp"			"You do not have access to this Mutant Witch type."
+	}
+
+	"OptionNo"
+	{
+		"jp"			"No"
+	}
+
+	"OptionYes"
+	{
+		"jp"			"Yes"
+	}
+
+	"ParticleVisualOn"
+	{
+		"jp"			"Particle Effect Visual: ON"
+	}
+
+	"ParticleVisualOff"
+	{
+		"jp"			"Particle Effect Visual: OFF"
+	}
+
+	"PersonalType"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Tank #{2}) [Tank #{3}]{default} when you take control of the{mint} Tank{default}."
+	}
+
+	"PersonalTypeBoomer"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Boomer #{2}) [Boomer #{3}]{default} when you take control of the{mint} Boomer{default}."
+	}
+
+	"PersonalTypeCharger"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Charger #{2}) [Charger #{3}]{default} when you take control of the{mint} Charger{default}."
+	}
+
+	"PersonalTypeHunter"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Hunter #{2}) [Hunter #{3}]{default} when you take control of the{mint} Hunter{default}."
+	}
+
+	"PersonalTypeJockey"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Jockey #{2}) [Jockey #{3}]{default} when you take control of the{mint} Jockey{default}."
+	}
+
+	"PersonalTypeSmoker"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Smoker #{2}) [Smoker #{3}]{default} when you take control of the{mint} Smoker{default}."
+	}
+
+	"PersonalTypeSpitter"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Spitter #{2}) [Spitter #{3}]{default} when you take control of the{mint} Spitter{default}."
+	}
+
+	"PersonalTypeWitch"
+	{
+		"#format"		"{1:t},{2:i},{3:i}"
+		"jp"			"You will spawn as{olive} {1}{yellow} (Witch #{2}) [Witch #{3}]{default} when you take control of the{mint} Witch{default}."
+	}
+
+	"PitchVisualOn"
+	{
+		"jp"			"Voice Pitch Visual: ON"
+	}
+
+	"PitchVisualOff"
+	{
+		"jp"			"Voice Pitch Visual: OFF"
+	}
+
+	"PluginDisabled"
+	{
+		"jp"			"Mutant Tanks{default} is disabled."
+	}
+
+	"Randomized"
+	{
+		"#format"		"{1:t},{2:t}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}になった！"
+	}
+
+	"ReloadedConfig"
+	{
+		"jp"			"All config files have been reloaded."
+	}
+
+	"ReloadingConfig"
+	{
+		"#format"		"{1:s}"
+		"jp"			"Reloading config file \"{1}\" file..."
+	}
+
+	"RequestFailed"
+	{
+		"jp"			"No types matched that name.{olive} Request failed."
+	}
+
+	"RequestSucceeded"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Tank #{1}) [Tank #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededBoomer"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Boomer #{1}) [Boomer #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededCharger"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Charger #{1}) [Charger #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededHunter"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Hunter #{1}) [Hunter #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededJockey"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Jockey #{1}) [Jockey #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededSmoker"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Smoker #{1}) [Smoker #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededSpitter"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Spitter #{1}) [Spitter #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RequestSucceededWitch"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"One type{yellow} (Witch #{1}) [Witch #{2}]{mint} matched that name.{olive} Request succeeded!"
+	}
+
+	"RestCountdown"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"Survivors{default} have{yellow} {1} minute(s) {2} second(s){default} to rest."
+	}
+
+	"RewardAmmo"
+	{
+		"jp"			"ammunition boost"
+	}
+
+	"RewardAttackBoost"
+	{
+		"jp"			"attack boost"
+	}
+
+	"RewardDamageBoost"
+	{
+		"jp"			"damage boost"
+	}
+
+	"RewardEnd"
+	{
+		"#format"		"{1:s}"
+		"jp"			"{yellow} {1}{default} の効果時間が終了しました！"
+	}
+
+	"RewardGod"
+	{
+		"jp"			"god mode"
+	}
+
+	"RewardHealth"
+	{
+		"jp"			"health boost"
+	}
+
+	"RewardInfAmmo"
+	{
+		"jp"			"infinite ammo"
+	}
+
+	"RewardLadyKiller"
+	{
+		"#format"		"{1:i}"
+		"jp"			"{1}{default} 回使用できる{mint} Lady Killer"
+	}
+
+	"RewardLadyKiller2"
+	{
+		"#format"		"{1:i}"
+		"jp"			"{mint} Lady Killer{default} はあと{yellow} {1}{default} 回使えます。"
+	}
+
+	"RewardList"
+	{
+		"#format"		"{1:s},{2:t}"
+		"jp"			"{olive} {2}{default} を倒した報酬で{yellow} {1}{default} を受け取りました！"
+	}
+
+	"RewardList2"
+	{
+		"#format"		"{1:s},{2:t}"
+		"jp"			"{olive} {2}{default} の討伐を最もアシストしたため{yellow} {1}{default} を受け取りました！"
+	}
+
+	"RewardList3"
+	{
+		"#format"		"{1:s},{2:t}"
+		"jp"			"{olive} {2}{default} の討伐をアシストしたため{yellow} {1}{default} を受け取りました！"
+	}
+
+	"RewardList4"
+	{
+		"#format"		"{1:s},{2:t}"
+		"jp"			"{olive} {2}{default} の討伐し、また最もアシストしたため{yellow} {1}{default} を受け取りました！"
+	}
+
+	"RewardNone"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive} {1}{default} に対して十分なダメージを与えなかったためリワードは受け取れません。"
+	}
+
+	"RewardReceived"
+	{
+		"#format"		"{1:s}"
+		"jp"			"{yellow} {1}{default}を受け取りました。"
+	}
+
+	"RewardRefill"
+	{
+		"jp"			"体力と弾薬"
+	}
+
+	"RewardRespawn"
+	{
+		"jp"			"リスポーン"
+	}
+
+	"RewardShared"
+	{
+		"#format"		"{1:N},{2:s}"
+		"jp"			"{1}{default} は{yellow} {2}{default} を{mint}あなた{default}と共有しました！"
+	}
+
+	"RewardSolo"
+	{
+		"#format"		"{1:N},{2:t}"
+		"jp"			"{1}{default} は単独で{olive} {2}{default} を討伐しました！"
+	}
+
+	"RewardSpeedBoost"
+	{
+		"jp"			"speed boost"
+	}
+
+	"Rush"
+	{
+		"jp"			"{yellow} タンクラッシュ{mint}へようこそ！"
+	}
+
+	"RushAll"
+	{
+		"jp"			"Welcome to{yellow} Special Arena{mint}!"
+	}
+
+	"RushBoomer"
+	{
+		"jp"			"Welcome to{yellow} Vomit Vault{mint}!"
+	}
+
+	"RushCharger"
+	{
+		"jp"			"Welcome to{yellow} Meat Grinder{mint}!"
+	}
+
+	"RushHunter"
+	{
+		"jp"			"Welcome to{yellow} Hunting Ground{mint}!"
+	}
+
+	"RushJockey"
+	{
+		"jp"			"Welcome to{yellow} Amusement Park{mint}!"
+	}
+
+	"RushSmoker"
+	{
+		"jp"			"Welcome to{yellow} Gas Chamber{mint}!"
+	}
+
+	"RushSpitter"
+	{
+		"jp"			"Welcome to{yellow} Acid Rain{mint}!"
+	}
+
+	"RushWitch"
+	{
+		"jp"			"Welcome to{yellow} Daycare Center{mint}!"
+	}
+
+	"RushWarning"
+	{
+		"#format"		"{1:i}"
+		"jp"			"タンクが{yellow} {1} 秒{default}ででスポーンし始めます！"
+	}
+
+	"RushWarningAll"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Special Infected{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningBoomer"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Boomers{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningCharger"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Chargers{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningHunter"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Hunters{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningJockey"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Jockeys{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningSmoker"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Smokers{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningSpitter"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Spitters{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"RushWarningWitch"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Witches{default} will begin spawning in{yellow} {1} second(s){default}!"
+	}
+
+	"ScreenVisualOn"
+	{
+		"jp"			"Screen Visual: ON"
+	}
+
+	"ScreenVisualOff"
+	{
+		"jp"			"Screen Visual: OFF"
+	}
+
+	"SpawnManually"
+	{
+		"jp"			"You will have to spawn manually."
+	}
+
+	"SpawnMessage"
+	{
+		"jp"			"You spawned as a Mutant Tank! You can now use the following:"
+	}
+
+	"SpawnMessageBoomer"
+	{
+		"jp"			"You spawned as a Mutant Boomer! You can now use the following:"
+	}
+
+	"SpawnMessageCharger"
+	{
+		"jp"			"You spawned as a Mutant Charger! You can now use the following:"
+	}
+
+	"SpawnMessageHunter"
+	{
+		"jp"			"You spawned as a Mutant Hunter! You can now use the following:"
+	}
+
+	"SpawnMessageJockey"
+	{
+		"jp"			"You spawned as a Mutant Jockey! You can now use the following:"
+	}
+
+	"SpawnMessageSmoker"
+	{
+		"jp"			"You spawned as a Mutant Smoker! You can now use the following:"
+	}
+
+	"SpawnMessageSpitter"
+	{
+		"jp"			"You spawned as a Mutant Spitter! You can now use the following:"
+	}
+
+	"SpawnMessageWitch"
+	{
+		"jp"			"You spawned as a Mutant Witch! You can now use the following:"
+	}
+
+	"SpawnNow"
+	{
+		"jp"			"You can now spawn!"
+	}
+
+	"SpawnTimer"
+	{
+		"#format"		"{1:i}"
+		"jp"			"You will be able to spawn in {1} second(s)!"
+	}
+
+	"SpawnWarning"
+	{
+		"jp"			"Tanks are beginning to spawn..."
+	}
+
+	"SpawnWarningAll"
+	{
+		"jp"			"Special Infected are beginning to spawn..."
+	}
+
+	"SpawnWarningBoomer"
+	{
+		"jp"			"Boomers are beginning to spawn..."
+	}
+
+	"SpawnWarningCharger"
+	{
+		"jp"			"Chargers are beginning to spawn..."
+	}
+
+	"SpawnWarningHunter"
+	{
+		"jp"			"Hunters are beginning to spawn..."
+	}
+
+	"SpawnWarningJockey"
+	{
+		"jp"			"Jockeys are beginning to spawn..."
+	}
+
+	"SpawnWarningSmoker"
+	{
+		"jp"			"Smokers are beginning to spawn..."
+	}
+
+	"SpawnWarningSpitter"
+	{
+		"jp"			"Spitters are beginning to spawn..."
+	}
+
+	"SpawnWarningWitch"
+	{
+		"jp"			"Witches are beginning to spawn..."
+	}
+
+	"StartParsing"
+	{
+		"jp"			"Parsing the config file..."
+	}
+
+	"StillParsing"
+	{
+		"jp"			"The plugin is still parsing the config file."
+	}
+
+	"TeammatesList"
+	{
+		"#format"		"{1:t},{2:s}"
+		"jp"			"{olive} {1}{default}への総ダメージ:{mint} {2}"
+	}
+
+	"Transformed"
+	{
+		"#format"		"{1:t},{2:t}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}に変身した！"
+	}
+
+	"Untransformed"
+	{
+		"#format"		"{1:t},{2:t}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}に戻った！"
+	}
+
+	"VoicelineVisualOn"
+	{
+		"jp"			"Looping Voiceline Visual: ON"
+	}
+
+	"VoicelineVisualOff"
+	{
+		"jp"			"Looping Voiceline Visual: OFF"
+	}
+
+	"AllTypes"
+	{
+		"jp"			"All Types"
+	}
+
+	"Bot-dependentTypes"
+	{
+		"jp"			"Bot-dependent Types"
+	}
+
+	"CompetitiveTypes"
+	{
+		"jp"			"Competitive Types"
+	}
+
+	"Human-dependentTypes"
+	{
+		"jp"			"Human-dependent Types"
+	}
+
+	"IndoorTypes"
+	{
+		"jp"			"Indoor Types"
+	}
+
+	"OutdoorTypes"
+	{
+		"jp"			"Outdoor Types"
+	}
+
+	"SpawnableTypes"
+	{
+		"jp"			"Spawnable Types"
+	}
+
+	"UnspawnableTypes"
+	{
+		"jp"			"Unspawnable Types"
+	}
+
+	"Absorb"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は一時的にダメージのほぼ全てを吸収します！"
+	}
+
+	"Absorb2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} はダメージを吸収しなくなりました！"
+	}
+
+	"AbsorbAmmo"
+	{
+		"jp"			"You've used up all your absorption ability's ammo."
+	}
+
+	"AbsorbDetails"
+	{
+		"jp"			"You absorb most of the damage you receive."
+	}
+
+	"AbsorbHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your absorption ability!"
+	}
+
+	"AbsorbHuman2"
+	{
+		"jp"			"Your absorption ability failed to activate. Try again."
+	}
+
+	"AbsorbHuman3"
+	{
+		"jp"			"You already activated your absorption ability."
+	}
+
+	"AbsorbHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your absorption ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"AbsorbHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your absorption ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"AbsorbMenu"
+	{
+		"jp"			"Absorb Ability Information"
+	}
+
+	"AbsorbMenu2"
+	{
+		"jp"			"Absorb Ability"
+	}
+
+	"Acid"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}の足元に酸の水たまりを生成した！"
+	}
+
+	"Acid2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の岩が酸の水たまりを生成した！"
+	}
+
+	"AcidAmmo"
+	{
+		"jp"			"You've used up all your acid range ability's ammo."
+	}
+
+	"AcidDetails"
+	{
+		"jp"			"You create acid puddles."
+	}
+
+	"AcidHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your acid ability!"
+	}
+
+	"AcidHuman2"
+	{
+		"jp"			"Your acid ability failed to activate. Try again."
+	}
+
+	"AcidHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your acid ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"AcidHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your acid ability on."
+	}
+
+	"AcidHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your acid ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"AcidMenu"
+	{
+		"jp"			"Acid Ability Information"
+	}
+
+	"AcidMenu2"
+	{
+		"jp"			"Acid Ability"
+	}
+
+	"Aimless"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} をAIM不能にした！"
+	}
+
+	"Aimless2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} はAIM出来るようになった！"
+	}
+
+	"AimlessAmmo"
+	{
+		"jp"			"You've used up all your aimless range ability's ammo."
+	}
+
+	"AimlessDetails"
+	{
+		"jp"			"You prevent survivors from aiming."
+	}
+
+	"AimlessHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your aimless ability!"
+	}
+
+	"AimlessHuman2"
+	{
+		"jp"			"Your aimless ability failed to activate. Try again."
+	}
+
+	"AimlessHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your aimless ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"AimlessHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your aimless ability on."
+	}
+
+	"AimlessHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your aimless ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"AimlessMenu"
+	{
+		"jp"			"Aimless Ability Information"
+	}
+
+	"AimlessMenu2"
+	{
+		"jp"			"Aimless Ability"
+	}
+
+	"Ammo"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の全ての弾薬を盗み取った！"
+	}
+
+	"AmmoAmmo"
+	{
+		"jp"			"You've used up all your ammo range ability's ammo."
+	}
+
+	"AmmoDetails"
+	{
+		"jp"			"You take away survivors' ammunition."
+	}
+
+	"AmmoHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your ammo ability!"
+	}
+
+	"AmmoHuman2"
+	{
+		"jp"			"Your ammo ability failed to activate. Try again."
+	}
+
+	"AmmoHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your ammo ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"AmmoHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your ammo ability on."
+	}
+
+	"AmmoHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your ammo ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"AmmoMenu"
+	{
+		"jp"			"Ammo Ability Information"
+	}
+
+	"AmmoMenu2"
+	{
+		"jp"			"Ammo Ability"
+	}
+
+	"Blind"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}の目を見えなくした！"
+	}
+
+	"Blind2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} 目が見えるようになった！"
+	}
+
+	"BlindAmmo"
+	{
+		"jp"			"You've used up all your blind range ability's ammo."
+	}
+
+	"BlindDetails"
+	{
+		"jp"			"You blind survivors."
+	}
+
+	"BlindHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your blind ability!"
+	}
+
+	"BlindHuman2"
+	{
+		"jp"			"Your blind ability failed to activate. Try again."
+	}
+
+	"BlindHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your blind ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"BlindHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your blind ability on."
+	}
+
+	"BlindHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your blind ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"BlindMenu"
+	{
+		"jp"			"Blind Ability Information"
+	}
+
+	"BlindMenu2"
+	{
+		"jp"			"Blind Ability"
+	}
+
+	"Bomb"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の場所に爆発を発生させた！"
+	}
+
+	"Bomb2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の岩が爆発した。"
+	}
+
+	"BombAmmo"
+	{
+		"jp"			"You've used up all your bomb range ability's ammo."
+	}
+
+	"BombDetails"
+	{
+		"jp"			"You create explosions."
+	}
+
+	"BombHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your bomb ability!"
+	}
+
+	"BombHuman2"
+	{
+		"jp"			"Your bomb ability failed to activate. Try again."
+	}
+
+	"BombHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your bomb ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"BombHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your bomb ability on."
+	}
+
+	"BombHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your bomb ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"BombMenu"
+	{
+		"jp"			"Bomb Ability Information"
+	}
+
+	"BombMenu2"
+	{
+		"jp"			"Bomb Ability"
+	}
+
+	"Bury"
+	{
+		"#format"		"{1:t},{2:N},{3:.2f}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{yellow} {3}{mint} を地面へ埋めた！"
+	}
+
+	"Bury2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は地面から脱出した！"
+	}
+
+	"BuryAmmo"
+	{
+		"jp"			"You've used up all your bury range ability's ammo."
+	}
+
+	"BuryDetails"
+	{
+		"jp"			"You bury survivors."
+	}
+
+	"BuryHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your bury ability!"
+	}
+
+	"BuryHuman2"
+	{
+		"jp"			"Your bury ability failed to activate. Try again."
+	}
+
+	"BuryHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your bury ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"BuryHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your bury ability on."
+	}
+
+	"BuryHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your bury ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"BuryMenu"
+	{
+		"jp"			"Bury Ability Information"
+	}
+
+	"BuryMenu2"
+	{
+		"jp"			"Bury Ability"
+	}
+
+	"Car"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow} 車の雨{mint}を降らし始めた！"
+	}
+
+	"Car2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1} の{mint}車の雨が止んだ！"
+	}
+
+	"CarAmmo"
+	{
+		"jp"			"You've used up all your car showers."
+	}
+
+	"CarDetails"
+	{
+		"jp"			"You create car showers."
+	}
+
+	"CarHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your car showers!"
+	}
+
+	"CarHuman2"
+	{
+		"jp"			"Your car shower failed to activate. Try again."
+	}
+
+	"CarHuman3"
+	{
+		"jp"			"You already activated your car shower."
+	}
+
+	"CarHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your car shower still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"CarHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your car shower ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"CarMenu"
+	{
+		"jp"			"Car Ability Information"
+	}
+
+	"CarMenu2"
+	{
+		"jp"			"Car Ability"
+	}
+
+	"Choke"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は空中で{olive} {2}{mint} の首を絞めている！"
+	}
+
+	"Choke2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は開放された！"
+	}
+
+	"ChokeAmmo"
+	{
+		"jp"			"You've used up all your choke range ability's ammo."
+	}
+
+	"ChokeDetails"
+	{
+		"jp"			"You choke survivors in midair."
+	}
+
+	"ChokeHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your choke ability!"
+	}
+
+	"ChokeHuman2"
+	{
+		"jp"			"Your choke ability failed to activate. Try again."
+	}
+
+	"ChokeHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your choke ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"ChokeHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your choke ability on."
+	}
+
+	"ChokeHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your choke ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"ChokeMenu"
+	{
+		"jp"			"Choke Ability Information"
+	}
+
+	"ChokeMenu2"
+	{
+		"jp"			"Choke Ability"
+	}
+
+	"Clone"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は自身のクローンを生成した！"
+	}
+
+	"CloneAmmo"
+	{
+		"jp"			"You've used up all your clones."
+	}
+
+	"CloneDetails"
+	{
+		"jp"			"You create clones of yourself."
+	}
+
+	"CloneHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You created{olive} {1}{mint}/{olive}{2}{mint} clones!"
+	}
+
+	"CloneHuman2"
+	{
+		"jp"			"You failed to create a clone. Try again."
+	}
+
+	"CloneHuman3"
+	{
+		"jp"			"You cannot create clones as a clone."
+	}
+
+	"CloneHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your clone ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"CloneHuman5"
+	{
+		"jp"			"One of your clones just died."
+	}
+
+	"CloneHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"All your clones died and your clone ability needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"CloneMenu"
+	{
+		"jp"			"Clone Ability Information"
+	}
+
+	"CloneMenu2"
+	{
+		"jp"			"Clone Ability"
+	}
+
+	"Cloud"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は煙幕を発生させた！"
+	}
+
+	"Cloud2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の煙幕が消えた！"
+	}
+
+	"CloudAmmo"
+	{
+		"jp"			"You've used up all your cloud ability's ammo."
+	}
+
+	"CloudDetails"
+	{
+		"jp"			"You constantly emit clouds of smoke that damage survivors caught in them."
+	}
+
+	"CloudHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your cloud ability!"
+	}
+
+	"CloudHuman2"
+	{
+		"jp"			"Your cloud ability failed to activate. Try again."
+	}
+
+	"CloudHuman3"
+	{
+		"jp"			"You already activated your cloud ability."
+	}
+
+	"CloudHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your cloud ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"CloudHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your cloud ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"CloudMenu"
+	{
+		"jp"			"Cloud Ability Information"
+	}
+
+	"CloudMenu2"
+	{
+		"jp"			"Cloud Ability"
+	}
+
+	"Drop"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が銃をドロップさせました！"
+	}
+
+	"Drop2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint}が近接武器をドロップさせました！"
+	}
+
+	"DropDetails"
+	{
+		"jp"			"You drop a weapon upon death."
+	}
+
+	"DropHuman"
+	{
+		"jp"			"You will drop a weapon when you die!"
+	}
+
+	"DropHuman2"
+	{
+		"jp"			"You will already drop a weapon upon death."
+	}
+
+	"DropMenu"
+	{
+		"jp"			"Drop Ability Information"
+	}
+
+	"DropMenu2"
+	{
+		"jp"			"Drop Ability"
+	}
+
+	"Drug"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}をドラッグ状態にしました！"
+	}
+
+	"Drug2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} はドラッグ状態から開放されました！"
+	}
+
+	"DrugAmmo"
+	{
+		"jp"			"You've used up all your drug range ability's ammo."
+	}
+
+	"DrugDetails"
+	{
+		"jp"			"You drug survivors."
+	}
+
+	"DrugHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your drug ability!"
+	}
+
+	"DrugHuman2"
+	{
+		"jp"			"Your drug ability failed to activate. Try again."
+	}
+
+	"DrugHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your drug ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"DrugHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your drug ability on."
+	}
+
+	"DrugHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your drug ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"DrugMenu"
+	{
+		"jp"			"Drug Ability Information"
+	}
+
+	"DrugMenu2"
+	{
+		"jp"			"Drug Ability"
+	}
+
+	"Drunk"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を酔っ払わせた！"
+	}
+
+	"Drunk2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} はシラフに戻った！"
+	}
+
+	"DrunkAmmo"
+	{
+		"jp"			"You've used up all your drunk range ability's ammo."
+	}
+
+	"DrunkDetails"
+	{
+		"jp"			"You make survivors drunk."
+	}
+
+	"DrunkHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your drunk ability!"
+	}
+
+	"DrunkHuman2"
+	{
+		"jp"			"Your drunk ability failed to activate. Try again."
+	}
+
+	"DrunkHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your drunk ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"DrunkHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your drunk ability on."
+	}
+
+	"DrunkHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your drunk ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"DrunkMenu"
+	{
+		"jp"			"Drunk Ability Information"
+	}
+
+	"DrunkMenu2"
+	{
+		"jp"			"Drunk Ability"
+	}
+
+	"Electric"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}を感電させている！"
+	}
+
+	"Electric2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は感電しなくなった！"
+	}
+
+	"ElectricAmmo"
+	{
+		"jp"			"You've used up all your electric range ability's ammo."
+	}
+
+	"ElectricDetails"
+	{
+		"jp"			"You electrocute survivors."
+	}
+
+	"ElectricHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your electric ability!"
+	}
+
+	"ElectricHuman2"
+	{
+		"jp"			"Your electric ability failed to activate. Try again."
+	}
+
+	"ElectricHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your electric ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"ElectricHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your electric ability on."
+	}
+
+	"ElectricHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your electric ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"ElectricMenu"
+	{
+		"jp"			"Electric Ability Information"
+	}
+
+	"ElectricMenu2"
+	{
+		"jp"			"Electric Ability"
+	}
+
+	"Enforce"
+	{
+		"#format"		"{1:t},{2:N},{3:i}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} 武器スロット{yellow} #{3}{mint} の使用を強制している！"
+	}
+
+	"Enforce2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} 全ての武器スロットが使用可能になった！"
+	}
+
+	"EnforceAmmo"
+	{
+		"jp"			"You've used up all your enforce range ability's ammo."
+	}
+
+	"EnforceDetails"
+	{
+		"jp"			"You force survivors to only use a certain weapon slot."
+	}
+
+	"EnforceHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your enforce ability!"
+	}
+
+	"EnforceHuman2"
+	{
+		"jp"			"Your enforce ability failed to activate. Try again."
+	}
+
+	"EnforceHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your enforce ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"EnforceHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your enforce ability on."
+	}
+
+	"EnforceHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your enforce ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"EnforceMenu"
+	{
+		"jp"			"Enforce Ability Information"
+	}
+
+	"EnforceMenu2"
+	{
+		"jp"			"Enforce Ability"
+	}
+
+	"Fast"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の速度が上昇する！"
+	}
+
+	"Fast2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の速度が通常に戻りました！"
+	}
+
+	"FastAmmo"
+	{
+		"jp"			"You've used up all your fast ability's ammo."
+	}
+
+	"FastDetails"
+	{
+		"jp"			"You run really fast like the Flash."
+	}
+
+	"FastHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your fast ability!"
+	}
+
+	"FastHuman2"
+	{
+		"jp"			"Your fast ability failed to activate. Try again."
+	}
+
+	"FastHuman3"
+	{
+		"jp"			"You already activated your fast ability."
+	}
+
+	"FastHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fast ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"FastHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fast ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"FastMenu"
+	{
+		"jp"			"Fast Ability Information"
+	}
+
+	"FastMenu2"
+	{
+		"jp"			"Fast Ability"
+	}
+
+	"Fire"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の下を炎上させた！"
+	}
+
+	"Fire2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}'s{mint} の岩が火をつけた！"
+	}
+
+	"FireAmmo"
+	{
+		"jp"			"You've used up all your fire range ability's ammo."
+	}
+
+	"FireDetails"
+	{
+		"jp"			"You create fires."
+	}
+
+	"FireHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your fire ability!"
+	}
+
+	"FireHuman2"
+	{
+		"jp"			"Your fire ability failed to activate. Try again."
+	}
+
+	"FireHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fire ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"FireHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your fire ability on."
+	}
+
+	"FireHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fire ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"FireMenu"
+	{
+		"jp"			"Fire Ability Information"
+	}
+
+	"FireMenu2"
+	{
+		"jp"			"Fire Ability"
+	}
+
+	"Fling"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を空中に投げた！"
+	}
+
+	"FlingAmmo"
+	{
+		"jp"			"You've used up all your fling range ability's ammo."
+	}
+
+	"FlingDetails"
+	{
+		"jp"			"You fling survivors high into the air."
+	}
+
+	"FlingHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your fling ability!"
+	}
+
+	"FlingHuman2"
+	{
+		"jp"			"Your fling ability failed to activate. Try again."
+	}
+
+	"FlingHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fling ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"FlingHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your fling ability on."
+	}
+
+	"FlingHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fling ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"FlingMenu"
+	{
+		"jp"			"Fling Ability Information"
+	}
+
+	"FlingMenu2"
+	{
+		"jp"			"Fling Ability"
+	}
+
+	"Fly"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は飛んでいる！"
+	}
+
+	"Fly2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は飛ぶのをやめた！"
+	}
+
+	"FlyAmmo"
+	{
+		"jp"			"You've used up all your flight ability's ammo."
+	}
+
+	"FlyDetails"
+	{
+		"jp"			"You can fly around."
+	}
+
+	"FlyHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your flight ability!"
+	}
+
+	"FlyHuman2"
+	{
+		"jp"			"Your flight ability failed to activate. Try again."
+	}
+
+	"FlyHuman3"
+	{
+		"jp"			"You already activated your flight ability."
+	}
+
+	"FlyHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your flight ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"FlyHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your flight ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"FlyHuman6"
+	{
+		"jp"			"The place you are in is too narrow for you to fly around."
+	}
+
+	"FlyMenu"
+	{
+		"jp"			"Fly Ability Information"
+	}
+
+	"FlyMenu2"
+	{
+		"jp"			"Fly Ability"
+	}
+
+	"Fragile"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は被ダメージが増加したが、より早くより多くのダメージを与えるぞ！"
+	}
+
+	"Fragile2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} is no longer fragile to damage!"
+	}
+
+	"FragileAmmo"
+	{
+		"jp"			"You've used up all your fragility ability's ammo."
+	}
+
+	"FragileDetails"
+	{
+		"jp"			"You take more damage while dealing more damage and running faster."
+	}
+
+	"FragileHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your fragility ability!"
+	}
+
+	"FragileHuman2"
+	{
+		"jp"			"Your fragility ability failed to activate. Try again."
+	}
+
+	"FragileHuman3"
+	{
+		"jp"			"You already activated your fragility ability."
+	}
+
+	"FragileHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fragility ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"FragileHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your fragility ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"FragileMenu"
+	{
+		"jp"			"Fragile Ability Information"
+	}
+
+	"FragileMenu2"
+	{
+		"jp"			"Fragile Ability"
+	}
+
+	"Ghost"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の武装を解除した！"
+	}
+
+	"Ghost2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は透明化した！"
+	}
+
+	"Ghost3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が見えるようになった！"
+	}
+
+	"GhostAmmo"
+	{
+		"jp"			"You've used up all your cloaking ability's ammo."
+	}
+
+	"GhostAmmo2"
+	{
+		"jp"			"You've used up all your disarming range ability's ammo."
+	}
+
+	"GhostDetails"
+	{
+		"jp"			"You cloak yourself and disarm survivors."
+	}
+
+	"GhostHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your cloaking ability!"
+	}
+
+	"GhostHuman2"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your disarming ability!"
+	}
+
+	"GhostHuman3"
+	{
+		"jp"			"Your disarming ability failed to activate. Try again."
+	}
+
+	"GhostHuman4"
+	{
+		"jp"			"You already activated your cloaking ability."
+	}
+
+	"GhostHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your cloaking ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"GhostHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your disarming ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"GhostHuman7"
+	{
+		"jp"			"There are no survivors nearby to use your disarming ability on."
+	}
+
+	"GhostHuman8"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your cloaking ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"GhostHuman9"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your disarming ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"GhostMenu"
+	{
+		"jp"			"Ghost Ability Information"
+	}
+
+	"GhostMenu2"
+	{
+		"jp"			"Ghost Ability"
+	}
+
+	"God"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は一時的に無敵になった！"
+	}
+
+	"God2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は無敵ではなくなった！"
+	}
+
+	"GodAmmo"
+	{
+		"jp"			"You've used up all your godlike ability's ammo."
+	}
+
+	"GodDetails"
+	{
+		"jp"			"You gain temporary immunity to all types of damage."
+	}
+
+	"GodHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your godlike ability!"
+	}
+
+	"GodHuman2"
+	{
+		"jp"			"Your godlike ability failed to activate. Try again."
+	}
+
+	"GodHuman3"
+	{
+		"jp"			"You already activated your godlike ability."
+	}
+
+	"GodHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your godlike ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"GodHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your godlike ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"GodMenu"
+	{
+		"jp"			"God Ability Information"
+	}
+
+	"GodMenu2"
+	{
+		"jp"			"God Ability"
+	}
+
+	"Gravity"
+	{
+		"#format"		"{1:t},{2:N},{3:.2f}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の重力を{yellow} {3}{mint}に変更した！"
+	}
+
+	"Gravity2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の重力がもとに戻った！"
+	}
+
+	"Gravity3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は引力を発生させた！"
+	}
+
+	"Gravity4"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の引力が無くなった！"
+	}
+
+	"GravityAmmo"
+	{
+		"jp"			"You've used up all your gravitational pull ability's ammo."
+	}
+
+	"GravityAmmo2"
+	{
+		"jp"			"You've used up all your low gravity range ability's ammo."
+	}
+
+	"GravityDetails"
+	{
+		"jp"			"You pull in or push away survivors and any other nearby infected, and change the survivors' gravity."
+	}
+
+	"GravityHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your gravitational pull ability!"
+	}
+
+	"GravityHuman2"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your low gravity ability!"
+	}
+
+	"GravityHuman3"
+	{
+		"jp"			"Your low gravity ability failed to activate. Try again."
+	}
+
+	"GravityHuman4"
+	{
+		"jp"			"You already activated your gravitational pull ability."
+	}
+
+	"GravityHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your gravitational pull ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"GravityHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your low gravity ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"GravityHuman7"
+	{
+		"jp"			"There are no survivors nearby to use your low gravity ability on."
+	}
+
+	"GravityHuman8"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your gravitational pull ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"GravityHuman9"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your low gravity ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"GravityMenu"
+	{
+		"jp"			"Gravity Ability Information"
+	}
+
+	"GravityMenu2"
+	{
+		"jp"			"Gravity Ability"
+	}
+
+	"Gunner"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は銃を乱射している！"
+	}
+
+	"Gunner2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は銃をしまった！"
+	}
+
+	"GunnerAmmo"
+	{
+		"jp"			"You've used up all your gunner ability's ammo."
+	}
+
+	"GunnerDetails"
+	{
+		"jp"			"You are armed with guns."
+	}
+
+	"GunnerHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your gunner ability!"
+	}
+
+	"GunnerHuman2"
+	{
+		"jp"			"Your gunner ability failed to activate. Try again."
+	}
+
+	"GunnerHuman3"
+	{
+		"jp"			"You already activated your gunner ability."
+	}
+
+	"GunnerHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your gunner ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"GunnerHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your gunner ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"GunnerMenu"
+	{
+		"jp"			"Gunner Ability Information"
+	}
+
+	"GunnerMenu2"
+	{
+		"jp"			"Gunner Ability"
+	}
+
+	"Heal"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} set{olive} {2}{mint} to temporary health who will die when their HP reaches 0!" // TODO
+	}
+
+	"Heal2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} is absorbing health from nearby infected!"
+	}
+
+	"Heal3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} is no longer absorbing health from nearby infected!"
+	}
+
+	"HealAmmo"
+	{
+		"jp"			"You've used up all your healing ability's ammo."
+	}
+
+	"HealAmmo2"
+	{
+		"jp"			"You've used up all your bad-health range ability's ammo."
+	}
+
+	"HealDetails"
+	{
+		"jp"			"You gain health from other nearby infected and set survivors to temporary health who will die when they reach 0 HP."
+	}
+
+	"HealHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your healing ability!"
+	}
+
+	"HealHuman2"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your bad-health ability!"
+	}
+
+	"HealHuman3"
+	{
+		"jp"			"Your bad-health ability failed to activate. Try again."
+	}
+
+	"HealHuman4"
+	{
+		"jp"			"You already activated your healing ability."
+	}
+
+	"HealHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your healing ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"HealHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your bad-health ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"HealHuman7"
+	{
+		"jp"			"There are no survivors nearby to use your bad-health ability on."
+	}
+
+	"HealHuman8"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your healing ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"HealHuman9"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your bad-health ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"HealMenu"
+	{
+		"jp"			"Heal Ability Information"
+	}
+
+	"HealMenu2"
+	{
+		"jp"			"Heal Ability"
+	}
+
+	"HitDetails"
+	{
+		"jp"			"You only take damage on certain parts of your body."
+	}
+
+	"HitMenu"
+	{
+		"jp"			"Hit Ability Information"
+	}
+
+	"HitMenu2"
+	{
+		"jp"			"Hit Ability"
+	}
+
+	"Hurt"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}を痛めつけている！"
+	}
+
+	"Hurt2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は解放された！"
+	}
+
+	"HurtAmmo"
+	{
+		"jp"			"You've used up all your hurt range ability's ammo."
+	}
+
+	"HurtDetails"
+	{
+		"jp"			"You repeatedly hurt survivors."
+	}
+
+	"HurtHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your hurt ability!"
+	}
+
+	"HurtHuman2"
+	{
+		"jp"			"Your hurt ability failed to activate. Try again."
+	}
+
+	"HurtHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your hurt ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"HurtHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your hurt ability on."
+	}
+
+	"HurtHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your hurt ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"HurtMenu"
+	{
+		"jp"			"Hurt Ability Information"
+	}
+
+	"HurtMenu2"
+	{
+		"jp"			"Hurt Ability"
+	}
+
+	"Hypno"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}に催眠術をかけた！"
+	}
+
+	"Hypno2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の催眠術が解けた！"
+	}
+
+	"HypnoAmmo"
+	{
+		"jp"			"You've used up all your hypno range ability's ammo."
+	}
+
+	"HypnoDetails"
+	{
+		"jp"			"You hypnotize survivors to damage themselves or their teammates."
+	}
+
+	"HypnoHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your hypno ability!"
+	}
+
+	"HypnoHuman2"
+	{
+		"jp"			"Your hypno ability failed to activate. Try again."
+	}
+
+	"HypnoHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your hypno ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"HypnoHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your hypno ability on."
+	}
+
+	"HypnoHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your hypno ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"HypnoMenu"
+	{
+		"jp"			"Hypno Ability Information"
+	}
+
+	"HypnoMenu2"
+	{
+		"jp"			"Hypno Ability"
+	}
+
+	"Ice"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}を凍らせた！"
+	}
+
+	"Ice2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の氷が解けた！"
+	}
+
+	"IceAmmo"
+	{
+		"jp"			"You've used up all your ice range ability's ammo."
+	}
+
+	"IceDetails"
+	{
+		"jp"			"You freeze survivors."
+	}
+
+	"IceHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your ice ability!"
+	}
+
+	"IceHuman2"
+	{
+		"jp"			"Your ice ability failed to activate. Try again."
+	}
+
+	"IceHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your ice ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"IceHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your ice ability on."
+	}
+
+	"IceHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your ice ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"IceMenu"
+	{
+		"jp"			"Ice Ability Information"
+	}
+
+	"IceMenu2"
+	{
+		"jp"			"Ice Ability"
+	}
+
+	"Idle"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を休憩状態にした！"
+	}
+
+	"IdleAmmo"
+	{
+		"jp"			"You've used up all your idle range ability's ammo."
+	}
+
+	"IdleDetails"
+	{
+		"jp"			"You force survivors to go idle."
+	}
+
+	"IdleHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your idle ability!"
+	}
+
+	"IdleHuman2"
+	{
+		"jp"			"Your idle ability failed to activate. Try again."
+	}
+
+	"IdleHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your idle ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"IdleHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your idle ability on."
+	}
+
+	"IdleHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your idle ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"IdleMenu"
+	{
+		"jp"			"Idle Ability Information"
+	}
+
+	"IdleMenu2"
+	{
+		"jp"			"Idle Ability"
+	}
+
+	"Invert"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の移動キーを反転させた！"
+	}
+
+	"Invert2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の移動キーが元に戻った！"
+	}
+
+	"InvertAmmo"
+	{
+		"jp"			"You've used up all your invert range ability's ammo."
+	}
+
+	"InvertDetails"
+	{
+		"jp"			"You invert the survivors' movement keys."
+	}
+
+	"InvertHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your invert ability!"
+	}
+
+	"InvertHuman2"
+	{
+		"jp"			"Your invert ability failed to activate. Try again."
+	}
+
+	"InvertHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your invert ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"InvertHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your invert ability on."
+	}
+
+	"InvertHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your invert ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"InvertMenu"
+	{
+		"jp"			"Invert Ability Information"
+	}
+
+	"InvertMenu2"
+	{
+		"jp"			"Invert Ability"
+	}
+
+	"Item"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow} アイテム{mint}を生存者に与えた！"
+	}
+
+	"ItemDetails"
+	{
+		"jp"			"You give survivors items upon death."
+	}
+
+	"ItemHuman"
+	{
+		"jp"			"You will give survivors items when you die!"
+	}
+
+	"ItemHuman2"
+	{
+		"jp"			"You will already give survivors items upon death."
+	}
+
+	"ItemMenu"
+	{
+		"jp"			"Item Ability Information"
+	}
+
+	"ItemMenu2"
+	{
+		"jp"			"Item Ability"
+	}
+
+	"Jump"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を強制的にジャンプさせている！"
+	}
+
+	"Jump2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は自分でジャンプできるようになった！"
+	}
+
+	"Jump3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は定期的にジャンプする！"
+	}
+
+	"JumpAmmo"
+	{
+		"jp"			"You've used up all your periodical jumping ability's ammo."
+	}
+
+	"JumpAmmo2"
+	{
+		"jp"			"You've used up all your jump range ability's ammo."
+	}
+
+	"JumpDetails"
+	{
+		"jp"			"You jump periodically or sporadically and make survivors jump uncontrollably."
+	}
+
+	"JumpHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your periodical jumping ability!"
+	}
+
+	"JumpHuman2"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your jump ability!"
+	}
+
+	"JumpHuman3"
+	{
+		"jp"			"Your jump ability failed to activate. Try again."
+	}
+
+	"JumpHuman4"
+	{
+		"jp"			"You already activated your periodical jumping ability."
+	}
+
+	"JumpHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your periodical jumping ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"JumpHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your jump ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"JumpHuman7"
+	{
+		"jp"			"There are no survivors nearby to use your jump ability on."
+	}
+
+	"JumpHuman8"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your periodical jumping ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"JumpHuman9"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your jump ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"JumpMenu"
+	{
+		"jp"			"Jump Ability Information"
+	}
+
+	"JumpMenu2"
+	{
+		"jp"			"Jump Ability"
+	}
+
+	"Kamikaze"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} に特攻した！"
+	}
+
+	"KamikazeDetails"
+	{
+		"jp"			"You kill yourself along with a survivor victim."
+	}
+
+	"KamikazeHuman"
+	{
+		"jp"			"You activated your kamikaze ability!"
+	}
+
+	"KamikazeHuman2"
+	{
+		"jp"			"Your kamikaze ability failed to activate. Try again."
+	}
+
+	"KamikazeHuman3"
+	{
+		"jp"			"There are no survivors nearby to use your kamikaze ability on."
+	}
+
+	"KamikazeMenu"
+	{
+		"jp"			"Kamikaze Ability Information"
+	}
+
+	"KamikazeMenu2"
+	{
+		"jp"			"Kamikaze Ability"
+	}
+
+	"Lag"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} をラグらせている！"
+	}
+
+	"Lag2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} のラグが治った！"
+	}
+
+	"LagAmmo"
+	{
+		"jp"			"You've used up all your lag range ability's ammo."
+	}
+
+	"LagDetails"
+	{
+		"jp"			"You make survivors lag."
+	}
+
+	"LagHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your lag ability!"
+	}
+
+	"LagHuman2"
+	{
+		"jp"			"Your lag ability failed to activate. Try again."
+	}
+
+	"LagHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your lag ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"LagHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your lag ability on."
+	}
+
+	"LagHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your lag ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"LagMenu"
+	{
+		"jp"			"Lag Ability Information"
+	}
+
+	"LagMenu2"
+	{
+		"jp"			"Lag Ability"
+	}
+
+	"Laser"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} はレーザーを{olive} {2}{mint} に放っている！"
+	}
+
+	"Laser2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} はレーザーを撃つのをやめた！"
+	}
+
+	"LaserAmmo"
+	{
+		"jp"			"You've used up all your laser ability's ammo."
+	}
+
+	"LaserDetails"
+	{
+		"jp"			"You shoot lasers at survivors."
+	}
+
+	"LaserHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your laser ability!"
+	}
+
+	"LaserHuman2"
+	{
+		"jp"			"Your laser ability failed to activate. Try again."
+	}
+
+	"LaserHuman3"
+	{
+		"jp"			"You already activated your laser ability."
+	}
+
+	"LaserHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your laser ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"LaserHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your laser ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"LaserMenu"
+	{
+		"jp"			"Laser Ability Information"
+	}
+
+	"LaserMenu2"
+	{
+		"jp"			"Laser Ability"
+	}
+
+	"Leech"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の{yellow}ヘルスを盗み始めた！"
+	}
+
+	"Leech2"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の{yellow} ヘルスを盗むのをやめた！"
+	}
+
+	"LeechAmmo"
+	{
+		"jp"			"You've used up all your leech range ability's ammo."
+	}
+
+	"LeechDetails"
+	{
+		"jp"			"You leech health off of survivors."
+	}
+
+	"LeechHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your leech ability!"
+	}
+
+	"LeechHuman2"
+	{
+		"jp"			"Your leech ability failed to activate. Try again."
+	}
+
+	"LeechHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your leech ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"LeechHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your leech ability on."
+	}
+
+	"LeechHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your leech ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"LeechMenu"
+	{
+		"jp"			"Leech Ability Information"
+	}
+
+	"LeechMenu2"
+	{
+		"jp"			"Leech Ability"
+	}
+
+	"Lightning"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow} 雷雨{mint}を降らし始めた！"
+	}
+
+	"Lightning2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の雷雨が晴れた！"
+	}
+
+	"LightningAmmo"
+	{
+		"jp"			"You've used up all your lightning storms."
+	}
+
+	"LightningDetails"
+	{
+		"jp"			"You create lightning storms."
+	}
+
+	"LightningHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your lightning storms!"
+	}
+
+	"LightningHuman2"
+	{
+		"jp"			"Your lightning storm failed to activate. Try again."
+	}
+
+	"LightningHuman3"
+	{
+		"jp"			"You already activated your lightning storm."
+	}
+
+	"LightningHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your lightning storm still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"LightningHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your lightning storm ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"LightningMenu"
+	{
+		"jp"			"Lightning Ability Information"
+	}
+
+	"LightningMenu2"
+	{
+		"jp"			"Lightning Ability"
+	}
+
+	"Medic"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は付近の特殊感染者を回復している！"
+	}
+
+	"Medic2"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{yellow} {2}{mint}を回復した！"
+	}
+
+	"Medic3"
+	{
+		"#format"		"{1:t},{2:t}"
+		"jp"			"{olive}{1}{mint} は{yellow} {2}{mint}を回復した！"
+	}
+
+	"Medic4"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は付近の特殊感染者の回復をやめた！"
+	}
+
+	"MedicAmmo"
+	{
+		"jp"			"You've used up all your medic ability's ammo."
+	}
+
+	"MedicDetails"
+	{
+		"jp"			"You heal nearby special infected."
+	}
+
+	"MedicHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your medic ability!"
+	}
+
+	"MedicHuman2"
+	{
+		"jp"			"Your medic ability failed to activate. Try again."
+	}
+
+	"MedicHuman3"
+	{
+		"jp"			"You already activated your medic ability."
+	}
+
+	"MedicHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your medic ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"MedicHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your medic ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"MedicMenu"
+	{
+		"jp"			"Medic Ability Information"
+	}
+
+	"MedicMenu2"
+	{
+		"jp"			"Medic Ability"
+	}
+
+	"Meteor"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が{yellow} 流星群{mint}を降らし始めた！"
+	}
+
+	"Meteor2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の流星群が止んだ！"
+	}
+
+	"MeteorAmmo"
+	{
+		"jp"			"You've used up all your meteor showers."
+	}
+
+	"MeteorDetails"
+	{
+		"jp"			"You create meteor showers."
+	}
+
+	"MeteorHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your meteor showers!"
+	}
+
+	"MeteorHuman2"
+	{
+		"jp"			"Your meteor shower failed to activate. Try again."
+	}
+
+	"MeteorHuman3"
+	{
+		"jp"			"You already activated your meteor shower."
+	}
+
+	"MeteorHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your meteor shower ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"MeteorHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your meteor shower ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"MeteorMenu"
+	{
+		"jp"			"Meteor Ability Information"
+	}
+
+	"MeteorMenu2"
+	{
+		"jp"			"Meteor Ability"
+	}
+
+	"Minion"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が{yellow} ミニオン{mint}を召喚した！"
+	}
+
+	"MinionAmmo"
+	{
+		"jp"			"You've used up all your minions."
+	}
+
+	"MinionDetails"
+	{
+		"jp"			"You spawn minions."
+	}
+
+	"MinionHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You created{olive} {1}{mint}/{olive}{2}{mint} minions!"
+	}
+
+	"MinionHuman2"
+	{
+		"jp"			"You failed to create a minion. Try again."
+	}
+
+	"MinionHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your minion spawner ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"MinionHuman4"
+	{
+		"jp"			"One of your minions just died."
+	}
+
+	"MinionHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"All your minions died and your minion spawner ability needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"MinionMenu"
+	{
+		"jp"			"Minion Ability Information"
+	}
+
+	"MinionMenu2"
+	{
+		"jp"			"Minion Ability"
+	}
+
+	"Necro"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は周辺の特殊感染者を蘇生した！"
+	}
+
+	"NecroAmmo"
+	{
+		"jp"			"You've used up all your necro ability's ammo."
+	}
+
+	"NecroDetails"
+	{
+		"jp"			"You resurrect nearby special infected that die."
+	}
+
+	"NecroHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your necro ability!"
+	}
+
+	"NecroHuman2"
+	{
+		"jp"			"Your necro ability failed to activate. Try again."
+	}
+
+	"NecroHuman3"
+	{
+		"jp"			"You already activated your necro ability."
+	}
+
+	"NecroHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your necro ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"NecroHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your necro ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"NecroMenu"
+	{
+		"jp"			"Necro Ability Information"
+	}
+
+	"NecroMenu2"
+	{
+		"jp"			"Necro Ability"
+	}
+
+	"Nullify"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} からのダメージを無効化する！"
+	}
+
+	"Nullify2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} にダメージを与えられるようになった！"
+	}
+
+	"NullifyAmmo"
+	{
+		"jp"			"You've used up all your damage nullifier range ability's ammo."
+	}
+
+	"NullifyDetails"
+	{
+		"jp"			"You nullify all of the survivors' damage."
+	}
+
+	"NullifyHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your damage nullifier ability!"
+	}
+
+	"NullifyHuman2"
+	{
+		"jp"			"Your damage nullifier ability failed to activate. Try again."
+	}
+
+	"NullifyHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your damage nullifier ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"NullifyHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your damage nullifier ability on."
+	}
+
+	"NullifyHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your damage nullifier ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"NullifyMenu"
+	{
+		"jp"			"Nullify Ability Information"
+	}
+
+	"NullifyMenu2"
+	{
+		"jp"			"Nullify Ability"
+	}
+
+	"Omni"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が周辺のタンクの能力を使えるようになった！"
+	}
+
+	"Omni2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の能力が終了した！"
+	}
+
+	"OmniAmmo"
+	{
+		"jp"			"You've used up all your omni ability's ammo."
+	}
+
+	"OmniDetails"
+	{
+		"jp"			"You have omni-level access to other nearby Mutant Tanks' abilities."
+	}
+
+	"OmniHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your omni ability!"
+	}
+
+	"OmniHuman2"
+	{
+		"jp"			"Your omni ability failed to activate. Try again."
+	}
+
+	"OmniHuman3"
+	{
+		"jp"			"You already activated your omni ability."
+	}
+
+	"OmniHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your omni ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"OmniHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your omni ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"OmniMenu"
+	{
+		"jp"			"Omni Ability Information"
+	}
+
+	"OmniMenu2"
+	{
+		"jp"			"Omni Ability"
+	}
+
+	"Panic"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が定期的にラッシュを発生させる！"
+	}
+
+	"Panic2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} が{yellow} ラッシュ{mint}を発生させた！"
+	}
+
+	"PanicAmmo"
+	{
+		"jp"			"You've used up all your panic ability's ammo."
+	}
+
+	"PanicDetails"
+	{
+		"jp"			"You start panic events."
+	}
+
+	"PanicHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your panic ability!"
+	}
+
+	"PanicHuman2"
+	{
+		"jp"			"Your panic ability failed to activate. Try again."
+	}
+
+	"PanicHuman3"
+	{
+		"jp"			"You already activated your panic ability."
+	}
+
+	"PanicHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your panic ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"PanicHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your panic ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"PanicMenu"
+	{
+		"jp"			"Panic Ability Information"
+	}
+
+	"PanicMenu2"
+	{
+		"jp"			"Panic Ability"
+	}
+
+	"Pimp"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} が{olive} {2}{mint} をビンタしている！"
+	}
+
+	"Pimp2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} はビンタされなくなった！"
+	}
+
+	"PimpAmmo"
+	{
+		"jp"			"You've used up all your pimp slap range ability's ammo."
+	}
+
+	"PimpDetails"
+	{
+		"jp"			"You pimp slap survivors."
+	}
+
+	"PimpHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your pimp slap ability!"
+	}
+
+	"PimpHuman2"
+	{
+		"jp"			"Your pimp slap ability failed to activate. Try again."
+	}
+
+	"PimpHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your pimp slap ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"PimpHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your pimp slap ability on."
+	}
+
+	"PimpHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your pimp slap ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"PimpMenu"
+	{
+		"jp"			"Pimp Ability Information"
+	}
+
+	"PimpMenu2"
+	{
+		"jp"			"Pimp Ability"
+	}
+
+	"Puke"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} にゲロを吐いた！"
+	}
+
+	"PukeAmmo"
+	{
+		"jp"			"You've used up all your puke range ability's ammo."
+	}
+
+	"PukeDetails"
+	{
+		"jp"			"You puke on survivors."
+	}
+
+	"PukeHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your puke ability!"
+	}
+
+	"PukeHuman2"
+	{
+		"jp"			"Your puke ability failed to activate. Try again."
+	}
+
+	"PukeHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your puke ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"PukeHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your puke ability on."
+	}
+
+	"PukeHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your puke ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"PukeMenu"
+	{
+		"jp"			"Puke Ability Information"
+	}
+
+	"PukeMenu2"
+	{
+		"jp"			"Puke Ability"
+	}
+
+	"Pyro"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は炎上している！"
+	}
+
+	"Pyro2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は燃え上がり高速で移動する！"
+	}
+
+	"Pyro3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の炎は消火され移動速度も元に戻った！"
+	}
+
+	"PyroAmmo"
+	{
+		"jp"			"You've used up all your pyro ability's ammo."
+	}
+
+	"PyroDetails"
+	{
+		"jp"			"You ignite yourself and gain a speed boost when on fire."
+	}
+
+	"PyroHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your pyro ability!"
+	}
+
+	"PyroHuman2"
+	{
+		"jp"			"Your pyro ability failed to activate. Try again."
+	}
+
+	"PyroHuman3"
+	{
+		"jp"			"You already activated your pyro ability."
+	}
+
+	"PyroHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your pyro ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"PyroHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your pyro ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"PyroMenu"
+	{
+		"jp"			"Pyro Ability Information"
+	}
+
+	"PyroMenu2"
+	{
+		"jp"			"Pyro Ability"
+	}
+
+	"Quiet"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の周辺で音を立てなくなった！"
+	}
+
+	"Quiet2"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の周辺で音を立てるようになった！"
+	}
+
+	"QuietAmmo"
+	{
+		"jp"			"You've used up all your quiet range ability's ammo."
+	}
+
+	"QuietDetails"
+	{
+		"jp"			"You silence yourself around survivors."
+	}
+
+	"QuietHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your quiet ability!"
+	}
+
+	"QuietHuman2"
+	{
+		"jp"			"Your quiet ability failed to activate. Try again."
+	}
+
+	"QuietHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your quiet ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"QuietHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your quiet ability on."
+	}
+
+	"QuietHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your quiet ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"QuietMenu"
+	{
+		"jp"			"Quiet Ability Information"
+	}
+
+	"QuietMenu2"
+	{
+		"jp"			"Quiet Ability"
+	}
+
+	"Recall"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} はランダムな場所にテレポートした！"
+	}
+
+	"Recall2"
+	{
+		"#format"		"{1:t},{2:i}"
+		"jp"			"{olive}{1}{mint} は{yellow} {2} 秒{mint}前に時間を巻き戻した！"
+	}
+
+	"Recall3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は再度テレポートが出来るようになった！"
+	}
+
+	"RecallAmmo"
+	{
+		"jp"			"You've used up all your recall blink ability's ammo."
+	}
+
+	"RecallAmmo2"
+	{
+		"jp"			"You've used up all your recall rewind ability's ammo."
+	}
+
+	"RecallDetails"
+	{
+		"jp"			"You time travel to annoy survivors."
+	}
+
+	"RecallHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your recall blink ability!"
+	}
+
+	"RecallHuman2"
+	{
+		"jp"			"Your recall blink ability failed to activate. Try again."
+	}
+
+	"RecallHuman3"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your recall rewind ability!"
+	}
+
+	"RecallHuman4"
+	{
+		"jp"			"Your recall rewind ability failed to activate. Try again."
+	}
+
+	"RecallHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your recall blink ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RecallHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your recall rewind ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RecallHuman7"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your recall blink ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RecallHuman8"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your recall rewind ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RecallMenu"
+	{
+		"jp"			"Recall Ability Information"
+	}
+
+	"RecallMenu2"
+	{
+		"jp"			"Recall Ability"
+	}
+
+	"Recoil"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} に強力なリコイルを付与した！"
+	}
+
+	"Recoil2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} のリコイルが元に戻った！"
+	}
+
+	"RecoilAmmo"
+	{
+		"jp"			"You've used up all your recoil range ability's ammo."
+	}
+
+	"RecoilDetails"
+	{
+		"jp"			"You give survivors strong gun recoil."
+	}
+
+	"RecoilHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your recoil ability!"
+	}
+
+	"RecoilHuman2"
+	{
+		"jp"			"Your recoil ability failed to activate. Try again."
+	}
+
+	"RecoilHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your recoil ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RecoilHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your recoil ability on."
+	}
+
+	"RecoilHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your recoil ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RecoilMenu"
+	{
+		"jp"			"Recoil Ability Information"
+	}
+
+	"RecoilMenu2"
+	{
+		"jp"			"Recoil Ability"
+	}
+
+	"Regen"
+	{
+		"#format"		"{1:t},{2:.2f}"
+		"jp"			"{olive}{1}{mint} は{yellow} {2}{mint} 秒ごとに回復し始めた！"
+	}
+
+	"Regen2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は回復しなくなった！"
+	}
+
+	"RegenAmmo"
+	{
+		"jp"			"You've used up all your regen ability's ammo."
+	}
+
+	"RegenDetails"
+	{
+		"jp"			"You regenerate health."
+	}
+
+	"RegenHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your regen ability!"
+	}
+
+	"RegenHuman2"
+	{
+		"jp"			"Your regen ability failed to activate. Try again."
+	}
+
+	"RegenHuman3"
+	{
+		"jp"			"You already activated your regen ability."
+	}
+
+	"RegenHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your regen ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RegenHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your regen ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RegenMenu"
+	{
+		"jp"			"Regen Ability Information"
+	}
+
+	"RegenMenu2"
+	{
+		"jp"			"Regen Ability"
+	}
+
+	"Respawn"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は自分をリスポーンさせた！"
+	}
+
+	"RespawnAmmo"
+	{
+		"jp"			"You've used up all your respawns."
+	}
+
+	"RespawnDetails"
+	{
+		"jp"			"You respawn upon death."
+	}
+
+	"RespawnHuman"
+	{
+		"jp"			"You will respawn when you die!"
+	}
+
+	"RespawnHuman2"
+	{
+		"jp"			"You will already respawn upon death."
+	}
+
+	"RespawnHuman3"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your respawns!"
+	}
+
+	"RespawnMenu"
+	{
+		"jp"			"Respawn Ability Information"
+	}
+
+	"RespawnMenu2"
+	{
+		"jp"			"Respawn Ability"
+	}
+
+	"Restart"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を新しいロードアウトと共にスタート地点に帰した！"
+	}
+
+	"RestartAmmo"
+	{
+		"jp"			"You've used up all your restart range ability's ammo."
+	}
+
+	"RestartDetails"
+	{
+		"jp"			"You force survivors to restart at the beginning of the map or near a teammate with a new loadout."
+	}
+
+	"RestartHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your restart ability!"
+	}
+
+	"RestartHuman2"
+	{
+		"jp"			"Your restart ability failed to activate. Try again."
+	}
+
+	"RestartHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your restart ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RestartHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your restart ability on."
+	}
+
+	"RestartHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your restart ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RestartMenu"
+	{
+		"jp"			"Restart Ability Information"
+	}
+
+	"RestartMenu2"
+	{
+		"jp"			"Restart Ability"
+	}
+
+	"Rock"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow}岩の雨{mint}を降らし始めた！"
+	}
+
+	"Rock2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の岩の雨は止んだようだ！"
+	}
+
+	"RockAmmo"
+	{
+		"jp"			"You've used up all your rock showers."
+	}
+
+	"RockDetails"
+	{
+		"jp"			"You create rock showers."
+	}
+
+	"RockHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your rock showers!"
+	}
+
+	"RockHuman2"
+	{
+		"jp"			"Your rock shower failed to activate. Try again."
+	}
+
+	"RockHuman3"
+	{
+		"jp"			"You already activated your rock shower."
+	}
+
+	"RockHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your rock shower ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RockHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your rock shower ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RockMenu"
+	{
+		"jp"			"Rock Ability Information"
+	}
+
+	"RockMenu2"
+	{
+		"jp"			"Rock Ability"
+	}
+
+	"Rocket"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を宇宙送りにした！"
+	}
+
+	"RocketAmmo"
+	{
+		"jp"			"You've used up all your rocket range ability's ammo."
+	}
+
+	"RocketDetails"
+	{
+		"jp"			"You send survivors into space."
+	}
+
+	"RocketHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your rocket ability!"
+	}
+
+	"RocketHuman2"
+	{
+		"jp"			"Your rocket ability failed to activate. Try again."
+	}
+
+	"RocketHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your rocket ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"RocketHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your rocket ability on."
+	}
+
+	"RocketHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your rocket ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"RocketMenu"
+	{
+		"jp"			"Rocket Ability Information"
+	}
+
+	"RocketMenu2"
+	{
+		"jp"			"Rocket Ability"
+	}
+
+	"Shake"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の画面を揺らしている！"
+	}
+
+	"Shake2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の画面は揺れなくなった！"
+	}
+
+	"ShakeAmmo"
+	{
+		"jp"			"You've used up all your shake range ability's ammo."
+	}
+
+	"ShakeDetails"
+	{
+		"jp"			"You shake the survivors' screens."
+	}
+
+	"ShakeHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your shake ability!"
+	}
+
+	"ShakeHuman2"
+	{
+		"jp"			"Your shake ability failed to activate. Try again."
+	}
+
+	"ShakeHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your shake ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"ShakeHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your shake ability on."
+	}
+
+	"ShakeHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your shake ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"ShakeMenu"
+	{
+		"jp"			"Shake Ability Information"
+	}
+
+	"ShakeMenu2"
+	{
+		"jp"			"Shake Ability"
+	}
+
+	"Shield"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} のシールドが{yellow}起動{mint}した！"
+	}
+
+	"Shield2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} のシールドが{yellow}停止{mint}した！"
+	}
+
+	"ShieldAmmo"
+	{
+		"jp"			"You've used up all your shields."
+	}
+
+	"ShieldDetails"
+	{
+		"jp"			"You protect yourself with a shield and throw propane tanks or gas cans."
+	}
+
+	"ShieldHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your shields!"
+	}
+
+	"ShieldHuman2"
+	{
+		"jp"			"Your shield failed to activate. Try again."
+	}
+
+	"ShieldHuman3"
+	{
+		"jp"			"You already activated your shield."
+	}
+
+	"ShieldHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your shield still needs another{yellow} {1} second(s){mint} to regenerate."
+	}
+
+	"ShieldHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your shield broke and needs to regenerate for{yellow} {1} second(s){mint}."
+	}
+
+	"ShieldMenu"
+	{
+		"jp"			"Shield Ability Information"
+	}
+
+	"ShieldMenu2"
+	{
+		"jp"			"Shield Ability"
+	}
+
+	"ShieldOwner"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{1}'s Shield"
+	}
+
+	"Shove"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を突き飛ばした！"
+	}
+
+	"Shove2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は突き飛ばされなくなった！"
+	}
+
+	"ShoveAmmo"
+	{
+		"jp"			"You've used up all your shove range ability's ammo."
+	}
+
+	"ShoveDetails"
+	{
+		"jp"			"You repeatedly shove survivors."
+	}
+
+	"ShoveHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your shove ability!"
+	}
+
+	"ShoveHuman2"
+	{
+		"jp"			"Your shove ability failed to activate. Try again."
+	}
+
+	"ShoveHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your shove ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"ShoveHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your shove ability on."
+	}
+
+	"ShoveHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your shove ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"ShoveMenu"
+	{
+		"jp"			"Shove Ability Information"
+	}
+
+	"ShoveMenu2"
+	{
+		"jp"			"Shove Ability"
+	}
+
+	"Slow"
+	{
+		"#format"		"{1:t},{2:N},{3:.2f}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を{yellow} {3}{percent}{mint} 遅くした！"
+	}
+
+	"Slow2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の速度が元に戻った！"
+	}
+
+	"SlowAmmo"
+	{
+		"jp"			"You've used up all your slow range ability's ammo."
+	}
+
+	"SlowDetails"
+	{
+		"jp"			"You slow and slow survivors down."
+	}
+
+	"SlowHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your slow ability!"
+	}
+
+	"SlowHuman2"
+	{
+		"jp"			"Your slow ability failed to activate. Try again."
+	}
+
+	"SlowHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your slow ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"SlowHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your slow ability on."
+	}
+
+	"SlowHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your slow ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"SlowMenu"
+	{
+		"jp"			"Slow Ability Information"
+	}
+
+	"SlowMenu2"
+	{
+		"jp"			"Slow Ability"
+	}
+
+	"Smash"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を圧死させた！"
+	}
+
+	"SmashAmmo"
+	{
+		"jp"			"You've used up all your smash range ability's ammo."
+	}
+
+	"SmashDetails"
+	{
+		"jp"			"You smash survivors to death."
+	}
+
+	"SmashHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your smash ability!"
+	}
+
+	"SmashHuman2"
+	{
+		"jp"			"Your smash ability failed to activate. Try again."
+	}
+
+	"SmashHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your smash ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"SmashHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your smash ability on."
+	}
+
+	"SmashHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your smash ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"SmashMenu"
+	{
+		"jp"			"Smash Ability Information"
+	}
+
+	"SmashMenu2"
+	{
+		"jp"			"Smash Ability"
+	}
+
+	"Smite"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を殴った！"
+	}
+
+	"SmiteAmmo"
+	{
+		"jp"			"You've used up all your smite range ability's ammo."
+	}
+
+	"SmiteDetails"
+	{
+		"jp"			"You smite survivors."
+	}
+
+	"SmiteHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your smite ability!"
+	}
+
+	"SmiteHuman2"
+	{
+		"jp"			"Your smite ability failed to activate. Try again."
+	}
+
+	"SmiteHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your smite ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"SmiteHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your smite ability on."
+	}
+
+	"SmiteHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your smite ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"SmiteMenu"
+	{
+		"jp"			"Smite Ability Information"
+	}
+
+	"SmiteMenu2"
+	{
+		"jp"			"Smite Ability"
+	}
+
+	"Spam"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は大量の岩を投げ始めた！"
+	}
+
+	"Spam2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の岩の在庫が切れたようだ！"
+	}
+
+	"SpamAmmo"
+	{
+		"jp"			"You've used up all your spam ability's ammo."
+	}
+
+	"SpamDetails"
+	{
+		"jp"			"You spam rocks at survivors."
+	}
+
+	"SpamHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your rock spammer ability!"
+	}
+
+	"SpamHuman2"
+	{
+		"jp"			"Your rock spammer ability failed to activate. Try again."
+	}
+
+	"SpamHuman3"
+	{
+		"jp"			"You already activated your rock spammer ability."
+	}
+
+	"SpamHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your rock spammer ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"SpamHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your rock spammer ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"SpamMenu"
+	{
+		"jp"			"Spam Ability Information"
+	}
+
+	"SpamMenu2"
+	{
+		"jp"			"Spam Ability"
+	}
+
+	"Splash"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は近くの生存者に対してダメージを与え始めた！"
+	}
+
+	"Splash2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} はダメージを与えなくなった！"
+	}
+
+	"SplashAmmo"
+	{
+		"jp"			"You've used up all your splash ability's ammo."
+	}
+
+	"SplashDetails"
+	{
+		"jp"			"You constantly deal splash damage to nearby survivors."
+	}
+
+	"SplashHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your splash ability!"
+	}
+
+	"SplashHuman2"
+	{
+		"jp"			"Your splash ability failed to activate. Try again."
+	}
+
+	"SplashHuman3"
+	{
+		"jp"			"You already activated your splash ability."
+	}
+
+	"SplashHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your splash ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"SplashHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your splash ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"SplashMenu"
+	{
+		"jp"			"Splash Ability Information"
+	}
+
+	"SplashMenu2"
+	{
+		"jp"			"Splash Ability"
+	}
+
+	"Splatter"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} に画面エフェクトを掛けた！"
+	}
+
+	"Splatter2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} の画面エフェクトが元に戻った{mint}！"
+	}
+
+	"SplatterAmmo"
+	{
+		"jp"			"You've used up all your splatter ability's ammo."
+	}
+
+	"SplatterDetails"
+	{
+		"jp"			"You splatter the survivors' screens."
+	}
+
+	"SplatterHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your splatter ability!"
+	}
+
+	"SplatterHuman2"
+	{
+		"jp"			"Your splatter ability failed to activate. Try again."
+	}
+
+	"SplatterHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your splatter ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"SplatterHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your splatter ability on."
+	}
+
+	"SplatterHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your splatter ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"SplatterMenu"
+	{
+		"jp"			"Splatter Ability Information"
+	}
+
+	"SplatterMenu2"
+	{
+		"jp"			"Splatter Ability"
+	}
+
+	"Throw"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は車を投げた！"
+	}
+
+	"Throw2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow} 特殊感染者{mint}を投げた！"
+	}
+
+	"Throw3"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は自分を投げた！"
+	}
+
+	"Throw4"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} はウィッチを投げた！"
+	}
+
+	"ThrowAmmo"
+	{
+		"jp"			"You've used up all your throw ability's ammo."
+	}
+
+	"ThrowDetails"
+	{
+		"jp"			"You throw cars, special infected, Witches, or yourself."
+	}
+
+	"ThrowHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your throw ability!"
+	}
+
+	"ThrowHuman2"
+	{
+		"jp"			"You already activated your throw ability."
+	}
+
+	"ThrowHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your throw ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"ThrowHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your throw ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"ThrowMenu"
+	{
+		"jp"			"Throw Ability Information"
+	}
+
+	"ThrowMenu2"
+	{
+		"jp"			"Throw Ability"
+	}
+
+	"Track"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の岩は生存者を{yellow}追跡{mint}し始めた！"
+	}
+
+	"TrackAmmo"
+	{
+		"jp"			"You've used up all your track ability's ammo."
+	}
+
+	"TrackDetails"
+	{
+		"jp"			"You throw heat-seeking rocks that will track down the nearest survivors."
+	}
+
+	"TrackHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your track ability!"
+	}
+
+	"TrackHuman2"
+	{
+		"jp"			"You already activated your track ability."
+	}
+
+	"TrackHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your track ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"TrackHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your track ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"TrackMenu"
+	{
+		"jp"			"Track Ability Information"
+	}
+
+	"TrackMenu2"
+	{
+		"jp"			"Track Ability"
+	}
+
+	"Ultimate"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} がアルティメットモードを起動！"
+	}
+
+	"Ultimate2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} がアルティメットモードを停止！"
+	}
+
+	"Ultimate3"
+	{
+		"#format"		"{1:.2f},{2:.2f}"
+		"jp"			"You have dealt{yellow} {1}{mint}/{yellow}{2}{mint} damage to the survivors to unlock ultimate mode."
+	}
+
+	"Ultimate4"
+	{
+		"jp"			"You may now use ultimate mode!"
+	}
+
+	"UltimateAmmo"
+	{
+		"jp"			"You've used up all your ultimate ability's ammo."
+	}
+
+	"UltimateDetails"
+	{
+		"jp"			"You activate ultimate mode when low on health to gain temporary god mode and damage boost."
+	}
+
+	"UltimateHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your ultimate ability!"
+	}
+
+	"UltimateHuman2"
+	{
+		"jp"			"Your ultimate ability isn't ready yet."
+	}
+
+	"UltimateHuman3"
+	{
+		"jp"			"You already activated your ultimate ability."
+	}
+
+	"UltimateHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your ultimate ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"UltimateHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your ultimate ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"UltimateMenu"
+	{
+		"jp"			"Ultimate Ability Information"
+	}
+
+	"UltimateMenu2"
+	{
+		"jp"			"Ultimate Ability"
+	}
+
+	"Undead"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} の寿命が伸びた！"
+	}
+
+	"Undead2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} のHPが完全回復した！"
+	}
+
+	"UndeadAmmo"
+	{
+		"jp"			"You've used up all your undead ability's ammo."
+	}
+
+	"UndeadDetails"
+	{
+		"jp"			"You cannot die."
+	}
+
+	"UndeadHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your undead ability!"
+	}
+
+	"UndeadHuman2"
+	{
+		"jp"			"Your undead ability failed to activate. Try again."
+	}
+
+	"UndeadHuman3"
+	{
+		"jp"			"You already activated your undead ability."
+	}
+
+	"UndeadHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your undead ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"UndeadHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your undead ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"UndeadMenu"
+	{
+		"jp"			"Undead Ability Information"
+	}
+
+	"UndeadMenu2"
+	{
+		"jp"			"Undead Ability"
+	}
+
+	"Vampire"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint}からHPを盗んだ！"
+	}
+
+	"VampireDetails"
+	{
+		"jp"			"You gain health from hurting survivors."
+	}
+
+	"VampireMenu"
+	{
+		"jp"			"Vampire Ability Information"
+	}
+
+	"VampireMenu2"
+	{
+		"jp"			"Vampire Ability"
+	}
+
+	"Vision"
+	{
+		"#format"		"{1:t},{2:N},{3:i}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の視野角を{yellow} {3}{mint} に変更した！"
+	}
+
+	"Vision2"
+	{
+		"#format"		"{1:N},{2:i}"
+		"jp"			"{olive}{1}{mint} の視野角が{yellow} {2}{mint} に戻った！"
+	}
+
+	"VisionAmmo"
+	{
+		"jp"			"You've used up all your visual range ability's ammo."
+	}
+
+	"VisionDetails"
+	{
+		"jp"			"You change the survivors' field of view."
+	}
+
+	"VisionHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your visual ability!"
+	}
+
+	"VisionHuman2"
+	{
+		"jp"			"Your visual ability failed to activate. Try again."
+	}
+
+	"VisionHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your visual ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"VisionHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your visual ability on."
+	}
+
+	"VisionHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your visual ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"VisionMenu"
+	{
+		"jp"			"Vision Ability Information"
+	}
+
+	"VisionMenu2"
+	{
+		"jp"			"Vision Ability"
+	}
+
+	"Warp"
+	{
+		"#format"		"{1:t},{2:N},{3:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} を{olive} {3}{mint} にテレポートさせた！"
+	}
+
+	"Warp2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は定期的に生存者にテレポートする！"
+	}
+
+	"Warp3"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} にテレポートした！"
+	}
+
+	"Warp4"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow} 岩の位置{mint} と場所を交代した。"
+	}
+
+	"WarpAmmo"
+	{
+		"jp"			"You've used up all your periodical warping ability's ammo."
+	}
+
+	"WarpAmmo2"
+	{
+		"jp"			"You've used up all your warp range ability's ammo."
+	}
+
+	"WarpDetails"
+	{
+		"jp"			"You warp to survivors and warp survivors to random teammates."
+	}
+
+	"WarpHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your periodical warping ability!"
+	}
+
+	"WarpHuman2"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your warp ability!"
+	}
+
+	"WarpHuman3"
+	{
+		"jp"			"Your warp ability failed to activate. Try again."
+	}
+
+	"WarpHuman4"
+	{
+		"jp"			"You already activated your periodical warping ability."
+	}
+
+	"WarpHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your periodical warping ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"WarpHuman6"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your warp ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"WarpHuman7"
+	{
+		"jp"			"There are no survivors nearby to use your warp ability on."
+	}
+
+	"WarpHuman8"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your periodical warping ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"WarpHuman9"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your warp ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"WarpMenu"
+	{
+		"jp"			"Warp Ability Information"
+	}
+
+	"WarpMenu2"
+	{
+		"jp"			"Warp Ability"
+	}
+
+	"Whirl"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} は{olive} {2}{mint} の視界を高速回転させている！"
+	}
+
+	"Whirl2"
+	{
+		"#format"		"{1:N}"
+		"jp"			"{olive}{1}{mint} は元に戻った！"
+	}
+
+	"WhirlAmmo"
+	{
+		"jp"			"You've used up all your whirl range ability's ammo."
+	}
+
+	"WhirlDetails"
+	{
+		"jp"			"You make survivors' screens whirl."
+	}
+
+	"WhirlHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your whirl ability!"
+	}
+
+	"WhirlHuman2"
+	{
+		"jp"			"Your whirl ability failed to activate. Try again."
+	}
+
+	"WhirlHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your whirl ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"WhirlHuman4"
+	{
+		"jp"			"There are no survivors nearby to use your whirl ability on."
+	}
+
+	"WhirlHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your whirl ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"WhirlMenu"
+	{
+		"jp"			"Whirl Ability Information"
+	}
+
+	"WhirlMenu2"
+	{
+		"jp"			"Whirl Ability"
+	}
+
+	"Witch"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は通常感染者を{olive}ウィッチ{mint}に変換した！"
+	}
+
+	"WitchAmmo"
+	{
+		"jp"			"You've used up all your witch spawner ability's ammo."
+	}
+
+	"WitchDetails"
+	{
+		"jp"			"You convert nearby common infected into Witch minions."
+	}
+
+	"WitchHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your witch spawner ability!"
+	}
+
+	"WitchHuman2"
+	{
+		"jp"			"Your witch spawner ability failed to activate. Try again."
+	}
+
+	"WitchHuman3"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your witch spawner ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"WitchHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your witch spawner ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"WitchMenu"
+	{
+		"jp"			"Witch Ability Information"
+	}
+
+	"WitchMenu2"
+	{
+		"jp"			"Witch Ability"
+	}
+
+	"Xiphos"
+	{
+		"#format"		"{1:t},{2:N}"
+		"jp"			"{olive}{1}{mint} はHPを{olive} {2}{mint} から盗んだ！"
+	}
+
+	"Xiphos2"
+	{
+		"#format"		"{1:N},{2:t}"
+		"jp"			"{olive}{1}{mint} はHPを{olive} {2}{mint} から盗んだ！"
+	}
+
+	"XiphosDetails"
+	{
+		"jp"			"You can steal health from survivors and vice-versa."
+	}
+
+	"XiphosMenu"
+	{
+		"jp"			"Xiphos Ability Information"
+	}
+
+	"XiphosMenu2"
+	{
+		"jp"			"Xiphos Ability"
+	}
+
+	"Yell"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は生存者を威嚇した！"
+	}
+
+	"Yell2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は威嚇するのをやめた！"
+	}
+
+	"YellAmmo"
+	{
+		"jp"			"You've used up all your yell ability's ammo."
+	}
+
+	"YellDetails"
+	{
+		"jp"			"You yell to deafen survivors."
+	}
+
+	"YellHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your yell ability!"
+	}
+
+	"YellHuman2"
+	{
+		"jp"			"Your yell ability failed to activate. Try again."
+	}
+
+	"YellHuman3"
+	{
+		"jp"			"You already activated your yell ability."
+	}
+
+	"YellHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your yell ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"YellHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your yell ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"YellMenu"
+	{
+		"jp"			"Yell Ability Information"
+	}
+
+	"YellMenu2"
+	{
+		"jp"			"Yell Ability"
+	}
+
+	"Zombie"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は定期的にゾンビを召喚する！"
+	}
+
+	"Zombie2"
+	{
+		"#format"		"{1:t}"
+		"jp"			"{olive}{1}{mint} は{yellow}ゾンビ{mint}を召喚した！"
+	}
+
+	"ZombieAmmo"
+	{
+		"jp"			"You've used up all your zombie spawner ability's ammo."
+	}
+
+	"ZombieDetails"
+	{
+		"jp"			"You spawn zombies."
+	}
+
+	"ZombieHuman"
+	{
+		"#format"		"{1:i},{2:i}"
+		"jp"			"You activated{olive} {1}{mint}/{olive}{2}{mint} of your zombie spawner ability!"
+	}
+
+	"ZombieHuman2"
+	{
+		"jp"			"Your zombie spawner ability failed to activate. Try again."
+	}
+
+	"ZombieHuman3"
+	{
+		"jp"			"You already activated your zombie spawner ability."
+	}
+
+	"ZombieHuman4"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your zombie spawner ability still needs another{yellow} {1} second(s){mint} to recharge."
+	}
+
+	"ZombieHuman5"
+	{
+		"#format"		"{1:i}"
+		"jp"			"Your zombie spawner ability ended and needs to recharge for{yellow} {1} second(s){mint}."
+	}
+
+	"ZombieMenu"
+	{
+		"jp"			"Zombie Ability Information"
+	}
+
+	"ZombieMenu2"
+	{
+		"jp"			"Zombie Ability"
+	}
+}
