@@ -394,7 +394,7 @@
 	"Arrival1"
 	{
 		"#format"		"{1:t}"
-		"jp"			"{olive}{1}{default} が出現しました！"
+		"jp"			"{olive}{1}{default} が出現した！"
 	}
 
 	"Arrival2"
@@ -484,7 +484,7 @@
 	"Assist6"
 	{
 		"#format"		"{1:t},{2:s}"
-		"jp"			"{olive} {1}{default} は生存者を殺しそこねました！{yellow} MVP:{mint} {2}"
+		"jp"			"{olive} {1}{default} は生存者を殺しそこねた！{yellow} MVP:{mint} {2}"
 	}
 
 	"Assist7"
@@ -616,7 +616,7 @@
 	"Death6"
 	{
 		"#format"		"{1:t}"
-		"jp"			"{olive} {1}{default} は生存者を殺しそこねました！"
+		"jp"			"{olive} {1}{default} は生存者を殺しそこねた！"
 	}
 
 	"Death7"
@@ -2208,7 +2208,7 @@
 	"Car2"
 	{
 		"#format"		"{1:t}"
-		"jp"			"{olive}{1} の{mint}車の雨が止んだ！"
+		"jp"			"{olive}{1} {mint}の車の雨が止んだ！"
 	}
 
 	"CarAmmo"
